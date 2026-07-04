@@ -1,0 +1,12 @@
+name = "daily-english-10-content"
+main = "worker.js"
+compatibility_date = "2026-01-01"
+
+# 選配:KV 快取(建立後取消註解並填入 id)
+# [[kv_namespaces]]
+# binding = "CACHE"
+# id = "<your-kv-namespace-id>"
+
+# 模型可用環境變數覆寫(預設 claude-sonnet-5)
+# [vars]
+# MODEL = "claude-haiku-4-5-20251001"

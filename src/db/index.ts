@@ -36,6 +36,12 @@ export function initDb(): void {
       words_saved INTEGER NOT NULL DEFAULT 0
     );
 
+    CREATE TABLE IF NOT EXISTS article_cache (
+      date TEXT PRIMARY KEY,
+      article_id TEXT NOT NULL,
+      json TEXT NOT NULL
+    );
+
     CREATE INDEX IF NOT EXISTS idx_vocab_next_review ON vocab(next_review);
     CREATE INDEX IF NOT EXISTS idx_vocab_word ON vocab(word);
   `);

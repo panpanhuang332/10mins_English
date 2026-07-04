@@ -30,8 +30,8 @@ export default function TodayScreen() {
 
   useEffect(() => {
     if (!ready) return;
-    getTodayArticle(settings.level).then(setArticle).catch(console.warn);
-  }, [ready, settings.level]);
+    getTodayArticle(settings.level, settings.topics).then(setArticle).catch(console.warn);
+  }, [ready, settings.level, settings.topics]);
 
   useFocusEffect(
     useCallback(() => {

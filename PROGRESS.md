@@ -36,6 +36,12 @@
 - [x] [C-T2] 離線字典(涵蓋種子文章 100% 用字)
 - [x] [C-T3] 內容驗證腳本(schema / 字數 / 字典覆蓋率)
 
-## Milestone 3 — AI 動態內容(選配,未開始)
+## Milestone 3 — AI 動態內容(選配)
+
+- [x] [M3-T1] content-gen-prompt.md(生成用 prompt 規格)
+- [x] [M3-T2] serverless proxy(server/,Cloudflare Worker,金鑰不進前端)
+- [x] [M3-T3] App 端遠端取文 + 結構驗證 + SQLite 快取(離線可重讀)
+- [x] [M3-T4] 取文順序:快取 → 自家 endpoint(依 level/topic)→ 種子 fallback
+- [ ] [M3-驗收] 部署 Worker 並在 app.json 填入 contentEndpoint 後,App 可取得新文章(程式完成,待 Eric 部署與真機驗證)
 
 ## Milestone 4 — 上架準備(選配,未開始)

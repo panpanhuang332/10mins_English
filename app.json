@@ -22,6 +22,9 @@
       "expo-sqlite",
       "expo-notifications"
     ],
+    "extra": {
+      "contentEndpoint": ""
+    },
     "experiments": {
       "typedRoutes": false,
       "tsconfigPaths": true

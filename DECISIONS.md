@@ -54,3 +54,15 @@ PLAN §8 的檔案結構以 `daily-english-10/` 為根;本 repo 即為專案專�
 ## D12. web 平台的 SQLite stub
 
 `expo-sqlite` 的 web 支援需要額外的 wasm/metro 設定,且本產品目標平台是 iOS/Android(§1)。故以 platform-specific module(`src/db/adapter.web.ts`)在 web 提供空操作 stub:web 僅作 UI 預覽/打包驗證用,資料功能在原生平台完整運作。
+
+## D13. M3 endpoint 設定位置
+
+自家 proxy 的 URL 放在 `app.json → expo.extra.contentEndpoint`(build 時期常數,經 `expo-constants` 讀取),預設空字串 = 純離線模式。不做使用者可見的 URL 設定欄位,避免誤設;Eric 部署 Worker 後填入即可。
+
+## D14. AI 文章快取表
+
+新增 `article_cache (date PRIMARY KEY, article_id, json)`:整篇 Article 以 JSON 字串存放,讀取時經 `articleValidate` 再驗證一次,壞資料自動視為未快取。取文順序:當日快取 → 遠端 endpoint(依偏好主題輪替)→ 種子內容 fallback,App 離線永遠可用。
+
+## D15. Proxy 平台選 Cloudflare Workers
+
+§6.2 建議 Cloudflare Workers / Vercel Function 擇一;選 Workers 因免費額度足夠每日生成用量、單檔零依賴可直接 `wrangler deploy`、且內建 KV 可做同日快取。程式碼在 `server/`,金鑰以 `wrangler secret` 注入,絕不進 repo 與前端。
