@@ -1,3 +1,6734 @@
 {
-  "placeholder": { "phonetic": "/ˈpleɪshoʊldər/", "pos": "n.", "zh": "佔位符", "example": "This is a placeholder." }
+ "a": {
+  "phonetic": "/ə/",
+  "pos": "det.",
+  "zh": "一個",
+  "example": "I have a cat."
+ },
+ "about": {
+  "phonetic": "/əˈbaʊt/",
+  "pos": "prep.",
+  "zh": "關於",
+  "example": "Tell me about your day."
+ },
+ "afraid": {
+  "phonetic": "/əˈfreɪd/",
+  "pos": "adj.",
+  "zh": "害怕的",
+  "example": "She is afraid of dogs."
+ },
+ "after": {
+  "phonetic": "/ˈæftɚ/",
+  "pos": "prep.",
+  "zh": "在…之後",
+  "example": "We rest after lunch."
+ },
+ "afternoon": {
+  "phonetic": "/ˌæftɚˈnuːn/",
+  "pos": "n.",
+  "zh": "下午",
+  "example": "See you this afternoon."
+ },
+ "ago": {
+  "phonetic": "/əˈɡoʊ/",
+  "pos": "adv.",
+  "zh": "以前；…之前",
+  "example": "He left two years ago."
+ },
+ "air": {
+  "phonetic": "/ɛr/",
+  "pos": "n.",
+  "zh": "空氣",
+  "example": "The air is fresh here."
+ },
+ "all": {
+  "phonetic": "/ɔːl/",
+  "pos": "det.",
+  "zh": "全部的；整個",
+  "example": "He sits all day."
+ },
+ "also": {
+  "phonetic": "/ˈɔːlsoʊ/",
+  "pos": "adv.",
+  "zh": "也",
+  "example": "She also likes tea."
+ },
+ "always": {
+  "phonetic": "/ˈɔːlweɪz/",
+  "pos": "adv.",
+  "zh": "總是",
+  "example": "He always smiles."
+ },
+ "an": {
+  "phonetic": "/ən/",
+  "pos": "det.",
+  "zh": "一個（用於母音前）",
+  "example": "She ate an egg."
+ },
+ "and": {
+  "phonetic": "/ænd/",
+  "pos": "conj.",
+  "zh": "和；而且",
+  "example": "I like tea and milk."
+ },
+ "anna": {
+  "phonetic": "/ˈænə/",
+  "pos": "n.",
+  "zh": "安娜（人名）",
+  "example": "Anna is my friend."
+ },
+ "anyone": {
+  "phonetic": "/ˈɛniˌwʌn/",
+  "pos": "pron.",
+  "zh": "任何人",
+  "example": "Anyone can learn this."
+ },
+ "anything": {
+  "phonetic": "/ˈɛniˌθɪŋ/",
+  "pos": "pron.",
+  "zh": "任何事物",
+  "example": "Did you buy anything?"
+ },
+ "anyway": {
+  "phonetic": "/ˈɛniˌweɪ/",
+  "pos": "adv.",
+  "zh": "無論如何；還是",
+  "example": "He tried it anyway."
+ },
+ "app": {
+  "phonetic": "/æp/",
+  "pos": "n.",
+  "zh": "應用程式",
+  "example": "This app is free."
+ },
+ "arm": {
+  "phonetic": "/ɑːrm/",
+  "pos": "n.",
+  "zh": "手臂",
+  "example": "He raised his arm."
+ },
+ "ask": {
+  "phonetic": "/æsk/",
+  "pos": "v.",
+  "zh": "問；詢問",
+  "example": "Can I ask a question?"
+ },
+ "at": {
+  "phonetic": "/æt/",
+  "pos": "prep.",
+  "zh": "在（時間、地點）",
+  "example": "Meet me at six."
+ },
+ "away": {
+  "phonetic": "/əˈweɪ/",
+  "pos": "adv.",
+  "zh": "離開；遠處",
+  "example": "The bird flew away."
+ },
+ "back": {
+  "phonetic": "/bæk/",
+  "pos": "n.",
+  "zh": "背部",
+  "example": "My back hurts today."
+ },
+ "bag": {
+  "phonetic": "/bæɡ/",
+  "pos": "n.",
+  "zh": "袋子；包包",
+  "example": "The bag is heavy."
+ },
+ "ball": {
+  "phonetic": "/bɔːl/",
+  "pos": "n.",
+  "zh": "球；球狀物",
+  "example": "He threw the ball."
+ },
+ "be": {
+  "phonetic": "/biː/",
+  "pos": "v.",
+  "zh": "是；成為",
+  "example": "I want to be a teacher."
+ },
+ "beautiful": {
+  "phonetic": "/ˈbjuːtɪfəl/",
+  "pos": "adj.",
+  "zh": "美麗的",
+  "example": "What a beautiful day!"
+ },
+ "because": {
+  "phonetic": "/bɪˈkɔːz/",
+  "pos": "conj.",
+  "zh": "因為",
+  "example": "I stayed home because it rained."
+ },
+ "become": {
+  "phonetic": "/bɪˈkʌm/",
+  "pos": "v.",
+  "zh": "變成；成為",
+  "example": "He became a doctor."
+ },
+ "before": {
+  "phonetic": "/bɪˈfɔːr/",
+  "pos": "prep.",
+  "zh": "在…之前",
+  "example": "Wash your hands before dinner."
+ },
+ "belong": {
+  "phonetic": "/bɪˈlɔːŋ/",
+  "pos": "v.",
+  "zh": "屬於",
+  "example": "This book belongs to me."
+ },
+ "better": {
+  "phonetic": "/ˈbɛtɚ/",
+  "pos": "adj.",
+  "zh": "更好的；更好地",
+  "example": "I feel better today."
+ },
+ "between": {
+  "phonetic": "/bɪˈtwiːn/",
+  "pos": "prep.",
+  "zh": "在…之間",
+  "example": "Sit between us."
+ },
+ "big": {
+  "phonetic": "/bɪɡ/",
+  "pos": "adj.",
+  "zh": "大的",
+  "example": "That is a big tree."
+ },
+ "bird": {
+  "phonetic": "/bɝːd/",
+  "pos": "n.",
+  "zh": "鳥",
+  "example": "The bird sings every morning."
+ },
+ "birthday": {
+  "phonetic": "/ˈbɝːθdeɪ/",
+  "pos": "n.",
+  "zh": "生日",
+  "example": "Happy birthday!"
+ },
+ "blue": {
+  "phonetic": "/bluː/",
+  "pos": "adj.",
+  "zh": "藍色的",
+  "example": "The sky is blue."
+ },
+ "body": {
+  "phonetic": "/ˈbɑːdi/",
+  "pos": "n.",
+  "zh": "身體",
+  "example": "Exercise keeps your body strong."
+ },
+ "book": {
+  "phonetic": "/bʊk/",
+  "pos": "n.",
+  "zh": "書",
+  "example": "I read a book at night."
+ },
+ "both": {
+  "phonetic": "/boʊθ/",
+  "pos": "det.",
+  "zh": "兩者都",
+  "example": "Both sides are green."
+ },
+ "bread": {
+  "phonetic": "/brɛd/",
+  "pos": "n.",
+  "zh": "麵包",
+  "example": "I eat bread for breakfast."
+ },
+ "breakfast": {
+  "phonetic": "/ˈbrɛkfəst/",
+  "pos": "n.",
+  "zh": "早餐",
+  "example": "Breakfast is ready."
+ },
+ "bridge": {
+  "phonetic": "/brɪdʒ/",
+  "pos": "n.",
+  "zh": "橋；橋樑",
+  "example": "We walked across the bridge."
+ },
+ "bright": {
+  "phonetic": "/braɪt/",
+  "pos": "adj.",
+  "zh": "明亮的；有神采的",
+  "example": "The sun is bright today."
+ },
+ "brother": {
+  "phonetic": "/ˈbrʌðɚ/",
+  "pos": "n.",
+  "zh": "兄弟",
+  "example": "My brother is ten years old."
+ },
+ "bubble": {
+  "phonetic": "/ˈbʌbəl/",
+  "pos": "n.",
+  "zh": "泡泡；（珍珠奶茶的）珍珠",
+  "example": "Bubble tea is very sweet."
+ },
+ "but": {
+  "phonetic": "/bʌt/",
+  "pos": "conj.",
+  "zh": "但是",
+  "example": "It is small but strong."
+ },
+ "butterfly": {
+  "phonetic": "/ˈbʌtɚflaɪ/",
+  "pos": "n.",
+  "zh": "蝴蝶",
+  "example": "A butterfly landed on the flower."
+ },
+ "by": {
+  "phonetic": "/baɪ/",
+  "pos": "prep.",
+  "zh": "在…旁邊；藉由",
+  "example": "Sit by the window."
+ },
+ "call": {
+  "phonetic": "/kɔːl/",
+  "pos": "v.",
+  "zh": "打電話；呼叫",
+  "example": "Call me tonight."
+ },
+ "calm": {
+  "phonetic": "/kɑːm/",
+  "pos": "adj.",
+  "zh": "平靜的",
+  "example": "Please stay calm."
+ },
+ "can": {
+  "phonetic": "/kæn/",
+  "pos": "v.",
+  "zh": "能；可以",
+  "example": "You can do it."
+ },
+ "canada": {
+  "phonetic": "/ˈkænədə/",
+  "pos": "n.",
+  "zh": "加拿大",
+  "example": "She is from Canada."
+ },
+ "change": {
+  "phonetic": "/tʃeɪndʒ/",
+  "pos": "v.",
+  "zh": "改變；（n.）改變",
+  "example": "Small habits can change your life."
+ },
+ "cheap": {
+  "phonetic": "/tʃiːp/",
+  "pos": "adj.",
+  "zh": "便宜的",
+  "example": "The food there is cheap."
+ },
+ "chicken": {
+  "phonetic": "/ˈtʃɪkɪn/",
+  "pos": "n.",
+  "zh": "雞肉；雞",
+  "example": "Fried chicken is popular."
+ },
+ "city": {
+  "phonetic": "/ˈsɪti/",
+  "pos": "n.",
+  "zh": "城市",
+  "example": "Taipei is a big city."
+ },
+ "clean": {
+  "phonetic": "/kliːn/",
+  "pos": "adj.",
+  "zh": "乾淨的",
+  "example": "The mountain air is clean."
+ },
+ "clothes": {
+  "phonetic": "/kloʊðz/",
+  "pos": "n.",
+  "zh": "衣服",
+  "example": "She bought new clothes."
+ },
+ "coffee": {
+  "phonetic": "/ˈkɔːfi/",
+  "pos": "n.",
+  "zh": "咖啡",
+  "example": "I drink a cup of coffee."
+ },
+ "come": {
+  "phonetic": "/kʌm/",
+  "pos": "v.",
+  "zh": "來；來自",
+  "example": "Come here, please."
+ },
+ "cook": {
+  "phonetic": "/kʊk/",
+  "pos": "v.",
+  "zh": "煮；烹飪",
+  "example": "I cook dinner every day."
+ },
+ "cool": {
+  "phonetic": "/kuːl/",
+  "pos": "adj.",
+  "zh": "涼爽的",
+  "example": "The wind is cool tonight."
+ },
+ "could": {
+  "phonetic": "/kʊd/",
+  "pos": "v.",
+  "zh": "能夠（can 的過去式）",
+  "example": "We could see the sea."
+ },
+ "culture": {
+  "phonetic": "/ˈkʌltʃɚ/",
+  "pos": "n.",
+  "zh": "文化",
+  "example": "I love Taiwanese culture."
+ },
+ "cup": {
+  "phonetic": "/kʌp/",
+  "pos": "n.",
+  "zh": "杯子；一杯",
+  "example": "A cup of tea, please."
+ },
+ "day": {
+  "phonetic": "/deɪ/",
+  "pos": "n.",
+  "zh": "日子；一天；白天",
+  "example": "Have a nice day."
+ },
+ "delicious": {
+  "phonetic": "/dɪˈlɪʃəs/",
+  "pos": "adj.",
+  "zh": "美味的",
+  "example": "The soup is delicious."
+ },
+ "difference": {
+  "phonetic": "/ˈdɪfərəns/",
+  "pos": "n.",
+  "zh": "差別；不同",
+  "example": "It makes a big difference."
+ },
+ "dinner": {
+  "phonetic": "/ˈdɪnɚ/",
+  "pos": "n.",
+  "zh": "晚餐",
+  "example": "Dinner is at seven."
+ },
+ "do": {
+  "phonetic": "/duː/",
+  "pos": "v.",
+  "zh": "做",
+  "example": "What do you do on Sundays?"
+ },
+ "doctor": {
+  "phonetic": "/ˈdɑːktɚ/",
+  "pos": "n.",
+  "zh": "醫生",
+  "example": "You should see a doctor."
+ },
+ "door": {
+  "phonetic": "/dɔːr/",
+  "pos": "n.",
+  "zh": "門；門口",
+  "example": "Please open the door."
+ },
+ "drink": {
+  "phonetic": "/drɪŋk/",
+  "pos": "v.",
+  "zh": "喝",
+  "example": "Drink more water."
+ },
+ "duck": {
+  "phonetic": "/dʌk/",
+  "pos": "n.",
+  "zh": "鴨子",
+  "example": "The little duck is yellow."
+ },
+ "each": {
+  "phonetic": "/iːtʃ/",
+  "pos": "det.",
+  "zh": "每個",
+  "example": "Walk after each meal."
+ },
+ "early": {
+  "phonetic": "/ˈɝːli/",
+  "pos": "adv.",
+  "zh": "早；提早",
+  "example": "I get up early every day."
+ },
+ "easy": {
+  "phonetic": "/ˈiːzi/",
+  "pos": "adj.",
+  "zh": "容易的；輕鬆的",
+  "example": "The test was easy."
+ },
+ "eat": {
+  "phonetic": "/iːt/",
+  "pos": "v.",
+  "zh": "吃",
+  "example": "Let's eat lunch together."
+ },
+ "egg": {
+  "phonetic": "/ɛɡ/",
+  "pos": "n.",
+  "zh": "蛋",
+  "example": "I ate an egg this morning."
+ },
+ "eight": {
+  "phonetic": "/eɪt/",
+  "pos": "det.",
+  "zh": "八",
+  "example": "The shop opens at eight."
+ },
+ "end": {
+  "phonetic": "/ɛnd/",
+  "pos": "n.",
+  "zh": "結束；盡頭",
+  "example": "We left at the end of the day."
+ },
+ "energy": {
+  "phonetic": "/ˈɛnɚdʒi/",
+  "pos": "n.",
+  "zh": "活力；能量",
+  "example": "Children have a lot of energy."
+ },
+ "enjoy": {
+  "phonetic": "/ɪnˈdʒɔɪ/",
+  "pos": "v.",
+  "zh": "享受；喜愛",
+  "example": "Enjoy your meal."
+ },
+ "even": {
+  "phonetic": "/ˈiːvən/",
+  "pos": "adv.",
+  "zh": "甚至",
+  "example": "He even joined a club."
+ },
+ "evening": {
+  "phonetic": "/ˈiːvnɪŋ/",
+  "pos": "n.",
+  "zh": "傍晚；晚上",
+  "example": "Good evening, everyone."
+ },
+ "every": {
+  "phonetic": "/ˈɛvri/",
+  "pos": "det.",
+  "zh": "每個",
+  "example": "I walk every day."
+ },
+ "everyone": {
+  "phonetic": "/ˈɛvriwʌn/",
+  "pos": "pron.",
+  "zh": "每個人",
+  "example": "Everyone is here now."
+ },
+ "everything": {
+  "phonetic": "/ˈɛvriθɪŋ/",
+  "pos": "pron.",
+  "zh": "每件事；一切",
+  "example": "Everything is fine."
+ },
+ "everywhere": {
+  "phonetic": "/ˈɛvriwɛr/",
+  "pos": "adv.",
+  "zh": "到處",
+  "example": "There were birds everywhere."
+ },
+ "example": {
+  "phonetic": "/ɪɡˈzæmpəl/",
+  "pos": "n.",
+  "zh": "例子",
+  "example": "Please give me an example."
+ },
+ "exercise": {
+  "phonetic": "/ˈɛksɚsaɪz/",
+  "pos": "n.",
+  "zh": "運動",
+  "example": "Exercise is good for you."
+ },
+ "face": {
+  "phonetic": "/feɪs/",
+  "pos": "n.",
+  "zh": "臉",
+  "example": "Wash your face first."
+ },
+ "family": {
+  "phonetic": "/ˈfæməli/",
+  "pos": "n.",
+  "zh": "家庭；家人",
+  "example": "My family is big."
+ },
+ "famous": {
+  "phonetic": "/ˈfeɪməs/",
+  "pos": "adj.",
+  "zh": "有名的",
+  "example": "This night market is famous."
+ },
+ "far": {
+  "phonetic": "/fɑːr/",
+  "pos": "adv.",
+  "zh": "遠",
+  "example": "The sea is far away."
+ },
+ "father": {
+  "phonetic": "/ˈfɑːðɚ/",
+  "pos": "n.",
+  "zh": "父親",
+  "example": "My father works hard."
+ },
+ "feel": {
+  "phonetic": "/fiːl/",
+  "pos": "v.",
+  "zh": "感覺；覺得",
+  "example": "I feel happy today."
+ },
+ "few": {
+  "phonetic": "/fjuː/",
+  "pos": "det.",
+  "zh": "少數的；幾個",
+  "example": "I read a few pages."
+ },
+ "find": {
+  "phonetic": "/faɪnd/",
+  "pos": "v.",
+  "zh": "找到；發現",
+  "example": "I found a small flower."
+ },
+ "first": {
+  "phonetic": "/fɝːst/",
+  "pos": "adv.",
+  "zh": "首先；第一",
+  "example": "First, wash your hands."
+ },
+ "fish": {
+  "phonetic": "/fɪʃ/",
+  "pos": "n.",
+  "zh": "魚",
+  "example": "The fish swims in the river."
+ },
+ "five": {
+  "phonetic": "/faɪv/",
+  "pos": "det.",
+  "zh": "五",
+  "example": "I have five books."
+ },
+ "flower": {
+  "phonetic": "/ˈflaʊɚ/",
+  "pos": "n.",
+  "zh": "花",
+  "example": "She found a purple flower."
+ },
+ "fly": {
+  "phonetic": "/flaɪ/",
+  "pos": "v.",
+  "zh": "飛",
+  "example": "Birds fly high in the sky."
+ },
+ "food": {
+  "phonetic": "/fuːd/",
+  "pos": "n.",
+  "zh": "食物",
+  "example": "The food here is delicious."
+ },
+ "for": {
+  "phonetic": "/fɔːr/",
+  "pos": "prep.",
+  "zh": "為了；給；持續",
+  "example": "This gift is for you."
+ },
+ "forest": {
+  "phonetic": "/ˈfɔːrɪst/",
+  "pos": "n.",
+  "zh": "森林",
+  "example": "We walked in the green forest."
+ },
+ "forever": {
+  "phonetic": "/fɚˈɛvɚ/",
+  "pos": "adv.",
+  "zh": "永遠",
+  "example": "I will remember this forever."
+ },
+ "france": {
+  "phonetic": "/fræns/",
+  "pos": "n.",
+  "zh": "法國",
+  "example": "Paris is in France."
+ },
+ "fresh": {
+  "phonetic": "/frɛʃ/",
+  "pos": "adj.",
+  "zh": "新鮮的",
+  "example": "I love fresh air."
+ },
+ "fried": {
+  "phonetic": "/fraɪd/",
+  "pos": "adj.",
+  "zh": "油炸的",
+  "example": "Fried chicken smells good."
+ },
+ "friend": {
+  "phonetic": "/frɛnd/",
+  "pos": "n.",
+  "zh": "朋友",
+  "example": "She is my best friend."
+ },
+ "from": {
+  "phonetic": "/frʌm/",
+  "pos": "prep.",
+  "zh": "從；來自",
+  "example": "I am from Taiwan."
+ },
+ "fruit": {
+  "phonetic": "/fruːt/",
+  "pos": "n.",
+  "zh": "水果",
+  "example": "Eat more fruit every day."
+ },
+ "full": {
+  "phonetic": "/fʊl/",
+  "pos": "adj.",
+  "zh": "充滿的；滿的",
+  "example": "The street was full of people."
+ },
+ "fun": {
+  "phonetic": "/fʌn/",
+  "pos": "adj.",
+  "zh": "有趣的；（n.）樂趣",
+  "example": "The game is fun."
+ },
+ "game": {
+  "phonetic": "/ɡeɪm/",
+  "pos": "n.",
+  "zh": "遊戲",
+  "example": "Let's play a game."
+ },
+ "get": {
+  "phonetic": "/ɡɛt/",
+  "pos": "v.",
+  "zh": "得到；變得；起（床）",
+  "example": "I get up at six."
+ },
+ "giant": {
+  "phonetic": "/ˈdʒaɪənt/",
+  "pos": "n.",
+  "zh": "巨人",
+  "example": "The old tree looks like a giant."
+ },
+ "give": {
+  "phonetic": "/ɡɪv/",
+  "pos": "v.",
+  "zh": "給",
+  "example": "Please give me the book."
+ },
+ "go": {
+  "phonetic": "/ɡoʊ/",
+  "pos": "v.",
+  "zh": "去",
+  "example": "Let's go home now."
+ },
+ "goal": {
+  "phonetic": "/ɡoʊl/",
+  "pos": "n.",
+  "zh": "目標",
+  "example": "Write down your goals."
+ },
+ "good": {
+  "phonetic": "/ɡʊd/",
+  "pos": "adj.",
+  "zh": "好的",
+  "example": "That is a good idea."
+ },
+ "grandma": {
+  "phonetic": "/ˈɡrænmɑː/",
+  "pos": "n.",
+  "zh": "奶奶；外婆（口語）",
+  "example": "Grandma makes great soup."
+ },
+ "grandmother": {
+  "phonetic": "/ˈɡrænmʌðɚ/",
+  "pos": "n.",
+  "zh": "祖母；外婆",
+  "example": "My grandmother is eighty."
+ },
+ "great": {
+  "phonetic": "/ɡreɪt/",
+  "pos": "adj.",
+  "zh": "很棒的",
+  "example": "That sounds great!"
+ },
+ "green": {
+  "phonetic": "/ɡriːn/",
+  "pos": "adj.",
+  "zh": "綠色的",
+  "example": "The leaves are green."
+ },
+ "group": {
+  "phonetic": "/ɡruːp/",
+  "pos": "n.",
+  "zh": "團體；小組",
+  "example": "He joined a walking group."
+ },
+ "habit": {
+  "phonetic": "/ˈhæbɪt/",
+  "pos": "n.",
+  "zh": "習慣",
+  "example": "Good habits help you a lot."
+ },
+ "halfway": {
+  "phonetic": "/ˌhæfˈweɪ/",
+  "pos": "adv.",
+  "zh": "中途；半路",
+  "example": "We rested halfway up the hill."
+ },
+ "happen": {
+  "phonetic": "/ˈhæpən/",
+  "pos": "v.",
+  "zh": "發生",
+  "example": "What happened yesterday?"
+ },
+ "happy": {
+  "phonetic": "/ˈhæpi/",
+  "pos": "adj.",
+  "zh": "快樂的",
+  "example": "I am happy to see you."
+ },
+ "hard": {
+  "phonetic": "/hɑːrd/",
+  "pos": "adj.",
+  "zh": "困難的；辛苦的",
+  "example": "The work is hard."
+ },
+ "have": {
+  "phonetic": "/hæv/",
+  "pos": "v.",
+  "zh": "有",
+  "example": "I have two cats."
+ },
+ "he": {
+  "phonetic": "/hiː/",
+  "pos": "pron.",
+  "zh": "他",
+  "example": "He is my father."
+ },
+ "health": {
+  "phonetic": "/hɛlθ/",
+  "pos": "n.",
+  "zh": "健康",
+  "example": "Walking is good for your health."
+ },
+ "hear": {
+  "phonetic": "/hɪr/",
+  "pos": "v.",
+  "zh": "聽到",
+  "example": "I heard a bird outside."
+ },
+ "heavy": {
+  "phonetic": "/ˈhɛvi/",
+  "pos": "adj.",
+  "zh": "沉重的",
+  "example": "The bag is too heavy."
+ },
+ "help": {
+  "phonetic": "/hɛlp/",
+  "pos": "v.",
+  "zh": "幫助；（n.）幫助",
+  "example": "Can you help me?"
+ },
+ "her": {
+  "phonetic": "/hɝː/",
+  "pos": "pron.",
+  "zh": "她的；她（受格）",
+  "example": "This is her phone."
+ },
+ "hike": {
+  "phonetic": "/haɪk/",
+  "pos": "v.",
+  "zh": "健行；遠足",
+  "example": "We hiked up the mountain."
+ },
+ "him": {
+  "phonetic": "/hɪm/",
+  "pos": "pron.",
+  "zh": "他（受格）",
+  "example": "I told him the news."
+ },
+ "his": {
+  "phonetic": "/hɪz/",
+  "pos": "det.",
+  "zh": "他的",
+  "example": "His car is new."
+ },
+ "home": {
+  "phonetic": "/hoʊm/",
+  "pos": "n.",
+  "zh": "家",
+  "example": "I stayed home all day."
+ },
+ "hope": {
+  "phonetic": "/hoʊp/",
+  "pos": "v.",
+  "zh": "希望",
+  "example": "I hope you are well."
+ },
+ "hour": {
+  "phonetic": "/ˈaʊɚ/",
+  "pos": "n.",
+  "zh": "小時",
+  "example": "The trip takes one hour."
+ },
+ "how": {
+  "phonetic": "/haʊ/",
+  "pos": "adv.",
+  "zh": "如何；怎麼",
+  "example": "How are you today?"
+ },
+ "hurry": {
+  "phonetic": "/ˈhɝːi/",
+  "pos": "v.",
+  "zh": "匆忙；趕",
+  "example": "Please do not hurry."
+ },
+ "hurt": {
+  "phonetic": "/hɝːt/",
+  "pos": "v.",
+  "zh": "疼痛；傷害",
+  "example": "My back hurts a little."
+ },
+ "i": {
+  "phonetic": "/aɪ/",
+  "pos": "pron.",
+  "zh": "我",
+  "example": "I like tea."
+ },
+ "important": {
+  "phonetic": "/ɪmˈpɔːrtənt/",
+  "pos": "adj.",
+  "zh": "重要的",
+  "example": "Health is very important."
+ },
+ "in": {
+  "phonetic": "/ɪn/",
+  "pos": "prep.",
+  "zh": "在…裡面",
+  "example": "The cat is in the box."
+ },
+ "interesting": {
+  "phonetic": "/ˈɪntrəstɪŋ/",
+  "pos": "adj.",
+  "zh": "有趣的",
+  "example": "That is an interesting story."
+ },
+ "internet": {
+  "phonetic": "/ˈɪntɚnɛt/",
+  "pos": "n.",
+  "zh": "網路",
+  "example": "I found it on the internet."
+ },
+ "it": {
+  "phonetic": "/ɪt/",
+  "pos": "pron.",
+  "zh": "它；牠",
+  "example": "It is raining outside."
+ },
+ "japan": {
+  "phonetic": "/dʒəˈpæn/",
+  "pos": "n.",
+  "zh": "日本",
+  "example": "Japan is near Taiwan."
+ },
+ "job": {
+  "phonetic": "/dʒɑːb/",
+  "pos": "n.",
+  "zh": "工作；職業",
+  "example": "She found a new job."
+ },
+ "join": {
+  "phonetic": "/dʒɔɪn/",
+  "pos": "v.",
+  "zh": "加入",
+  "example": "You can join our club."
+ },
+ "juice": {
+  "phonetic": "/dʒuːs/",
+  "pos": "n.",
+  "zh": "果汁",
+  "example": "I like orange juice."
+ },
+ "just": {
+  "phonetic": "/dʒʌst/",
+  "pos": "adv.",
+  "zh": "只是；就；剛好",
+  "example": "It takes just ten minutes."
+ },
+ "keep": {
+  "phonetic": "/kiːp/",
+  "pos": "v.",
+  "zh": "保持",
+  "example": "Keep your room clean."
+ },
+ "know": {
+  "phonetic": "/noʊ/",
+  "pos": "v.",
+  "zh": "知道；認識",
+  "example": "I know the shop owner."
+ },
+ "land": {
+  "phonetic": "/lænd/",
+  "pos": "v.",
+  "zh": "降落；停落",
+  "example": "The butterfly landed on my hand."
+ },
+ "last": {
+  "phonetic": "/læst/",
+  "pos": "det.",
+  "zh": "上一個的；最後的",
+  "example": "Last week was very busy."
+ },
+ "late": {
+  "phonetic": "/leɪt/",
+  "pos": "adv.",
+  "zh": "晚；遲",
+  "example": "He got up late today."
+ },
+ "laugh": {
+  "phonetic": "/læf/",
+  "pos": "v.",
+  "zh": "笑",
+  "example": "We laughed together."
+ },
+ "leaf": {
+  "phonetic": "/liːf/",
+  "pos": "n.",
+  "zh": "葉子",
+  "example": "A green leaf fell down."
+ },
+ "learn": {
+  "phonetic": "/lɝːn/",
+  "pos": "v.",
+  "zh": "學習；學會",
+  "example": "I want to learn English."
+ },
+ "leave": {
+  "phonetic": "/liːv/",
+  "pos": "v.",
+  "zh": "離開；出發",
+  "example": "We left home early."
+ },
+ "less": {
+  "phonetic": "/lɛs/",
+  "pos": "adv.",
+  "zh": "較少",
+  "example": "Work less and rest more."
+ },
+ "life": {
+  "phonetic": "/laɪf/",
+  "pos": "n.",
+  "zh": "生活；生命",
+  "example": "Life in Taiwan is fun."
+ },
+ "light": {
+  "phonetic": "/laɪt/",
+  "pos": "n.",
+  "zh": "燈；光",
+  "example": "The lights are very bright."
+ },
+ "like": {
+  "phonetic": "/laɪk/",
+  "pos": "prep.",
+  "zh": "像；如同；（v.）喜歡",
+  "example": "It looks like a giant."
+ },
+ "listen": {
+  "phonetic": "/ˈlɪsən/",
+  "pos": "v.",
+  "zh": "聽",
+  "example": "Listen to the music."
+ },
+ "little": {
+  "phonetic": "/ˈlɪtəl/",
+  "pos": "adj.",
+  "zh": "小的；一點",
+  "example": "A little bird sat on the tree."
+ },
+ "long": {
+  "phonetic": "/lɔːŋ/",
+  "pos": "adj.",
+  "zh": "長的；長時間的",
+  "example": "It was a long meeting."
+ },
+ "look": {
+  "phonetic": "/lʊk/",
+  "pos": "v.",
+  "zh": "看；看起來",
+  "example": "You look happy today."
+ },
+ "lose": {
+  "phonetic": "/luːz/",
+  "pos": "v.",
+  "zh": "失去；減少",
+  "example": "He lost some weight."
+ },
+ "love": {
+  "phonetic": "/lʌv/",
+  "pos": "v.",
+  "zh": "愛；很喜歡",
+  "example": "I love bubble tea."
+ },
+ "lunch": {
+  "phonetic": "/lʌntʃ/",
+  "pos": "n.",
+  "zh": "午餐",
+  "example": "We ate lunch at noon."
+ },
+ "make": {
+  "phonetic": "/meɪk/",
+  "pos": "v.",
+  "zh": "做；製作；使",
+  "example": "I make tea every morning."
+ },
+ "many": {
+  "phonetic": "/ˈmɛni/",
+  "pos": "det.",
+  "zh": "許多的",
+  "example": "Many people came today."
+ },
+ "market": {
+  "phonetic": "/ˈmɑːrkɪt/",
+  "pos": "n.",
+  "zh": "市場",
+  "example": "The night market is busy."
+ },
+ "maybe": {
+  "phonetic": "/ˈmeɪbi/",
+  "pos": "adv.",
+  "zh": "也許",
+  "example": "Maybe you can try it."
+ },
+ "me": {
+  "phonetic": "/miː/",
+  "pos": "pron.",
+  "zh": "我（受格）",
+  "example": "Please call me later."
+ },
+ "meal": {
+  "phonetic": "/miːl/",
+  "pos": "n.",
+  "zh": "一餐",
+  "example": "Walk after each meal."
+ },
+ "meet": {
+  "phonetic": "/miːt/",
+  "pos": "v.",
+  "zh": "見面；認識",
+  "example": "Nice to meet you."
+ },
+ "meeting": {
+  "phonetic": "/ˈmiːtɪŋ/",
+  "pos": "n.",
+  "zh": "會議",
+  "example": "The meeting was too long."
+ },
+ "message": {
+  "phonetic": "/ˈmɛsɪdʒ/",
+  "pos": "n.",
+  "zh": "訊息",
+  "example": "Send me a message."
+ },
+ "milk": {
+  "phonetic": "/mɪlk/",
+  "pos": "n.",
+  "zh": "牛奶；奶",
+  "example": "The soy milk is warm."
+ },
+ "minute": {
+  "phonetic": "/ˈmɪnɪt/",
+  "pos": "n.",
+  "zh": "分鐘",
+  "example": "Please wait a minute."
+ },
+ "month": {
+  "phonetic": "/mʌnθ/",
+  "pos": "n.",
+  "zh": "月；一個月",
+  "example": "Last month I was busy."
+ },
+ "more": {
+  "phonetic": "/mɔːr/",
+  "pos": "det.",
+  "zh": "更多的；更",
+  "example": "Drink more water."
+ },
+ "morning": {
+  "phonetic": "/ˈmɔːrnɪŋ/",
+  "pos": "n.",
+  "zh": "早晨",
+  "example": "Good morning!"
+ },
+ "most": {
+  "phonetic": "/moʊst/",
+  "pos": "adv.",
+  "zh": "最",
+  "example": "I love this song the most."
+ },
+ "mother": {
+  "phonetic": "/ˈmʌðɚ/",
+  "pos": "n.",
+  "zh": "母親",
+  "example": "My mother cooks well."
+ },
+ "mountain": {
+  "phonetic": "/ˈmaʊntən/",
+  "pos": "n.",
+  "zh": "山",
+  "example": "The mountain is very tall."
+ },
+ "must": {
+  "phonetic": "/mʌst/",
+  "pos": "v.",
+  "zh": "必須；一定",
+  "example": "You must rest now."
+ },
+ "my": {
+  "phonetic": "/maɪ/",
+  "pos": "det.",
+  "zh": "我的",
+  "example": "My name is Lin."
+ },
+ "nature": {
+  "phonetic": "/ˈneɪtʃɚ/",
+  "pos": "n.",
+  "zh": "大自然",
+  "example": "Nature makes me calm."
+ },
+ "near": {
+  "phonetic": "/nɪr/",
+  "pos": "prep.",
+  "zh": "在…附近",
+  "example": "The shop is near my home."
+ },
+ "neighborhood": {
+  "phonetic": "/ˈneɪbɚhʊd/",
+  "pos": "n.",
+  "zh": "社區；鄰里",
+  "example": "Our neighborhood is quiet."
+ },
+ "new": {
+  "phonetic": "/nuː/",
+  "pos": "adj.",
+  "zh": "新的",
+  "example": "She has a new phone."
+ },
+ "next": {
+  "phonetic": "/nɛkst/",
+  "pos": "adj.",
+  "zh": "下一個的；接著",
+  "example": "The fruit came the next day."
+ },
+ "night": {
+  "phonetic": "/naɪt/",
+  "pos": "n.",
+  "zh": "夜晚",
+  "example": "Good night, everyone."
+ },
+ "noodle": {
+  "phonetic": "/ˈnuːdəl/",
+  "pos": "n.",
+  "zh": "麵",
+  "example": "Beef noodles are famous here."
+ },
+ "not": {
+  "phonetic": "/nɑːt/",
+  "pos": "adv.",
+  "zh": "不；沒有",
+  "example": "I am not tired."
+ },
+ "now": {
+  "phonetic": "/naʊ/",
+  "pos": "adv.",
+  "zh": "現在",
+  "example": "Please do it now."
+ },
+ "of": {
+  "phonetic": "/əv/",
+  "pos": "prep.",
+  "zh": "…的",
+  "example": "A cup of tea, please."
+ },
+ "office": {
+  "phonetic": "/ˈɔːfɪs/",
+  "pos": "n.",
+  "zh": "辦公室",
+  "example": "He works in an office."
+ },
+ "often": {
+  "phonetic": "/ˈɔːfən/",
+  "pos": "adv.",
+  "zh": "常常",
+  "example": "I often walk to work."
+ },
+ "old": {
+  "phonetic": "/oʊld/",
+  "pos": "adj.",
+  "zh": "老的；舊的；傳統的",
+  "example": "We played an old game."
+ },
+ "on": {
+  "phonetic": "/ɑːn/",
+  "pos": "prep.",
+  "zh": "在…上面",
+  "example": "The book is on the table."
+ },
+ "one": {
+  "phonetic": "/wʌn/",
+  "pos": "det.",
+  "zh": "一",
+  "example": "I drank one cup of tea."
+ },
+ "online": {
+  "phonetic": "/ˌɑːnˈlaɪn/",
+  "pos": "adv.",
+  "zh": "在網路上",
+  "example": "She shops online every week."
+ },
+ "only": {
+  "phonetic": "/ˈoʊnli/",
+  "pos": "adv.",
+  "zh": "只有；僅僅",
+  "example": "It takes only ten minutes."
+ },
+ "open": {
+  "phonetic": "/ˈoʊpən/",
+  "pos": "v.",
+  "zh": "打開",
+  "example": "Please open the window."
+ },
+ "order": {
+  "phonetic": "/ˈɔːrdɚ/",
+  "pos": "v.",
+  "zh": "點（餐）；訂購",
+  "example": "I ordered soy milk."
+ },
+ "our": {
+  "phonetic": "/ˈaʊɚ/",
+  "pos": "det.",
+  "zh": "我們的",
+  "example": "Our house is small."
+ },
+ "outside": {
+  "phonetic": "/ˌaʊtˈsaɪd/",
+  "pos": "adv.",
+  "zh": "在外面",
+  "example": "The children play outside."
+ },
+ "owner": {
+  "phonetic": "/ˈoʊnɚ/",
+  "pos": "n.",
+  "zh": "老闆；擁有者",
+  "example": "The shop owner is kind."
+ },
+ "page": {
+  "phonetic": "/peɪdʒ/",
+  "pos": "n.",
+  "zh": "頁",
+  "example": "Read a few pages every day."
+ },
+ "pancake": {
+  "phonetic": "/ˈpænkeɪk/",
+  "pos": "n.",
+  "zh": "薄餅；煎餅",
+  "example": "I love egg pancakes."
+ },
+ "park": {
+  "phonetic": "/pɑːrk/",
+  "pos": "n.",
+  "zh": "公園",
+  "example": "We walk in the park."
+ },
+ "part": {
+  "phonetic": "/pɑːrt/",
+  "pos": "n.",
+  "zh": "部分",
+  "example": "It is an important part of life."
+ },
+ "peaceful": {
+  "phonetic": "/ˈpiːsfəl/",
+  "pos": "adj.",
+  "zh": "平靜的；安詳的",
+  "example": "The forest is peaceful."
+ },
+ "people": {
+  "phonetic": "/ˈpiːpəl/",
+  "pos": "n.",
+  "zh": "人們",
+  "example": "Many people are here."
+ },
+ "phone": {
+  "phonetic": "/foʊn/",
+  "pos": "n.",
+  "zh": "電話；手機",
+  "example": "My phone is new."
+ },
+ "photo": {
+  "phonetic": "/ˈfoʊtoʊ/",
+  "pos": "n.",
+  "zh": "照片",
+  "example": "Send me a photo."
+ },
+ "pick": {
+  "phonetic": "/pɪk/",
+  "pos": "v.",
+  "zh": "摘；挑選",
+  "example": "Please do not pick the flowers."
+ },
+ "place": {
+  "phonetic": "/pleɪs/",
+  "pos": "n.",
+  "zh": "地方",
+  "example": "This is a beautiful place."
+ },
+ "play": {
+  "phonetic": "/pleɪ/",
+  "pos": "v.",
+  "zh": "玩",
+  "example": "We played games all night."
+ },
+ "potato": {
+  "phonetic": "/pəˈteɪtoʊ/",
+  "pos": "n.",
+  "zh": "馬鈴薯；（sweet potato）地瓜",
+  "example": "Sweet potato balls are sweet."
+ },
+ "protect": {
+  "phonetic": "/prəˈtɛkt/",
+  "pos": "v.",
+  "zh": "保護",
+  "example": "We should protect the forest."
+ },
+ "purple": {
+  "phonetic": "/ˈpɝːpəl/",
+  "pos": "adj.",
+  "zh": "紫色的",
+  "example": "She found a purple flower."
+ },
+ "put": {
+  "phonetic": "/pʊt/",
+  "pos": "v.",
+  "zh": "放",
+  "example": "Put it in the bag."
+ },
+ "question": {
+  "phonetic": "/ˈkwɛstʃən/",
+  "pos": "n.",
+  "zh": "問題",
+  "example": "May I ask a question?"
+ },
+ "quiet": {
+  "phonetic": "/ˈkwaɪət/",
+  "pos": "adj.",
+  "zh": "安靜的",
+  "example": "It is a quiet morning."
+ },
+ "rain": {
+  "phonetic": "/reɪn/",
+  "pos": "n.",
+  "zh": "雨",
+  "example": "The rain stopped at noon."
+ },
+ "read": {
+  "phonetic": "/riːd/",
+  "pos": "v.",
+  "zh": "閱讀",
+  "example": "I read before bed."
+ },
+ "ready": {
+  "phonetic": "/ˈrɛdi/",
+  "pos": "adj.",
+  "zh": "準備好的",
+  "example": "Dinner is ready."
+ },
+ "rest": {
+  "phonetic": "/rɛst/",
+  "pos": "v.",
+  "zh": "休息",
+  "example": "Let's rest here for a while."
+ },
+ "rice": {
+  "phonetic": "/raɪs/",
+  "pos": "n.",
+  "zh": "米飯",
+  "example": "We eat rice every day."
+ },
+ "ring": {
+  "phonetic": "/rɪŋ/",
+  "pos": "n.",
+  "zh": "圈；環；戒指",
+  "example": "Throw the ring at the bottle."
+ },
+ "river": {
+  "phonetic": "/ˈrɪvɚ/",
+  "pos": "n.",
+  "zh": "河",
+  "example": "We walk by the river."
+ },
+ "rock": {
+  "phonetic": "/rɑːk/",
+  "pos": "n.",
+  "zh": "岩石",
+  "example": "A flower grew near the rock."
+ },
+ "run": {
+  "phonetic": "/rʌn/",
+  "pos": "v.",
+  "zh": "跑步",
+  "example": "I run every morning."
+ },
+ "saturday": {
+  "phonetic": "/ˈsætɚdeɪ/",
+  "pos": "n.",
+  "zh": "星期六",
+  "example": "See you on Saturday."
+ },
+ "say": {
+  "phonetic": "/seɪ/",
+  "pos": "v.",
+  "zh": "說",
+  "example": "What did he say?"
+ },
+ "screen": {
+  "phonetic": "/skriːn/",
+  "pos": "n.",
+  "zh": "螢幕",
+  "example": "Touch the screen to start."
+ },
+ "sea": {
+  "phonetic": "/siː/",
+  "pos": "n.",
+  "zh": "海",
+  "example": "The sea is deep blue."
+ },
+ "see": {
+  "phonetic": "/siː/",
+  "pos": "v.",
+  "zh": "看見",
+  "example": "I can see the mountain."
+ },
+ "sell": {
+  "phonetic": "/sɛl/",
+  "pos": "v.",
+  "zh": "賣",
+  "example": "They sell fruit at the market."
+ },
+ "send": {
+  "phonetic": "/sɛnd/",
+  "pos": "v.",
+  "zh": "傳送；寄",
+  "example": "Send me a message tonight."
+ },
+ "seven": {
+  "phonetic": "/ˈsɛvən/",
+  "pos": "det.",
+  "zh": "七",
+  "example": "There are seven days in a week."
+ },
+ "she": {
+  "phonetic": "/ʃiː/",
+  "pos": "pron.",
+  "zh": "她",
+  "example": "She is my sister."
+ },
+ "shop": {
+  "phonetic": "/ʃɑːp/",
+  "pos": "n.",
+  "zh": "商店；（v.）購物",
+  "example": "The breakfast shop opens early."
+ },
+ "short": {
+  "phonetic": "/ʃɔːrt/",
+  "pos": "adj.",
+  "zh": "短的",
+  "example": "A short walk helps a lot."
+ },
+ "show": {
+  "phonetic": "/ʃoʊ/",
+  "pos": "v.",
+  "zh": "給…看；展示",
+  "example": "Show me your photos."
+ },
+ "sick": {
+  "phonetic": "/sɪk/",
+  "pos": "adj.",
+  "zh": "生病的",
+  "example": "He is sick today."
+ },
+ "side": {
+  "phonetic": "/saɪd/",
+  "pos": "n.",
+  "zh": "邊；側",
+  "example": "Trees stood on both sides."
+ },
+ "simple": {
+  "phonetic": "/ˈsɪmpəl/",
+  "pos": "adj.",
+  "zh": "簡單的",
+  "example": "It was a simple meal."
+ },
+ "sing": {
+  "phonetic": "/sɪŋ/",
+  "pos": "v.",
+  "zh": "唱歌",
+  "example": "Birds sing in the morning."
+ },
+ "sister": {
+  "phonetic": "/ˈsɪstɚ/",
+  "pos": "n.",
+  "zh": "姊妹",
+  "example": "My sister is very kind."
+ },
+ "sit": {
+  "phonetic": "/sɪt/",
+  "pos": "v.",
+  "zh": "坐",
+  "example": "Please sit by the table."
+ },
+ "six": {
+  "phonetic": "/sɪks/",
+  "pos": "det.",
+  "zh": "六",
+  "example": "I get up at six."
+ },
+ "sky": {
+  "phonetic": "/skaɪ/",
+  "pos": "n.",
+  "zh": "天空",
+  "example": "The sky is very blue today."
+ },
+ "sleep": {
+  "phonetic": "/sliːp/",
+  "pos": "v.",
+  "zh": "睡覺",
+  "example": "I sleep eight hours every night."
+ },
+ "small": {
+  "phonetic": "/smɔːl/",
+  "pos": "adj.",
+  "zh": "小的",
+  "example": "It is a small shop."
+ },
+ "smart": {
+  "phonetic": "/smɑːrt/",
+  "pos": "adj.",
+  "zh": "聰明的",
+  "example": "She is a smart child."
+ },
+ "smartphone": {
+  "phonetic": "/ˈsmɑːrtfoʊn/",
+  "pos": "n.",
+  "zh": "智慧型手機",
+  "example": "She got a new smartphone."
+ },
+ "smell": {
+  "phonetic": "/smɛl/",
+  "pos": "v.",
+  "zh": "聞起來；（n.）氣味",
+  "example": "The flowers smell sweet."
+ },
+ "smile": {
+  "phonetic": "/smaɪl/",
+  "pos": "v.",
+  "zh": "微笑",
+  "example": "She smiles at everyone."
+ },
+ "so": {
+  "phonetic": "/soʊ/",
+  "pos": "adv.",
+  "zh": "非常；所以",
+  "example": "I am so happy today."
+ },
+ "some": {
+  "phonetic": "/sʌm/",
+  "pos": "det.",
+  "zh": "一些",
+  "example": "Drink some water first."
+ },
+ "sometimes": {
+  "phonetic": "/ˈsʌmtaɪmz/",
+  "pos": "adv.",
+  "zh": "有時候",
+  "example": "Sometimes I read at night."
+ },
+ "soy": {
+  "phonetic": "/sɔɪ/",
+  "pos": "n.",
+  "zh": "黃豆；大豆",
+  "example": "Soy milk is popular in Taiwan."
+ },
+ "spend": {
+  "phonetic": "/spɛnd/",
+  "pos": "v.",
+  "zh": "度過；花費",
+  "example": "We spend time together on Sundays."
+ },
+ "stand": {
+  "phonetic": "/stænd/",
+  "pos": "v.",
+  "zh": "站立",
+  "example": "The trees stand tall."
+ },
+ "start": {
+  "phonetic": "/stɑːrt/",
+  "pos": "v.",
+  "zh": "開始",
+  "example": "The class starts at nine."
+ },
+ "stay": {
+  "phonetic": "/steɪ/",
+  "pos": "v.",
+  "zh": "停留；保持",
+  "example": "Please stay here."
+ },
+ "step": {
+  "phonetic": "/stɛp/",
+  "pos": "n.",
+  "zh": "步驟；一步",
+  "example": "Learn it step by step."
+ },
+ "stop": {
+  "phonetic": "/stɑːp/",
+  "pos": "v.",
+  "zh": "停止；阻止",
+  "example": "The rain stopped at last."
+ },
+ "street": {
+  "phonetic": "/striːt/",
+  "pos": "n.",
+  "zh": "街道",
+  "example": "The street is full of people."
+ },
+ "stretch": {
+  "phonetic": "/strɛtʃ/",
+  "pos": "v.",
+  "zh": "伸展",
+  "example": "Stretch your arms slowly."
+ },
+ "strong": {
+  "phonetic": "/strɔːŋ/",
+  "pos": "adj.",
+  "zh": "強壯的",
+  "example": "Exercise makes you strong."
+ },
+ "sun": {
+  "phonetic": "/sʌn/",
+  "pos": "n.",
+  "zh": "太陽",
+  "example": "The sun is up now."
+ },
+ "sunday": {
+  "phonetic": "/ˈsʌndeɪ/",
+  "pos": "n.",
+  "zh": "星期日",
+  "example": "We rest on Sunday."
+ },
+ "surprise": {
+  "phonetic": "/sɚˈpraɪz/",
+  "pos": "v.",
+  "zh": "使驚訝",
+  "example": "The gift surprised her."
+ },
+ "sweet": {
+  "phonetic": "/swiːt/",
+  "pos": "adj.",
+  "zh": "甜的",
+  "example": "The tea is too sweet."
+ },
+ "swim": {
+  "phonetic": "/swɪm/",
+  "pos": "v.",
+  "zh": "游泳",
+  "example": "I swim in the summer."
+ },
+ "table": {
+  "phonetic": "/ˈteɪbəl/",
+  "pos": "n.",
+  "zh": "桌子",
+  "example": "Sit at the table, please."
+ },
+ "taiwan": {
+  "phonetic": "/ˌtaɪˈwɑːn/",
+  "pos": "n.",
+  "zh": "台灣",
+  "example": "Taiwan is a beautiful island."
+ },
+ "take": {
+  "phonetic": "/teɪk/",
+  "pos": "v.",
+  "zh": "帶；拿",
+  "example": "Take me to the market."
+ },
+ "talk": {
+  "phonetic": "/tɔːk/",
+  "pos": "v.",
+  "zh": "說話；聊天",
+  "example": "Let's talk after dinner."
+ },
+ "tall": {
+  "phonetic": "/tɔːl/",
+  "pos": "adj.",
+  "zh": "高的",
+  "example": "The tree is very tall."
+ },
+ "taste": {
+  "phonetic": "/teɪst/",
+  "pos": "v.",
+  "zh": "嚐起來",
+  "example": "It tastes sweet and fresh."
+ },
+ "tea": {
+  "phonetic": "/tiː/",
+  "pos": "n.",
+  "zh": "茶",
+  "example": "A cup of tea, please."
+ },
+ "teach": {
+  "phonetic": "/tiːtʃ/",
+  "pos": "v.",
+  "zh": "教",
+  "example": "She teaches English at school."
+ },
+ "technology": {
+  "phonetic": "/tɛkˈnɑːlədʒi/",
+  "pos": "n.",
+  "zh": "科技",
+  "example": "Technology changes very fast."
+ },
+ "tell": {
+  "phonetic": "/tɛl/",
+  "pos": "v.",
+  "zh": "告訴",
+  "example": "Tell me a story."
+ },
+ "ten": {
+  "phonetic": "/tɛn/",
+  "pos": "det.",
+  "zh": "十",
+  "example": "Walk for ten minutes."
+ },
+ "that": {
+  "phonetic": "/ðæt/",
+  "pos": "pron.",
+  "zh": "那個；那",
+  "example": "That is my bag."
+ },
+ "the": {
+  "phonetic": "/ðə/",
+  "pos": "det.",
+  "zh": "這個；那個（定冠詞）",
+  "example": "The sun is up."
+ },
+ "then": {
+  "phonetic": "/ðɛn/",
+  "pos": "adv.",
+  "zh": "然後",
+  "example": "Then we went home."
+ },
+ "there": {
+  "phonetic": "/ðɛr/",
+  "pos": "adv.",
+  "zh": "那裡",
+  "example": "Please sit there."
+ },
+ "these": {
+  "phonetic": "/ðiːz/",
+  "pos": "det.",
+  "zh": "這些",
+  "example": "These places are beautiful."
+ },
+ "they": {
+  "phonetic": "/ðeɪ/",
+  "pos": "pron.",
+  "zh": "他們",
+  "example": "They walk together every day."
+ },
+ "thing": {
+  "phonetic": "/θɪŋ/",
+  "pos": "n.",
+  "zh": "東西；事物",
+  "example": "I learned many new things."
+ },
+ "think": {
+  "phonetic": "/θɪŋk/",
+  "pos": "v.",
+  "zh": "想；認為",
+  "example": "I think it is a good idea."
+ },
+ "this": {
+  "phonetic": "/ðɪs/",
+  "pos": "det.",
+  "zh": "這個",
+  "example": "This is my home."
+ },
+ "three": {
+  "phonetic": "/θriː/",
+  "pos": "det.",
+  "zh": "三",
+  "example": "I write three goals every day."
+ },
+ "throw": {
+  "phonetic": "/θroʊ/",
+  "pos": "v.",
+  "zh": "丟；投擲",
+  "example": "Throw the ball to me."
+ },
+ "time": {
+  "phonetic": "/taɪm/",
+  "pos": "n.",
+  "zh": "時間；次",
+  "example": "What time is it now?"
+ },
+ "tired": {
+  "phonetic": "/ˈtaɪɚd/",
+  "pos": "adj.",
+  "zh": "疲倦的",
+  "example": "I feel tired tonight."
+ },
+ "to": {
+  "phonetic": "/tuː/",
+  "pos": "prep.",
+  "zh": "到；向；為了",
+  "example": "I walk to school."
+ },
+ "today": {
+  "phonetic": "/təˈdeɪ/",
+  "pos": "adv.",
+  "zh": "今天",
+  "example": "Let's start today."
+ },
+ "together": {
+  "phonetic": "/təˈɡɛðɚ/",
+  "pos": "adv.",
+  "zh": "一起",
+  "example": "We walk together every morning."
+ },
+ "tomorrow": {
+  "phonetic": "/təˈmɑːroʊ/",
+  "pos": "adv.",
+  "zh": "明天",
+  "example": "See you tomorrow."
+ },
+ "too": {
+  "phonetic": "/tuː/",
+  "pos": "adv.",
+  "zh": "也；太",
+  "example": "I like it too."
+ },
+ "top": {
+  "phonetic": "/tɑːp/",
+  "pos": "n.",
+  "zh": "頂端；山頂",
+  "example": "We reached the top at noon."
+ },
+ "touch": {
+  "phonetic": "/tʌtʃ/",
+  "pos": "v.",
+  "zh": "碰觸",
+  "example": "Touch the screen to open it."
+ },
+ "toy": {
+  "phonetic": "/tɔɪ/",
+  "pos": "n.",
+  "zh": "玩具",
+  "example": "He won a toy duck."
+ },
+ "trail": {
+  "phonetic": "/treɪl/",
+  "pos": "n.",
+  "zh": "步道；小徑",
+  "example": "The trail is long but easy."
+ },
+ "tree": {
+  "phonetic": "/triː/",
+  "pos": "n.",
+  "zh": "樹",
+  "example": "We sat under a big tree."
+ },
+ "try": {
+  "phonetic": "/traɪ/",
+  "pos": "v.",
+  "zh": "嘗試",
+  "example": "Try it one more time."
+ },
+ "two": {
+  "phonetic": "/tuː/",
+  "pos": "det.",
+  "zh": "二",
+  "example": "She drank two cups of tea."
+ },
+ "under": {
+  "phonetic": "/ˈʌndɚ/",
+  "pos": "prep.",
+  "zh": "在…下面",
+  "example": "We sat under the tree."
+ },
+ "understand": {
+  "phonetic": "/ˌʌndɚˈstænd/",
+  "pos": "v.",
+  "zh": "了解；懂",
+  "example": "Now I understand the question."
+ },
+ "up": {
+  "phonetic": "/ʌp/",
+  "pos": "adv.",
+  "zh": "向上；起來",
+  "example": "I get up early."
+ },
+ "us": {
+  "phonetic": "/ʌs/",
+  "pos": "pron.",
+  "zh": "我們（受格）",
+  "example": "She calls us every evening."
+ },
+ "use": {
+  "phonetic": "/juːz/",
+  "pos": "v.",
+  "zh": "使用",
+  "example": "I use my phone to read news."
+ },
+ "usually": {
+  "phonetic": "/ˈjuːʒuəli/",
+  "pos": "adv.",
+  "zh": "通常",
+  "example": "I usually walk to work."
+ },
+ "vegetable": {
+  "phonetic": "/ˈvɛdʒtəbəl/",
+  "pos": "n.",
+  "zh": "蔬菜",
+  "example": "Eat more vegetables every day."
+ },
+ "very": {
+  "phonetic": "/ˈvɛri/",
+  "pos": "adv.",
+  "zh": "非常",
+  "example": "The food is very good."
+ },
+ "video": {
+  "phonetic": "/ˈvɪdioʊ/",
+  "pos": "n.",
+  "zh": "影片；視訊",
+  "example": "We watched a funny video."
+ },
+ "visit": {
+  "phonetic": "/ˈvɪzɪt/",
+  "pos": "v.",
+  "zh": "拜訪；造訪；（n.）造訪",
+  "example": "We visit the market every week."
+ },
+ "wake": {
+  "phonetic": "/weɪk/",
+  "pos": "v.",
+  "zh": "醒來",
+  "example": "I wake up at six."
+ },
+ "walk": {
+  "phonetic": "/wɔːk/",
+  "pos": "v.",
+  "zh": "走路；散步；（n.）散步",
+  "example": "We walk in the park every day."
+ },
+ "want": {
+  "phonetic": "/wɑːnt/",
+  "pos": "v.",
+  "zh": "想要",
+  "example": "I want some tea."
+ },
+ "warm": {
+  "phonetic": "/wɔːrm/",
+  "pos": "adj.",
+  "zh": "溫暖的；溫的",
+  "example": "The soy milk is warm."
+ },
+ "watch": {
+  "phonetic": "/wɑːtʃ/",
+  "pos": "v.",
+  "zh": "觀看",
+  "example": "We watch videos together."
+ },
+ "water": {
+  "phonetic": "/ˈwɔːtɚ/",
+  "pos": "n.",
+  "zh": "水",
+  "example": "Drink more water every day."
+ },
+ "way": {
+  "phonetic": "/weɪ/",
+  "pos": "n.",
+  "zh": "方式；路",
+  "example": "It is a fun way to learn."
+ },
+ "we": {
+  "phonetic": "/wiː/",
+  "pos": "pron.",
+  "zh": "我們",
+  "example": "We are good friends."
+ },
+ "week": {
+  "phonetic": "/wiːk/",
+  "pos": "n.",
+  "zh": "星期；一週",
+  "example": "See you next week."
+ },
+ "weight": {
+  "phonetic": "/weɪt/",
+  "pos": "n.",
+  "zh": "體重；重量",
+  "example": "He lost some weight."
+ },
+ "what": {
+  "phonetic": "/wʌt/",
+  "pos": "pron.",
+  "zh": "什麼",
+  "example": "What is this?"
+ },
+ "when": {
+  "phonetic": "/wɛn/",
+  "pos": "adv.",
+  "zh": "何時；當…時",
+  "example": "When did you leave?"
+ },
+ "where": {
+  "phonetic": "/wɛr/",
+  "pos": "adv.",
+  "zh": "哪裡",
+  "example": "Where do you live?"
+ },
+ "white": {
+  "phonetic": "/waɪt/",
+  "pos": "adj.",
+  "zh": "白色的",
+  "example": "A white butterfly flew by."
+ },
+ "why": {
+  "phonetic": "/waɪ/",
+  "pos": "adv.",
+  "zh": "為什麼",
+  "example": "Why not try it today?"
+ },
+ "win": {
+  "phonetic": "/wɪn/",
+  "pos": "v.",
+  "zh": "贏；贏得",
+  "example": "I won a small toy."
+ },
+ "wind": {
+  "phonetic": "/wɪnd/",
+  "pos": "n.",
+  "zh": "風",
+  "example": "The wind is cool tonight."
+ },
+ "window": {
+  "phonetic": "/ˈwɪndoʊ/",
+  "pos": "n.",
+  "zh": "窗戶",
+  "example": "Please open the window."
+ },
+ "with": {
+  "phonetic": "/wɪð/",
+  "pos": "prep.",
+  "zh": "和…一起；帶有",
+  "example": "Come with me."
+ },
+ "work": {
+  "phonetic": "/wɝːk/",
+  "pos": "v.",
+  "zh": "工作；（n.）工作",
+  "example": "I work in an office."
+ },
+ "write": {
+  "phonetic": "/raɪt/",
+  "pos": "v.",
+  "zh": "寫",
+  "example": "Write your name here."
+ },
+ "writer": {
+  "phonetic": "/ˈraɪtɚ/",
+  "pos": "n.",
+  "zh": "作者；作家",
+  "example": "The writer lives in Taipei."
+ },
+ "year": {
+  "phonetic": "/jɪr/",
+  "pos": "n.",
+  "zh": "年",
+  "example": "Last year I moved here."
+ },
+ "you": {
+  "phonetic": "/juː/",
+  "pos": "pron.",
+  "zh": "你；你們",
+  "example": "You are very kind."
+ },
+ "young": {
+  "phonetic": "/jʌŋ/",
+  "pos": "adj.",
+  "zh": "年輕的",
+  "example": "Young people like new apps."
+ },
+ "your": {
+  "phonetic": "/jʊr/",
+  "pos": "det.",
+  "zh": "你的",
+  "example": "Your bag is on the chair."
+ },
+ "across": {
+  "phonetic": "/əˈkrɔs/",
+  "pos": "prep.",
+  "zh": "橫越；在另一邊",
+  "example": "The shop is across the street."
+ },
+ "adult": {
+  "phonetic": "/əˈdʌlt/",
+  "pos": "n.",
+  "zh": "成年人",
+  "example": "Adults need about eight hours of sleep."
+ },
+ "again": {
+  "phonetic": "/əˈɡɛn/",
+  "pos": "adv.",
+  "zh": "再一次",
+  "example": "Please say it again."
+ },
+ "alarm": {
+  "phonetic": "/əˈlɑrm/",
+  "pos": "n.",
+  "zh": "鬧鐘；警報",
+  "example": "My alarm rings at six."
+ },
+ "almost": {
+  "phonetic": "/ˈɔlmoʊst/",
+  "pos": "adv.",
+  "zh": "幾乎",
+  "example": "It is almost noon."
+ },
+ "along": {
+  "phonetic": "/əˈlɔŋ/",
+  "pos": "prep.",
+  "zh": "沿著",
+  "example": "We walked along the river."
+ },
+ "already": {
+  "phonetic": "/ɔlˈrɛdi/",
+  "pos": "adv.",
+  "zh": "已經",
+  "example": "The bus has already left."
+ },
+ "angry": {
+  "phonetic": "/ˈæŋɡri/",
+  "pos": "adj.",
+  "zh": "生氣的",
+  "example": "He was angry about the noise."
+ },
+ "another": {
+  "phonetic": "/əˈnʌðɚ/",
+  "pos": "det.",
+  "zh": "另一個",
+  "example": "Can I have another cup?"
+ },
+ "apple": {
+  "phonetic": "/ˈæpəl/",
+  "pos": "n.",
+  "zh": "蘋果",
+  "example": "The apple is sweet."
+ },
+ "around": {
+  "phonetic": "/əˈraʊnd/",
+  "pos": "prep.",
+  "zh": "在……周圍",
+  "example": "People sat around the table."
+ },
+ "arrive": {
+  "phonetic": "/əˈraɪv/",
+  "pos": "v.",
+  "zh": "到達；送達",
+  "example": "The train arrives at nine."
+ },
+ "badly": {
+  "phonetic": "/ˈbædli/",
+  "pos": "adv.",
+  "zh": "糟糕地；不好地",
+  "example": "He slept badly last night."
+ },
+ "basket": {
+  "phonetic": "/ˈbæskɪt/",
+  "pos": "n.",
+  "zh": "籃子",
+  "example": "The fruit is in the basket."
+ },
+ "bed": {
+  "phonetic": "/bɛd/",
+  "pos": "n.",
+  "zh": "床",
+  "example": "She goes to bed at ten."
+ },
+ "beef": {
+  "phonetic": "/bif/",
+  "pos": "n.",
+  "zh": "牛肉",
+  "example": "This beef soup is tasty."
+ },
+ "bicycle": {
+  "phonetic": "/ˈbaɪsɪkəl/",
+  "pos": "n.",
+  "zh": "腳踏車",
+  "example": "He rides his bicycle to school."
+ },
+ "box": {
+  "phonetic": "/bɑks/",
+  "pos": "n.",
+  "zh": "盒子",
+  "example": "The box is full of toys."
+ },
+ "brain": {
+  "phonetic": "/breɪn/",
+  "pos": "n.",
+  "zh": "大腦",
+  "example": "The brain needs rest."
+ },
+ "building": {
+  "phonetic": "/ˈbɪldɪŋ/",
+  "pos": "n.",
+  "zh": "建築物；大樓",
+  "example": "That building is very tall."
+ },
+ "bus": {
+  "phonetic": "/bʌs/",
+  "pos": "n.",
+  "zh": "公車",
+  "example": "She takes the bus to work."
+ },
+ "business": {
+  "phonetic": "/ˈbɪznɪs/",
+  "pos": "n.",
+  "zh": "生意；事業",
+  "example": "His business is doing well."
+ },
+ "busy": {
+  "phonetic": "/ˈbɪzi/",
+  "pos": "adj.",
+  "zh": "忙碌的；熱鬧的",
+  "example": "The street is busy in the morning."
+ },
+ "buy": {
+  "phonetic": "/baɪ/",
+  "pos": "v.",
+  "zh": "買",
+  "example": "I want to buy some fruit."
+ },
+ "car": {
+  "phonetic": "/kɑr/",
+  "pos": "n.",
+  "zh": "汽車",
+  "example": "He washed his car yesterday."
+ },
+ "cause": {
+  "phonetic": "/kɔz/",
+  "pos": "v.",
+  "zh": "造成；引起",
+  "example": "Too much sugar can cause problems."
+ },
+ "chat": {
+  "phonetic": "/tʃæt/",
+  "pos": "v.",
+  "zh": "聊天",
+  "example": "They chat over coffee."
+ },
+ "child": {
+  "phonetic": "/tʃaɪld/",
+  "pos": "n.",
+  "zh": "小孩（複數 children）",
+  "example": "The child is drawing a picture."
+ },
+ "choose": {
+  "phonetic": "/tʃuz/",
+  "pos": "v.",
+  "zh": "選擇；挑選",
+  "example": "Please choose a seat."
+ },
+ "close": {
+  "phonetic": "/kloʊz/",
+  "pos": "v.",
+  "zh": "關閉；打烊",
+  "example": "The shop closes at nine."
+ },
+ "cold": {
+  "phonetic": "/koʊld/",
+  "pos": "adj.",
+  "zh": "冷的；冰的",
+  "example": "The soup is cold now."
+ },
+ "cookie": {
+  "phonetic": "/ˈkʊki/",
+  "pos": "n.",
+  "zh": "餅乾",
+  "example": "She gave me a cookie."
+ },
+ "course": {
+  "phonetic": "/kɔrs/",
+  "pos": "n.",
+  "zh": "課程；（of course）當然",
+  "example": "Of course you can come."
+ },
+ "customer": {
+  "phonetic": "/ˈkʌstəmɚ/",
+  "pos": "n.",
+  "zh": "顧客",
+  "example": "The customer paid at the counter."
+ },
+ "daily": {
+  "phonetic": "/ˈdeɪli/",
+  "pos": "adj.",
+  "zh": "每日的；日常的",
+  "example": "Walking is part of my daily life."
+ },
+ "dark": {
+  "phonetic": "/dɑrk/",
+  "pos": "adj.",
+  "zh": "黑暗的；昏暗的",
+  "example": "The room was dark and quiet."
+ },
+ "double": {
+  "phonetic": "/ˈdʌbəl/",
+  "pos": "v.",
+  "zh": "加倍；變成兩倍",
+  "example": "Our sales doubled this year."
+ },
+ "drive": {
+  "phonetic": "/draɪv/",
+  "pos": "v.",
+  "zh": "開車（過去式 drove）",
+  "example": "She drives to work every day."
+ },
+ "during": {
+  "phonetic": "/ˈdʊrɪŋ/",
+  "pos": "prep.",
+  "zh": "在……期間",
+  "example": "He slept during the movie."
+ },
+ "easily": {
+  "phonetic": "/ˈizəli/",
+  "pos": "adv.",
+  "zh": "容易地",
+  "example": "She gets tired easily."
+ },
+ "english": {
+  "phonetic": "/ˈɪŋɡlɪʃ/",
+  "pos": "n.",
+  "zh": "英文；英語",
+  "example": "He practices English every day."
+ },
+ "explain": {
+  "phonetic": "/ɪkˈspleɪn/",
+  "pos": "v.",
+  "zh": "解釋；說明",
+  "example": "Can you explain the rule?"
+ },
+ "fast": {
+  "phonetic": "/fæst/",
+  "pos": "adj.",
+  "zh": "快的；快地",
+  "example": "The train is very fast."
+ },
+ "forget": {
+  "phonetic": "/fɚˈɡɛt/",
+  "pos": "v.",
+  "zh": "忘記",
+  "example": "Don't forget your umbrella."
+ },
+ "four": {
+  "phonetic": "/fɔr/",
+  "pos": "det.",
+  "zh": "四",
+  "example": "There are four seasons in a year."
+ },
+ "free": {
+  "phonetic": "/fri/",
+  "pos": "adj.",
+  "zh": "免費的；自由的",
+  "example": "The cookie is free today."
+ },
+ "gift": {
+  "phonetic": "/ɡɪft/",
+  "pos": "n.",
+  "zh": "禮物",
+  "example": "She gave me a small gift."
+ },
+ "grow": {
+  "phonetic": "/ɡroʊ/",
+  "pos": "v.",
+  "zh": "成長；生長",
+  "example": "Children grow very fast."
+ },
+ "heal": {
+  "phonetic": "/hil/",
+  "pos": "v.",
+  "zh": "癒合；治癒",
+  "example": "The skin heals at night."
+ },
+ "helper": {
+  "phonetic": "/ˈhɛlpɚ/",
+  "pos": "n.",
+  "zh": "幫手；助手",
+  "example": "The shop has two helpers."
+ },
+ "helpful": {
+  "phonetic": "/ˈhɛlpfəl/",
+  "pos": "adj.",
+  "zh": "有幫助的；實用的",
+  "example": "This app is very helpful."
+ },
+ "hotel": {
+  "phonetic": "/hoʊˈtɛl/",
+  "pos": "n.",
+  "zh": "旅館；飯店",
+  "example": "We stayed at a small hotel."
+ },
+ "hundred": {
+  "phonetic": "/ˈhʌndrəd/",
+  "pos": "det.",
+  "zh": "百",
+  "example": "The temple is two hundred years old."
+ },
+ "idea": {
+  "phonetic": "/aɪˈdiə/",
+  "pos": "n.",
+  "zh": "主意；點子",
+  "example": "He had a simple idea."
+ },
+ "if": {
+  "phonetic": "/ɪf/",
+  "pos": "conj.",
+  "zh": "如果；是否",
+  "example": "Tell me if you need help."
+ },
+ "inside": {
+  "phonetic": "/ɪnˈsaɪd/",
+  "pos": "adv.",
+  "zh": "在裡面；進到裡面",
+  "example": "Few people came inside."
+ },
+ "itself": {
+  "phonetic": "/ɪtˈsɛlf/",
+  "pos": "pron.",
+  "zh": "它自己",
+  "example": "The brain cleans itself."
+ },
+ "lady": {
+  "phonetic": "/ˈleɪdi/",
+  "pos": "n.",
+  "zh": "女士；太太",
+  "example": "The vegetable lady is kind."
+ },
+ "later": {
+  "phonetic": "/ˈleɪtɚ/",
+  "pos": "adv.",
+  "zh": "之後；後來",
+  "example": "See you later."
+ },
+ "lesson": {
+  "phonetic": "/ˈlɛsən/",
+  "pos": "n.",
+  "zh": "課；一堂課",
+  "example": "The lesson was easy today."
+ },
+ "letter": {
+  "phonetic": "/ˈlɛtɚ/",
+  "pos": "n.",
+  "zh": "信；字母",
+  "example": "He wrote a letter to a friend."
+ },
+ "lin": {
+  "phonetic": "/lɪn/",
+  "pos": "n.",
+  "zh": "林（姓氏）",
+  "example": "Mr. Lin owns a coffee shop."
+ },
+ "local": {
+  "phonetic": "/ˈloʊkəl/",
+  "pos": "adj.",
+  "zh": "當地的",
+  "example": "We tried the local food."
+ },
+ "lot": {
+  "phonetic": "/lɑt/",
+  "pos": "n.",
+  "zh": "很多（a lot）",
+  "example": "Thanks a lot for your help."
+ },
+ "loud": {
+  "phonetic": "/laʊd/",
+  "pos": "adj.",
+  "zh": "大聲的；宏亮的",
+  "example": "The music is too loud."
+ },
+ "map": {
+  "phonetic": "/mæp/",
+  "pos": "n.",
+  "zh": "地圖",
+  "example": "He used a paper map."
+ },
+ "may": {
+  "phonetic": "/meɪ/",
+  "pos": "v.",
+  "zh": "可能；可以",
+  "example": "It may rain today."
+ },
+ "mean": {
+  "phonetic": "/min/",
+  "pos": "v.",
+  "zh": "意義是；意謂",
+  "example": "These mornings mean a lot to me."
+ },
+ "memory": {
+  "phonetic": "/ˈmɛməri/",
+  "pos": "n.",
+  "zh": "記憶；回憶",
+  "example": "The trip is a happy memory."
+ },
+ "money": {
+  "phonetic": "/ˈmʌni/",
+  "pos": "n.",
+  "zh": "錢",
+  "example": "He worried about money."
+ },
+ "move": {
+  "phonetic": "/muv/",
+  "pos": "v.",
+  "zh": "搬家；移動",
+  "example": "They moved to another city."
+ },
+ "movie": {
+  "phonetic": "/ˈmuvi/",
+  "pos": "n.",
+  "zh": "電影",
+  "example": "We watched a movie last night."
+ },
+ "mr": {
+  "phonetic": "/ˈmɪstɚ/",
+  "pos": "n.",
+  "zh": "先生（稱謂）",
+  "example": "Mr. Lin is my neighbor."
+ },
+ "much": {
+  "phonetic": "/mʌtʃ/",
+  "pos": "det.",
+  "zh": "許多的（用於不可數名詞）",
+  "example": "How much sleep do we need?"
+ },
+ "muscle": {
+  "phonetic": "/ˈmʌsəl/",
+  "pos": "n.",
+  "zh": "肌肉",
+  "example": "Exercise makes muscles strong."
+ },
+ "music": {
+  "phonetic": "/ˈmjuzɪk/",
+  "pos": "n.",
+  "zh": "音樂",
+  "example": "She listens to soft music."
+ },
+ "need": {
+  "phonetic": "/nid/",
+  "pos": "v.",
+  "zh": "需要",
+  "example": "Children need more sleep."
+ },
+ "nine": {
+  "phonetic": "/naɪn/",
+  "pos": "det.",
+  "zh": "九",
+  "example": "The shop opens at nine."
+ },
+ "no": {
+  "phonetic": "/noʊ/",
+  "pos": "det.",
+  "zh": "沒有；禁止",
+  "example": "No phones at the table."
+ },
+ "nothing": {
+  "phonetic": "/ˈnʌθɪŋ/",
+  "pos": "pron.",
+  "zh": "沒有東西；什麼也沒有",
+  "example": "There is nothing in the box."
+ },
+ "or": {
+  "phonetic": "/ɔr/",
+  "pos": "conj.",
+  "zh": "或者",
+  "example": "Do you want tea or coffee?"
+ },
+ "orange": {
+  "phonetic": "/ˈɔrɪndʒ/",
+  "pos": "adj.",
+  "zh": "橘色的；（名詞）柳橙",
+  "example": "The sky turned orange."
+ },
+ "out": {
+  "phonetic": "/aʊt/",
+  "pos": "adv.",
+  "zh": "向外；出聲地",
+  "example": "The sellers call out prices."
+ },
+ "own": {
+  "phonetic": "/oʊn/",
+  "pos": "v.",
+  "zh": "擁有",
+  "example": "He owns a small shop."
+ },
+ "paper": {
+  "phonetic": "/ˈpeɪpɚ/",
+  "pos": "n.",
+  "zh": "紙；紙本",
+  "example": "He used paper maps before."
+ },
+ "parent": {
+  "phonetic": "/ˈpɛrənt/",
+  "pos": "n.",
+  "zh": "父母（之一）",
+  "example": "My parents live in Taiwan."
+ },
+ "pass": {
+  "phonetic": "/pæs/",
+  "pos": "v.",
+  "zh": "經過；通過",
+  "example": "Many people pass the shop every day."
+ },
+ "pink": {
+  "phonetic": "/pɪŋk/",
+  "pos": "adj.",
+  "zh": "粉紅色的",
+  "example": "The sky turned pink at sunset."
+ },
+ "plan": {
+  "phonetic": "/plæn/",
+  "pos": "n.",
+  "zh": "計畫；（動詞）打算",
+  "example": "The plan worked very well."
+ },
+ "plane": {
+  "phonetic": "/pleɪn/",
+  "pos": "n.",
+  "zh": "飛機",
+  "example": "The plane leaves at noon."
+ },
+ "practice": {
+  "phonetic": "/ˈpræktɪs/",
+  "pos": "v.",
+  "zh": "練習",
+  "example": "She practices English every day."
+ },
+ "price": {
+  "phonetic": "/praɪs/",
+  "pos": "n.",
+  "zh": "價格",
+  "example": "The prices are low here."
+ },
+ "problem": {
+  "phonetic": "/ˈprɑbləm/",
+  "pos": "n.",
+  "zh": "問題",
+  "example": "Too little sleep causes problems."
+ },
+ "quickly": {
+  "phonetic": "/ˈkwɪkli/",
+  "pos": "adv.",
+  "zh": "快速地",
+  "example": "He finished lunch quickly."
+ },
+ "radio": {
+  "phonetic": "/ˈreɪdioʊ/",
+  "pos": "n.",
+  "zh": "收音機；廣播",
+  "example": "He listens to the radio in the car."
+ },
+ "remember": {
+  "phonetic": "/rɪˈmɛmbɚ/",
+  "pos": "v.",
+  "zh": "記得；記住",
+  "example": "I remember my first trip."
+ },
+ "rent": {
+  "phonetic": "/rɛnt/",
+  "pos": "v.",
+  "zh": "租；租借",
+  "example": "We rented bicycles at the park."
+ },
+ "repair": {
+  "phonetic": "/rɪˈpɛr/",
+  "pos": "v.",
+  "zh": "修復；修理",
+  "example": "Sleep helps the body repair itself."
+ },
+ "ride": {
+  "phonetic": "/raɪd/",
+  "pos": "v.",
+  "zh": "騎；搭乘（過去式 rode）",
+  "example": "I ride my bicycle to school."
+ },
+ "room": {
+  "phonetic": "/rum/",
+  "pos": "n.",
+  "zh": "房間",
+  "example": "A dark room helps you sleep."
+ },
+ "rule": {
+  "phonetic": "/rul/",
+  "pos": "n.",
+  "zh": "規則；規定",
+  "example": "Our family has a simple rule."
+ },
+ "sad": {
+  "phonetic": "/sæd/",
+  "pos": "adj.",
+  "zh": "難過的；傷心的",
+  "example": "She felt sad about the news."
+ },
+ "sale": {
+  "phonetic": "/seɪl/",
+  "pos": "n.",
+  "zh": "銷售；營業額",
+  "example": "Sales doubled in three months."
+ },
+ "same": {
+  "phonetic": "/seɪm/",
+  "pos": "adj.",
+  "zh": "相同的",
+  "example": "Go to bed at the same time."
+ },
+ "save": {
+  "phonetic": "/seɪv/",
+  "pos": "v.",
+  "zh": "節省；拯救",
+  "example": "This app saves me a lot of time."
+ },
+ "scientist": {
+  "phonetic": "/ˈsaɪəntɪst/",
+  "pos": "n.",
+  "zh": "科學家",
+  "example": "Scientists study sleep."
+ },
+ "second": {
+  "phonetic": "/ˈsɛkənd/",
+  "pos": "adj.",
+  "zh": "第二的",
+  "example": "He opened a second shop."
+ },
+ "secret": {
+  "phonetic": "/ˈsikrɪt/",
+  "pos": "n.",
+  "zh": "祕密；祕訣",
+  "example": "The secret of good business is simple."
+ },
+ "seller": {
+  "phonetic": "/ˈsɛlɚ/",
+  "pos": "n.",
+  "zh": "攤販；賣家",
+  "example": "The fish seller is friendly."
+ },
+ "simply": {
+  "phonetic": "/ˈsɪmpli/",
+  "pos": "adv.",
+  "zh": "只需；簡單地",
+  "example": "He simply talks to the app."
+ },
+ "skin": {
+  "phonetic": "/skɪn/",
+  "pos": "n.",
+  "zh": "皮膚；外皮",
+  "example": "Sleep helps the skin heal."
+ },
+ "slow": {
+  "phonetic": "/sloʊ/",
+  "pos": "adj.",
+  "zh": "緩慢的；（生意）冷清的",
+  "example": "Business was slow last year."
+ },
+ "slowly": {
+  "phonetic": "/ˈsloʊli/",
+  "pos": "adv.",
+  "zh": "緩慢地",
+  "example": "The sky slowly turned pink."
+ },
+ "soft": {
+  "phonetic": "/sɔft/",
+  "pos": "adj.",
+  "zh": "柔和的；柔軟的",
+  "example": "I like soft music in the morning."
+ },
+ "soup": {
+  "phonetic": "/sup/",
+  "pos": "n.",
+  "zh": "湯",
+  "example": "The beef soup is hot."
+ },
+ "south": {
+  "phonetic": "/saʊθ/",
+  "pos": "n.",
+  "zh": "南方；南部",
+  "example": "Tainan is in the south of Taiwan."
+ },
+ "still": {
+  "phonetic": "/stɪl/",
+  "pos": "adv.",
+  "zh": "仍然；還",
+  "example": "Their bodies are still growing."
+ },
+ "store": {
+  "phonetic": "/stɔr/",
+  "pos": "v.",
+  "zh": "儲存；（名詞）商店",
+  "example": "The brain stores new memories."
+ },
+ "story": {
+  "phonetic": "/ˈstɔri/",
+  "pos": "n.",
+  "zh": "故事",
+  "example": "Grandmother tells me stories."
+ },
+ "student": {
+  "phonetic": "/ˈstudənt/",
+  "pos": "n.",
+  "zh": "學生",
+  "example": "The students remember the lesson."
+ },
+ "study": {
+  "phonetic": "/ˈstʌdi/",
+  "pos": "v.",
+  "zh": "研究；讀書",
+  "example": "Scientists study the brain."
+ },
+ "suggest": {
+  "phonetic": "/səɡˈdʒɛst/",
+  "pos": "v.",
+  "zh": "建議",
+  "example": "Doctors suggest more rest."
+ },
+ "sunny": {
+  "phonetic": "/ˈsʌni/",
+  "pos": "adj.",
+  "zh": "晴朗的",
+  "example": "It is sunny today."
+ },
+ "sunset": {
+  "phonetic": "/ˈsʌnsɛt/",
+  "pos": "n.",
+  "zh": "夕陽；日落",
+  "example": "We watched the sunset by the sea."
+ },
+ "tainan": {
+  "phonetic": "/taɪˈnɑn/",
+  "pos": "n.",
+  "zh": "台南（台灣城市）",
+  "example": "Tainan is famous for its food."
+ },
+ "teacher": {
+  "phonetic": "/ˈtitʃɚ/",
+  "pos": "n.",
+  "zh": "老師",
+  "example": "The teacher is very kind."
+ },
+ "temple": {
+  "phonetic": "/ˈtɛmpəl/",
+  "pos": "n.",
+  "zh": "廟宇；寺廟",
+  "example": "The old temple is famous."
+ },
+ "than": {
+  "phonetic": "/ðæn/",
+  "pos": "conj.",
+  "zh": "比",
+  "example": "He is taller than me."
+ },
+ "their": {
+  "phonetic": "/ðɛr/",
+  "pos": "det.",
+  "zh": "他們的",
+  "example": "Customers save their time."
+ },
+ "them": {
+  "phonetic": "/ðɛm/",
+  "pos": "pron.",
+  "zh": "他們（受格）",
+  "example": "I put them in the basket."
+ },
+ "thirty": {
+  "phonetic": "/ˈθɝti/",
+  "pos": "det.",
+  "zh": "三十",
+  "example": "We leave at six thirty."
+ },
+ "ticket": {
+  "phonetic": "/ˈtɪkɪt/",
+  "pos": "n.",
+  "zh": "票；車票",
+  "example": "I bought two train tickets."
+ },
+ "tool": {
+  "phonetic": "/tul/",
+  "pos": "n.",
+  "zh": "工具",
+  "example": "Technology is a useful tool."
+ },
+ "town": {
+  "phonetic": "/taʊn/",
+  "pos": "n.",
+  "zh": "城鎮；市區",
+  "example": "He opened a shop across town."
+ },
+ "train": {
+  "phonetic": "/treɪn/",
+  "pos": "n.",
+  "zh": "火車",
+  "example": "The train leaves at eight."
+ },
+ "travel": {
+  "phonetic": "/ˈtrævəl/",
+  "pos": "v.",
+  "zh": "旅行；移動",
+  "example": "We traveled by train."
+ },
+ "trip": {
+  "phonetic": "/trɪp/",
+  "pos": "n.",
+  "zh": "旅行；行程",
+  "example": "The trip made us happy."
+ },
+ "turn": {
+  "phonetic": "/tɝn/",
+  "pos": "v.",
+  "zh": "轉變；轉動",
+  "example": "The sky turned pink."
+ },
+ "twelve": {
+  "phonetic": "/twɛlv/",
+  "pos": "det.",
+  "zh": "十二",
+  "example": "There are twelve months in a year."
+ },
+ "umbrella": {
+  "phonetic": "/ʌmˈbrɛlə/",
+  "pos": "n.",
+  "zh": "雨傘",
+  "example": "Take an umbrella with you."
+ },
+ "voice": {
+  "phonetic": "/vɔɪs/",
+  "pos": "n.",
+  "zh": "聲音；嗓音",
+  "example": "She has a soft voice."
+ },
+ "weather": {
+  "phonetic": "/ˈwɛðɚ/",
+  "pos": "n.",
+  "zh": "天氣",
+  "example": "The weather is sunny today."
+ },
+ "weekend": {
+  "phonetic": "/ˈwikɛnd/",
+  "pos": "n.",
+  "zh": "週末",
+  "example": "We took a weekend trip."
+ },
+ "well": {
+  "phonetic": "/wɛl/",
+  "pos": "adv.",
+  "zh": "好地；順利地",
+  "example": "The plan worked well."
+ },
+ "while": {
+  "phonetic": "/waɪl/",
+  "pos": "conj.",
+  "zh": "當……的時候",
+  "example": "The brain works while we rest."
+ },
+ "who": {
+  "phonetic": "/hu/",
+  "pos": "pron.",
+  "zh": "誰；（關係代名詞）……的人",
+  "example": "People who sleep well feel happy."
+ },
+ "wisely": {
+  "phonetic": "/ˈwaɪzli/",
+  "pos": "adv.",
+  "zh": "明智地；聰明地",
+  "example": "Use your time wisely."
+ },
+ "word": {
+  "phonetic": "/wɝd/",
+  "pos": "n.",
+  "zh": "字；單字",
+  "example": "He learns ten new words a day."
+ },
+ "worker": {
+  "phonetic": "/ˈwɝkɚ/",
+  "pos": "n.",
+  "zh": "工人；上班族",
+  "example": "Office workers pass by every day."
+ },
+ "worry": {
+  "phonetic": "/ˈwɝi/",
+  "pos": "v.",
+  "zh": "擔心",
+  "example": "Don't worry about money."
+ },
+ "accept": {
+  "phonetic": "/əkˈsɛpt/",
+  "pos": "v.",
+  "zh": "接受",
+  "example": "They accept credit cards."
+ },
+ "according": {
+  "phonetic": "/əˈkɔːrdɪŋ/",
+  "pos": "prep.",
+  "zh": "根據(according to)",
+  "example": "According to the news, it will rain."
+ },
+ "action": {
+  "phonetic": "/ˈækʃən/",
+  "pos": "n.",
+  "zh": "行動;行為",
+  "example": "We need to take action now."
+ },
+ "against": {
+  "phonetic": "/əˈɡɛnst/",
+  "pos": "prep.",
+  "zh": "對抗;反對",
+  "example": "They play against a strong team."
+ },
+ "answer": {
+  "phonetic": "/ˈænsər/",
+  "pos": "v.",
+  "zh": "回答",
+  "example": "Please answer my question."
+ },
+ "any": {
+  "phonetic": "/ˈɛni/",
+  "pos": "det.",
+  "zh": "任何的",
+  "example": "Do you have any money?"
+ },
+ "are": {
+  "phonetic": "/ɑːr/",
+  "pos": "v.",
+  "zh": "是(be 的形式)",
+  "example": "They are happy."
+ },
+ "article": {
+  "phonetic": "/ˈɑːrtɪkəl/",
+  "pos": "n.",
+  "zh": "文章",
+  "example": "I read an article today."
+ },
+ "as": {
+  "phonetic": "/æz/",
+  "pos": "conj.",
+  "zh": "當;像;因為",
+  "example": "As it grew dark, we left."
+ },
+ "assistant": {
+  "phonetic": "/əˈsɪstənt/",
+  "pos": "n.",
+  "zh": "助理",
+  "example": "The voice assistant plays music."
+ },
+ "atmosphere": {
+  "phonetic": "/ˈætməsfɪr/",
+  "pos": "n.",
+  "zh": "氣氛",
+  "example": "The café has a warm atmosphere."
+ },
+ "attraction": {
+  "phonetic": "/əˈtrækʃən/",
+  "pos": "n.",
+  "zh": "吸引人的事物;景點",
+  "example": "The temple is a famous attraction."
+ },
+ "bad": {
+  "phonetic": "/bæd/",
+  "pos": "adj.",
+  "zh": "壞的;不好的",
+  "example": "Smoking is bad for you."
+ },
+ "balcony": {
+  "phonetic": "/ˈbælkəni/",
+  "pos": "n.",
+  "zh": "陽台",
+  "example": "We grow flowers on the balcony."
+ },
+ "balloon": {
+  "phonetic": "/bəˈluːn/",
+  "pos": "n.",
+  "zh": "氣球",
+  "example": "The child held a red balloon."
+ },
+ "basic": {
+  "phonetic": "/ˈbeɪsɪk/",
+  "pos": "adj.",
+  "zh": "基本的",
+  "example": "This is a basic model."
+ },
+ "bean": {
+  "phonetic": "/biːn/",
+  "pos": "n.",
+  "zh": "豆子;咖啡豆",
+  "example": "They roast their own beans."
+ },
+ "bee": {
+  "phonetic": "/biː/",
+  "pos": "n.",
+  "zh": "蜜蜂",
+  "example": "A bee flew to the flower."
+ },
+ "beekeeper": {
+  "phonetic": "/ˈbiːkiːpər/",
+  "pos": "n.",
+  "zh": "養蜂人",
+  "example": "The beekeeper sells honey."
+ },
+ "been": {
+  "phonetic": "/bɪn/",
+  "pos": "v.",
+  "zh": "是(be 的過去分詞)",
+  "example": "I have been here before."
+ },
+ "benefit": {
+  "phonetic": "/ˈbɛnɪfɪt/",
+  "pos": "n.",
+  "zh": "好處;益處",
+  "example": "Walking has many benefits."
+ },
+ "besides": {
+  "phonetic": "/bɪˈsaɪdz/",
+  "pos": "prep.",
+  "zh": "除了……之外(還有)",
+  "example": "Besides food, they sell toys."
+ },
+ "best": {
+  "phonetic": "/bɛst/",
+  "pos": "adj.",
+  "zh": "最好的",
+  "example": "This is the best way to learn."
+ },
+ "bin": {
+  "phonetic": "/bɪn/",
+  "pos": "n.",
+  "zh": "垃圾桶;箱子",
+  "example": "Put the paper in the bin."
+ },
+ "blood": {
+  "phonetic": "/blʌd/",
+  "pos": "n.",
+  "zh": "血;血液",
+  "example": "Walking helps control blood pressure."
+ },
+ "bloom": {
+  "phonetic": "/bluːm/",
+  "pos": "v.",
+  "zh": "開花",
+  "example": "The flowers bloom in spring."
+ },
+ "bring": {
+  "phonetic": "/brɪŋ/",
+  "pos": "v.",
+  "zh": "帶來",
+  "example": "A photo can bring new visitors."
+ },
+ "build": {
+  "phonetic": "/bɪld/",
+  "pos": "v.",
+  "zh": "建立;建造",
+  "example": "They build strong relationships."
+ },
+ "carefully": {
+  "phonetic": "/ˈkɛrfəli/",
+  "pos": "adv.",
+  "zh": "仔細地",
+  "example": "Read the settings carefully."
+ },
+ "carry": {
+  "phonetic": "/ˈkæri/",
+  "pos": "v.",
+  "zh": "攜帶;運送",
+  "example": "The bee carries pollen."
+ },
+ "catch": {
+  "phonetic": "/kætʃ/",
+  "pos": "v.",
+  "zh": "抓住;捕捉",
+  "example": "Children catch small fish."
+ },
+ "chain": {
+  "phonetic": "/tʃeɪn/",
+  "pos": "n.",
+  "zh": "連鎖店",
+  "example": "Big chains are everywhere."
+ },
+ "chance": {
+  "phonetic": "/tʃæns/",
+  "pos": "n.",
+  "zh": "機會",
+  "example": "Do not miss the chance."
+ },
+ "check": {
+  "phonetic": "/tʃɛk/",
+  "pos": "v.",
+  "zh": "檢查;查看",
+  "example": "Check the weather first."
+ },
+ "chemical": {
+  "phonetic": "/ˈkɛmɪkəl/",
+  "pos": "n.",
+  "zh": "化學藥劑",
+  "example": "Some chemicals harm bees."
+ },
+ "climate": {
+  "phonetic": "/ˈklaɪmət/",
+  "pos": "n.",
+  "zh": "氣候",
+  "example": "Climate change is a big problem."
+ },
+ "comfortable": {
+  "phonetic": "/ˈkʌmftəbəl/",
+  "pos": "adj.",
+  "zh": "舒適的",
+  "example": "Wear comfortable shoes."
+ },
+ "command": {
+  "phonetic": "/kəˈmænd/",
+  "pos": "n.",
+  "zh": "指令;命令",
+  "example": "Speak a simple command."
+ },
+ "company": {
+  "phonetic": "/ˈkʌmpəni/",
+  "pos": "n.",
+  "zh": "公司",
+  "example": "The company says the data is safe."
+ },
+ "compete": {
+  "phonetic": "/kəmˈpiːt/",
+  "pos": "v.",
+  "zh": "競爭",
+  "example": "Small shops compete with big chains."
+ },
+ "competition": {
+  "phonetic": "/ˌkɑːmpəˈtɪʃən/",
+  "pos": "n.",
+  "zh": "競爭",
+  "example": "The competition is strong."
+ },
+ "completely": {
+  "phonetic": "/kəmˈpliːtli/",
+  "pos": "adv.",
+  "zh": "完全地",
+  "example": "He stopped completely."
+ },
+ "confuse": {
+  "phonetic": "/kənˈfjuːz/",
+  "pos": "v.",
+  "zh": "使混亂;使困惑",
+  "example": "The change confuses the seasons."
+ },
+ "continue": {
+  "phonetic": "/kənˈtɪnjuː/",
+  "pos": "v.",
+  "zh": "繼續",
+  "example": "New shops continue to open."
+ },
+ "control": {
+  "phonetic": "/kənˈtroʊl/",
+  "pos": "v.",
+  "zh": "控制",
+  "example": "The speaker can control lights."
+ },
+ "conversation": {
+  "phonetic": "/ˌkɑːnvərˈseɪʃən/",
+  "pos": "n.",
+  "zh": "對話",
+  "example": "We had a long conversation."
+ },
+ "corner": {
+  "phonetic": "/ˈkɔːrnər/",
+  "pos": "n.",
+  "zh": "角落;街角",
+  "example": "There is a shop on every corner."
+ },
+ "cost": {
+  "phonetic": "/kɔːst/",
+  "pos": "v.",
+  "zh": "花費;價值為",
+  "example": "It costs about ten dollars."
+ },
+ "country": {
+  "phonetic": "/ˈkʌntri/",
+  "pos": "n.",
+  "zh": "國家",
+  "example": "In some countries, bees are dying."
+ },
+ "create": {
+  "phonetic": "/kriˈeɪt/",
+  "pos": "v.",
+  "zh": "創造;營造",
+  "example": "They create a special atmosphere."
+ },
+ "data": {
+  "phonetic": "/ˈdeɪtə/",
+  "pos": "n.",
+  "zh": "資料;數據",
+  "example": "The data is safe."
+ },
+ "decade": {
+  "phonetic": "/ˈdɛkeɪd/",
+  "pos": "n.",
+  "zh": "十年",
+  "example": "The shop has run for decades."
+ },
+ "delete": {
+  "phonetic": "/dɪˈliːt/",
+  "pos": "v.",
+  "zh": "刪除",
+  "example": "You can delete old recordings."
+ },
+ "depend": {
+  "phonetic": "/dɪˈpɛnd/",
+  "pos": "v.",
+  "zh": "依賴;取決於",
+  "example": "Our food depends on bees."
+ },
+ "device": {
+  "phonetic": "/dɪˈvaɪs/",
+  "pos": "n.",
+  "zh": "裝置;設備",
+  "example": "These devices can play music."
+ },
+ "difficult": {
+  "phonetic": "/ˈdɪfɪkəlt/",
+  "pos": "adj.",
+  "zh": "困難的",
+  "example": "The app is not difficult."
+ },
+ "disappear": {
+  "phonetic": "/ˌdɪsəˈpɪr/",
+  "pos": "v.",
+  "zh": "消失",
+  "example": "Half of the hives disappeared."
+ },
+ "drop": {
+  "phonetic": "/drɑːp/",
+  "pos": "v.",
+  "zh": "下降;掉落",
+  "example": "Prices have dropped."
+ },
+ "elevator": {
+  "phonetic": "/ˈɛlɪveɪtər/",
+  "pos": "n.",
+  "zh": "電梯",
+  "example": "Take the stairs, not the elevator."
+ },
+ "enough": {
+  "phonetic": "/ɪˈnʌf/",
+  "pos": "adj.",
+  "zh": "足夠的",
+  "example": "Drink enough water."
+ },
+ "especially": {
+  "phonetic": "/ɪˈspɛʃəli/",
+  "pos": "adv.",
+  "zh": "尤其;特別是",
+  "example": "It is especially helpful for older people."
+ },
+ "exactly": {
+  "phonetic": "/ɪɡˈzæktli/",
+  "pos": "adv.",
+  "zh": "確切地;正好",
+  "example": "It is exactly half."
+ },
+ "expensive": {
+  "phonetic": "/ɪkˈspɛnsɪv/",
+  "pos": "adj.",
+  "zh": "昂貴的",
+  "example": "That model is more expensive."
+ },
+ "expert": {
+  "phonetic": "/ˈɛkspɜːrt/",
+  "pos": "n.",
+  "zh": "專家",
+  "example": "Experts suggest checking the settings."
+ },
+ "fall": {
+  "phonetic": "/fɔːl/",
+  "pos": "v.",
+  "zh": "下降;落下",
+  "example": "Bee numbers are falling."
+ },
+ "fan": {
+  "phonetic": "/fæn/",
+  "pos": "n.",
+  "zh": "電風扇",
+  "example": "Turn on the fan, please."
+ },
+ "farmer": {
+  "phonetic": "/ˈfɑːrmər/",
+  "pos": "n.",
+  "zh": "農民",
+  "example": "Farmers use chemicals."
+ },
+ "farm": {
+  "phonetic": "/fɑːrm/",
+  "pos": "n.",
+  "zh": "農場",
+  "example": "The honey comes from local farms."
+ },
+ "favorite": {
+  "phonetic": "/ˈfeɪvərɪt/",
+  "pos": "adj.",
+  "zh": "最喜愛的",
+  "example": "He remembers my favorite drink."
+ },
+ "field": {
+  "phonetic": "/fiːld/",
+  "pos": "n.",
+  "zh": "田野;領域",
+  "example": "Bees lose the wild fields."
+ },
+ "floor": {
+  "phonetic": "/flɔːr/",
+  "pos": "n.",
+  "zh": "地板;樓層",
+  "example": "Clean the floor."
+ },
+ "focus": {
+  "phonetic": "/ˈfoʊkəs/",
+  "pos": "v.",
+  "zh": "專注",
+  "example": "They focus on quality."
+ },
+ "foreign": {
+  "phonetic": "/ˈfɔːrən/",
+  "pos": "adj.",
+  "zh": "外國的",
+  "example": "Foreign tourists love it."
+ },
+ "friendly": {
+  "phonetic": "/ˈfrɛndli/",
+  "pos": "adj.",
+  "zh": "友善的;親切的",
+  "example": "The service is friendly."
+ },
+ "garden": {
+  "phonetic": "/ˈɡɑːrdən/",
+  "pos": "n.",
+  "zh": "花園",
+  "example": "A small garden helps bees."
+ },
+ "half": {
+  "phonetic": "/hæf/",
+  "pos": "n.",
+  "zh": "一半",
+  "example": "Half of the hives are gone."
+ },
+ "harm": {
+  "phonetic": "/hɑːrm/",
+  "pos": "v.",
+  "zh": "傷害",
+  "example": "Chemicals can harm bees."
+ },
+ "healthy": {
+  "phonetic": "/ˈhɛlθi/",
+  "pos": "adj.",
+  "zh": "健康的",
+  "example": "Stay healthy by walking."
+ },
+ "heart": {
+  "phonetic": "/hɑːrt/",
+  "pos": "n.",
+  "zh": "心臟",
+  "example": "Walking is good for the heart."
+ },
+ "high": {
+  "phonetic": "/haɪ/",
+  "pos": "adj.",
+  "zh": "高的",
+  "example": "Rent is high."
+ },
+ "hive": {
+  "phonetic": "/haɪv/",
+  "pos": "n.",
+  "zh": "蜂巢",
+  "example": "Many hives have disappeared."
+ },
+ "honey": {
+  "phonetic": "/ˈhʌni/",
+  "pos": "n.",
+  "zh": "蜂蜜",
+  "example": "Buy honey from local farms."
+ },
+ "hot": {
+  "phonetic": "/hɑːt/",
+  "pos": "adj.",
+  "zh": "熱的;燙的",
+  "example": "The coffee is too hot."
+ },
+ "however": {
+  "phonetic": "/haʊˈɛvər/",
+  "pos": "adv.",
+  "zh": "然而;不過",
+  "example": "However, some users worry."
+ },
+ "huge": {
+  "phonetic": "/hjuːdʒ/",
+  "pos": "adj.",
+  "zh": "巨大的",
+  "example": "Their job is huge."
+ },
+ "improve": {
+  "phonetic": "/ɪmˈpruːv/",
+  "pos": "v.",
+  "zh": "改善;進步",
+  "example": "Walking can improve your mood."
+ },
+ "include": {
+  "phonetic": "/ɪnˈkluːd/",
+  "pos": "v.",
+  "zh": "包括",
+  "example": "It will understand more languages, including Taiwanese."
+ },
+ "independent": {
+  "phonetic": "/ˌɪndɪˈpɛndənt/",
+  "pos": "adj.",
+  "zh": "獨立的",
+  "example": "Independent shops keep opening."
+ },
+ "insect": {
+  "phonetic": "/ˈɪnsɛkt/",
+  "pos": "n.",
+  "zh": "昆蟲",
+  "example": "Bees are busy insects."
+ },
+ "instead": {
+  "phonetic": "/ɪnˈstɛd/",
+  "pos": "adv.",
+  "zh": "代替;反而",
+  "example": "Take the stairs instead."
+ },
+ "international": {
+  "phonetic": "/ˌɪntərˈnæʃənəl/",
+  "pos": "adj.",
+  "zh": "國際的",
+  "example": "International chains are everywhere."
+ },
+ "is": {
+  "phonetic": "/ɪz/",
+  "pos": "v.",
+  "zh": "是(be 的形式)",
+  "example": "The food is great."
+ },
+ "kind": {
+  "phonetic": "/kaɪnd/",
+  "pos": "n.",
+  "zh": "種類",
+  "example": "It is a kind of chemical."
+ },
+ "knee": {
+  "phonetic": "/niː/",
+  "pos": "n.",
+  "zh": "膝蓋",
+  "example": "Walking causes less pain in the knees."
+ },
+ "language": {
+  "phonetic": "/ˈlæŋɡwɪdʒ/",
+  "pos": "n.",
+  "zh": "語言",
+  "example": "It understands more languages."
+ },
+ "least": {
+  "phonetic": "/liːst/",
+  "pos": "adv.",
+  "zh": "最少;至少(at least)",
+  "example": "Each city has at least one."
+ },
+ "lively": {
+  "phonetic": "/ˈlaɪvli/",
+  "pos": "adj.",
+  "zh": "熱鬧的;有活力的",
+  "example": "The atmosphere is lively."
+ },
+ "low": {
+  "phonetic": "/loʊ/",
+  "pos": "adj.",
+  "zh": "低的",
+  "example": "The prices are low."
+ },
+ "lower": {
+  "phonetic": "/ˈloʊər/",
+  "pos": "v.",
+  "zh": "降低",
+  "example": "They lower their prices."
+ },
+ "matter": {
+  "phonetic": "/ˈmætər/",
+  "pos": "v.",
+  "zh": "要緊;重要",
+  "example": "Bees matter to everyone."
+ },
+ "media": {
+  "phonetic": "/ˈmiːdiə/",
+  "pos": "n.",
+  "zh": "媒體",
+  "example": "Social media is important."
+ },
+ "medicine": {
+  "phonetic": "/ˈmɛdɪsən/",
+  "pos": "n.",
+  "zh": "藥;醫學",
+  "example": "Walking is the best medicine."
+ },
+ "microphone": {
+  "phonetic": "/ˈmaɪkrəfoʊn/",
+  "pos": "n.",
+  "zh": "麥克風",
+  "example": "Turn off the microphone."
+ },
+ "might": {
+  "phonetic": "/maɪt/",
+  "pos": "v.",
+  "zh": "可能",
+  "example": "They might record conversations."
+ },
+ "mind": {
+  "phonetic": "/maɪnd/",
+  "pos": "n.",
+  "zh": "頭腦;心智",
+  "example": "Walking is good for the mind."
+ },
+ "miss": {
+  "phonetic": "/mɪs/",
+  "pos": "v.",
+  "zh": "錯過;想念",
+  "example": "Do not miss the chance."
+ },
+ "mobile": {
+  "phonetic": "/ˈmoʊbəl/",
+  "pos": "adj.",
+  "zh": "行動的;流動的",
+  "example": "They accept mobile payments."
+ },
+ "model": {
+  "phonetic": "/ˈmɑːdəl/",
+  "pos": "n.",
+  "zh": "型號;款式",
+  "example": "This is a basic model."
+ },
+ "modern": {
+  "phonetic": "/ˈmɑːdərn/",
+  "pos": "adj.",
+  "zh": "現代的",
+  "example": "We live in a modern world."
+ },
+ "mood": {
+  "phonetic": "/muːd/",
+  "pos": "n.",
+  "zh": "心情",
+  "example": "A walk improves your mood."
+ },
+ "name": {
+  "phonetic": "/neɪm/",
+  "pos": "n.",
+  "zh": "名字",
+  "example": "Owners remember their names."
+ },
+ "never": {
+  "phonetic": "/ˈnɛvər/",
+  "pos": "adv.",
+  "zh": "從不",
+  "example": "Running a business is never easy."
+ },
+ "news": {
+  "phonetic": "/nuːz/",
+  "pos": "n.",
+  "zh": "消息;新聞",
+  "example": "The good news is everyone can help."
+ },
+ "nice": {
+  "phonetic": "/naɪs/",
+  "pos": "adj.",
+  "zh": "不錯的;好的",
+  "example": "We had a nice dinner."
+ },
+ "none": {
+  "phonetic": "/nʌn/",
+  "pos": "pron.",
+  "zh": "沒有一個;一點也沒有",
+  "example": "Almost none of it is left."
+ },
+ "number": {
+  "phonetic": "/ˈnʌmbər/",
+  "pos": "n.",
+  "zh": "數目;數量",
+  "example": "Bee numbers are falling."
+ },
+ "off": {
+  "phonetic": "/ɔːf/",
+  "pos": "adv.",
+  "zh": "關掉;離開",
+  "example": "Turn off the microphone."
+ },
+ "offer": {
+  "phonetic": "/ˈɔːfər/",
+  "pos": "v.",
+  "zh": "提供",
+  "example": "Markets offer games and clothes."
+ },
+ "omelet": {
+  "phonetic": "/ˈɑːmlət/",
+  "pos": "n.",
+  "zh": "煎蛋(蚵仔煎)",
+  "example": "I ate an oyster omelet."
+ },
+ "other": {
+  "phonetic": "/ˈʌðər/",
+  "pos": "det.",
+  "zh": "其他的",
+  "example": "Others provide recycling bins."
+ },
+ "oyster": {
+  "phonetic": "/ˈɔɪstər/",
+  "pos": "n.",
+  "zh": "牡蠣;蚵仔",
+  "example": "The oyster omelet is famous."
+ },
+ "pain": {
+  "phonetic": "/peɪn/",
+  "pos": "n.",
+  "zh": "疼痛",
+  "example": "There is less pain in the knees."
+ },
+ "payment": {
+  "phonetic": "/ˈpeɪmənt/",
+  "pos": "n.",
+  "zh": "付款;支付",
+  "example": "They accept mobile payments."
+ },
+ "pay": {
+  "phonetic": "/peɪ/",
+  "pos": "v.",
+  "zh": "支付",
+  "example": "It pays their rent."
+ },
+ "perfect": {
+  "phonetic": "/ˈpɜːrfɪkt/",
+  "pos": "adj.",
+  "zh": "完美的",
+  "example": "They make the perfect cup."
+ },
+ "perhaps": {
+  "phonetic": "/pərˈhæps/",
+  "pos": "adv.",
+  "zh": "也許",
+  "example": "Perhaps every home will have one."
+ },
+ "plant": {
+  "phonetic": "/plænt/",
+  "pos": "v.",
+  "zh": "種植;植物",
+  "example": "Plant flowers on your balcony."
+ },
+ "plastic": {
+  "phonetic": "/ˈplæstɪk/",
+  "pos": "n.",
+  "zh": "塑膠",
+  "example": "They reduce plastic waste."
+ },
+ "pollen": {
+  "phonetic": "/ˈpɑːlən/",
+  "pos": "n.",
+  "zh": "花粉",
+  "example": "The bee carries pollen."
+ },
+ "pollination": {
+  "phonetic": "/ˌpɑːləˈneɪʃən/",
+  "pos": "n.",
+  "zh": "授粉",
+  "example": "Pollination helps plants grow fruit."
+ },
+ "popular": {
+  "phonetic": "/ˈpɑːpjələr/",
+  "pos": "adj.",
+  "zh": "受歡迎的",
+  "example": "Night markets are popular."
+ },
+ "pressure": {
+  "phonetic": "/ˈprɛʃər/",
+  "pos": "n.",
+  "zh": "壓力;血壓",
+  "example": "It controls blood pressure."
+ },
+ "privacy": {
+  "phonetic": "/ˈpraɪvəsi/",
+  "pos": "n.",
+  "zh": "隱私",
+  "example": "Users worry about privacy."
+ },
+ "private": {
+  "phonetic": "/ˈpraɪvət/",
+  "pos": "adj.",
+  "zh": "私人的",
+  "example": "It may record private conversations."
+ },
+ "prize": {
+  "phonetic": "/praɪz/",
+  "pos": "n.",
+  "zh": "獎品",
+  "example": "They win prizes at games."
+ },
+ "process": {
+  "phonetic": "/ˈprɑːsɛs/",
+  "pos": "n.",
+  "zh": "過程",
+  "example": "This process is called pollination."
+ },
+ "produce": {
+  "phonetic": "/prəˈduːs/",
+  "pos": "v.",
+  "zh": "生產;製造",
+  "example": "Plants produce fruit and seeds."
+ },
+ "profit": {
+  "phonetic": "/ˈprɑːfɪt/",
+  "pos": "n.",
+  "zh": "利潤",
+  "example": "Profits are often low."
+ },
+ "provide": {
+  "phonetic": "/prəˈvaɪd/",
+  "pos": "v.",
+  "zh": "提供",
+  "example": "They provide recycling bins."
+ },
+ "quality": {
+  "phonetic": "/ˈkwɑːləti/",
+  "pos": "n.",
+  "zh": "品質",
+  "example": "They focus on quality."
+ },
+ "quietly": {
+  "phonetic": "/ˈkwaɪətli/",
+  "pos": "adv.",
+  "zh": "安靜地",
+  "example": "Please speak quietly."
+ },
+ "real": {
+  "phonetic": "/riːl/",
+  "pos": "adj.",
+  "zh": "真實的",
+  "example": "Taste real local life."
+ },
+ "reason": {
+  "phonetic": "/ˈriːzən/",
+  "pos": "n.",
+  "zh": "原因",
+  "example": "There are several reasons."
+ },
+ "recent": {
+  "phonetic": "/ˈriːsənt/",
+  "pos": "adj.",
+  "zh": "最近的",
+  "example": "Prices dropped in recent years."
+ },
+ "record": {
+  "phonetic": "/rɪˈkɔːrd/",
+  "pos": "v.",
+  "zh": "錄下;記錄",
+  "example": "It might record conversations."
+ },
+ "recording": {
+  "phonetic": "/rɪˈkɔːrdɪŋ/",
+  "pos": "n.",
+  "zh": "錄音",
+  "example": "Delete the old recordings."
+ },
+ "recycling": {
+  "phonetic": "/ˌriːˈsaɪklɪŋ/",
+  "pos": "n.",
+  "zh": "回收",
+  "example": "They put out recycling bins."
+ },
+ "reduce": {
+  "phonetic": "/rɪˈduːs/",
+  "pos": "v.",
+  "zh": "減少",
+  "example": "This reduces plastic waste."
+ },
+ "regular": {
+  "phonetic": "/ˈrɛɡjələr/",
+  "pos": "adj.",
+  "zh": "固定的;常規的",
+  "example": "A regular customer comes daily."
+ },
+ "relationship": {
+  "phonetic": "/rɪˈleɪʃənʃɪp/",
+  "pos": "n.",
+  "zh": "關係",
+  "example": "They build strong relationships."
+ },
+ "require": {
+  "phonetic": "/rɪˈkwaɪər/",
+  "pos": "v.",
+  "zh": "需要;要求",
+  "example": "It does not require a hard app."
+ },
+ "research": {
+  "phonetic": "/ˈriːsɜːrtʃ/",
+  "pos": "n.",
+  "zh": "研究",
+  "example": "Research shows walking is good."
+ },
+ "road": {
+  "phonetic": "/roʊd/",
+  "pos": "n.",
+  "zh": "道路",
+  "example": "They build more roads in cities."
+ },
+ "roast": {
+  "phonetic": "/roʊst/",
+  "pos": "v.",
+  "zh": "烘烤;烘焙",
+  "example": "Owners roast their own beans."
+ },
+ "role": {
+  "phonetic": "/roʊl/",
+  "pos": "n.",
+  "zh": "角色",
+  "example": "Media plays a role."
+ },
+ "sadly": {
+  "phonetic": "/ˈsædli/",
+  "pos": "adv.",
+  "zh": "遺憾地;可惜",
+  "example": "Sadly, bee numbers are falling."
+ },
+ "safe": {
+  "phonetic": "/seɪf/",
+  "pos": "adj.",
+  "zh": "安全的",
+  "example": "The data is safe."
+ },
+ "season": {
+  "phonetic": "/ˈsiːzən/",
+  "pos": "n.",
+  "zh": "季節",
+  "example": "Climate change confuses the seasons."
+ },
+ "seed": {
+  "phonetic": "/siːd/",
+  "pos": "n.",
+  "zh": "種子",
+  "example": "Plants produce fruit and seeds."
+ },
+ "service": {
+  "phonetic": "/ˈsɜːrvɪs/",
+  "pos": "n.",
+  "zh": "服務",
+  "example": "The service is friendly."
+ },
+ "set": {
+  "phonetic": "/sɛt/",
+  "pos": "v.",
+  "zh": "設定;放置",
+  "example": "Set an alarm for six."
+ },
+ "setting": {
+  "phonetic": "/ˈsɛtɪŋ/",
+  "pos": "n.",
+  "zh": "設定",
+  "example": "Check the settings carefully."
+ },
+ "several": {
+  "phonetic": "/ˈsɛvrəl/",
+  "pos": "det.",
+  "zh": "幾個;數個",
+  "example": "There are several reasons."
+ },
+ "share": {
+  "phonetic": "/ʃɛr/",
+  "pos": "v.",
+  "zh": "分享",
+  "example": "Sharing good coffee is worth it."
+ },
+ "shoe": {
+  "phonetic": "/ʃuː/",
+  "pos": "n.",
+  "zh": "鞋子",
+  "example": "Wear comfortable shoes."
+ },
+ "shoot": {
+  "phonetic": "/ʃuːt/",
+  "pos": "v.",
+  "zh": "射擊",
+  "example": "Children shoot balloons."
+ },
+ "should": {
+  "phonetic": "/ʃʊd/",
+  "pos": "v.",
+  "zh": "應該",
+  "example": "How long should I walk?"
+ },
+ "similar": {
+  "phonetic": "/ˈsɪmələr/",
+  "pos": "adj.",
+  "zh": "類似的",
+  "example": "It gives similar benefits."
+ },
+ "single": {
+  "phonetic": "/ˈsɪŋɡəl/",
+  "pos": "adj.",
+  "zh": "單一的;每一個",
+  "example": "Every single cup matters."
+ },
+ "social": {
+  "phonetic": "/ˈsoʊʃəl/",
+  "pos": "adj.",
+  "zh": "社交的;社會的",
+  "example": "Social media is important."
+ },
+ "something": {
+  "phonetic": "/ˈsʌmθɪŋ/",
+  "pos": "pron.",
+  "zh": "某事;某物",
+  "example": "They look for something new."
+ },
+ "speak": {
+  "phonetic": "/spiːk/",
+  "pos": "v.",
+  "zh": "說;講",
+  "example": "Just speak a command."
+ },
+ "speaker": {
+  "phonetic": "/ˈspiːkər/",
+  "pos": "n.",
+  "zh": "音箱;喇叭",
+  "example": "The smart speaker plays music."
+ },
+ "special": {
+  "phonetic": "/ˈspɛʃəl/",
+  "pos": "adj.",
+  "zh": "特別的",
+  "example": "They create a special atmosphere."
+ },
+ "stair": {
+  "phonetic": "/stɛr/",
+  "pos": "n.",
+  "zh": "樓梯",
+  "example": "Take the stairs, not the elevator."
+ },
+ "strawberry": {
+  "phonetic": "/ˈstrɔːbɛri/",
+  "pos": "n.",
+  "zh": "草莓",
+  "example": "Strawberries need bees."
+ },
+ "stress": {
+  "phonetic": "/strɛs/",
+  "pos": "n.",
+  "zh": "壓力",
+  "example": "A walk can reduce stress."
+ },
+ "such": {
+  "phonetic": "/sʌtʃ/",
+  "pos": "det.",
+  "zh": "如此的;這樣的",
+  "example": "They face such strong competition."
+ },
+ "support": {
+  "phonetic": "/səˈpɔːrt/",
+  "pos": "v.",
+  "zh": "支持",
+  "example": "Buying honey supports beekeepers."
+ },
+ "survive": {
+  "phonetic": "/sərˈvaɪv/",
+  "pos": "v.",
+  "zh": "生存;存活",
+  "example": "Traditions survive in a modern world."
+ },
+ "taiwanese": {
+  "phonetic": "/ˌtaɪwɑːˈniːz/",
+  "pos": "adj.",
+  "zh": "台灣的;台語",
+  "example": "It is part of Taiwanese culture."
+ },
+ "thank": {
+  "phonetic": "/θæŋk/",
+  "pos": "v.",
+  "zh": "感謝",
+  "example": "Your body will thank you."
+ },
+ "third": {
+  "phonetic": "/θɜːrd/",
+  "pos": "adv.",
+  "zh": "第三;三分之一",
+  "example": "One third of our food depends on bees."
+ },
+ "through": {
+  "phonetic": "/θruː/",
+  "pos": "prep.",
+  "zh": "穿過;經過",
+  "example": "Walk through a night market."
+ },
+ "tourist": {
+  "phonetic": "/ˈtʊrɪst/",
+  "pos": "n.",
+  "zh": "觀光客",
+  "example": "Foreign tourists love it."
+ },
+ "tradition": {
+  "phonetic": "/trəˈdɪʃən/",
+  "pos": "n.",
+  "zh": "傳統",
+  "example": "Old traditions survive."
+ },
+ "true": {
+  "phonetic": "/truː/",
+  "pos": "adj.",
+  "zh": "真的;正確的",
+  "example": "This is not true."
+ },
+ "unforgettable": {
+  "phonetic": "/ˌʌnfərˈɡɛtəbəl/",
+  "pos": "adj.",
+  "zh": "難忘的",
+  "example": "The atmosphere is unforgettable."
+ },
+ "user": {
+  "phonetic": "/ˈjuːzər/",
+  "pos": "n.",
+  "zh": "使用者",
+  "example": "Some users worry about privacy."
+ },
+ "visitor": {
+  "phonetic": "/ˈvɪzɪtər/",
+  "pos": "n.",
+  "zh": "訪客;遊客",
+  "example": "It brings new visitors."
+ },
+ "wash": {
+  "phonetic": "/wɑːʃ/",
+  "pos": "v.",
+  "zh": "洗",
+  "example": "Wash your clothes at home."
+ },
+ "waste": {
+  "phonetic": "/weɪst/",
+  "pos": "n.",
+  "zh": "垃圾;浪費",
+  "example": "They reduce plastic waste."
+ },
+ "wear": {
+  "phonetic": "/wɛr/",
+  "pos": "v.",
+  "zh": "穿;戴",
+  "example": "Wear comfortable shoes."
+ },
+ "which": {
+  "phonetic": "/wɪtʃ/",
+  "pos": "pron.",
+  "zh": "哪一個;(引導子句)",
+  "example": "Walk with a friend, which helps."
+ },
+ "wild": {
+  "phonetic": "/waɪld/",
+  "pos": "adj.",
+  "zh": "野生的;荒野的",
+  "example": "Bees lose the wild fields."
+ },
+ "will": {
+  "phonetic": "/wɪl/",
+  "pos": "v.",
+  "zh": "將會",
+  "example": "Every home will have one."
+ },
+ "world": {
+  "phonetic": "/wɜːrld/",
+  "pos": "n.",
+  "zh": "世界",
+  "example": "Bee numbers are falling around the world."
+ },
+ "worth": {
+  "phonetic": "/wɜːrθ/",
+  "pos": "adj.",
+  "zh": "值得的",
+  "example": "It is worth the hard work."
+ },
+ "wrong": {
+  "phonetic": "/rɔːŋ/",
+  "pos": "adj.",
+  "zh": "錯誤的",
+  "example": "Flowers bloom at the wrong time."
+ },
+ "actually": {
+  "phonetic": "/ˈæktʃuəli/",
+  "pos": "adv.",
+  "zh": "實際上；其實",
+  "example": "The trick actually works very well."
+ },
+ "agree": {
+  "phonetic": "/əˈɡri/",
+  "pos": "v.",
+  "zh": "同意",
+  "example": "We both agreed on the plan."
+ },
+ "appear": {
+  "phonetic": "/əˈpɪr/",
+  "pos": "v.",
+  "zh": "出現",
+  "example": "These two words often appear together."
+ },
+ "aside": {
+  "phonetic": "/əˈsaɪd/",
+  "pos": "adv.",
+  "zh": "在一旁；到一邊",
+  "example": "She put her worry aside and smiled."
+ },
+ "believe": {
+  "phonetic": "/bɪˈliv/",
+  "pos": "v.",
+  "zh": "相信",
+  "example": "I believe your story."
+ },
+ "below": {
+  "phonetic": "/bɪˈloʊ/",
+  "pos": "prep.",
+  "zh": "在……下面",
+  "example": "The village lies below the mountain."
+ },
+ "beside": {
+  "phonetic": "/bɪˈsaɪd/",
+  "pos": "prep.",
+  "zh": "在……旁邊",
+  "example": "She sat beside me on the train."
+ },
+ "block": {
+  "phonetic": "/blɑk/",
+  "pos": "v.",
+  "zh": "阻擋",
+  "example": "A truck blocked the narrow road."
+ },
+ "bored": {
+  "phonetic": "/bɔrd/",
+  "pos": "adj.",
+  "zh": "感到無聊的",
+  "example": "We never felt bored on the trip."
+ },
+ "branch": {
+  "phonetic": "/bræntʃ/",
+  "pos": "n.",
+  "zh": "樹枝",
+  "example": "A bird sat on the low branch."
+ },
+ "break": {
+  "phonetic": "/breɪk/",
+  "pos": "v.",
+  "zh": "打破；折斷",
+  "example": "Be careful not to break the glass."
+ },
+ "breathe": {
+  "phonetic": "/brið/",
+  "pos": "v.",
+  "zh": "呼吸",
+  "example": "Breathe slowly and relax."
+ },
+ "care": {
+  "phonetic": "/kɛr/",
+  "pos": "v.",
+  "zh": "照顧；在乎",
+  "example": "We should care for old trees."
+ },
+ "century": {
+  "phonetic": "/ˈsɛntʃəri/",
+  "pos": "n.",
+  "zh": "世紀；一百年",
+  "example": "The temple is two centuries old."
+ },
+ "chewy": {
+  "phonetic": "/ˈtʃui/",
+  "pos": "adj.",
+  "zh": "有嚼勁的",
+  "example": "These noodles are soft and chewy."
+ },
+ "clear": {
+  "phonetic": "/klɪr/",
+  "pos": "adj.",
+  "zh": "清楚的；明顯的",
+  "example": "The change was clear after a month."
+ },
+ "cliff": {
+  "phonetic": "/klɪf/",
+  "pos": "n.",
+  "zh": "懸崖",
+  "example": "Waves hit the rocks below the cliff."
+ },
+ "cloud": {
+  "phonetic": "/klaʊd/",
+  "pos": "n.",
+  "zh": "雲",
+  "example": "Cool clouds cover the mountain."
+ },
+ "coast": {
+  "phonetic": "/koʊst/",
+  "pos": "n.",
+  "zh": "海岸",
+  "example": "The east coast is beautiful."
+ },
+ "common": {
+  "phonetic": "/ˈkɑmən/",
+  "pos": "adj.",
+  "zh": "常見的",
+  "example": "Rain is common in spring."
+ },
+ "copy": {
+  "phonetic": "/ˈkɑpi/",
+  "pos": "v.",
+  "zh": "抄寫；模仿",
+  "example": "Do not copy your classmate's work."
+ },
+ "cover": {
+  "phonetic": "/ˈkʌvɚ/",
+  "pos": "v.",
+  "zh": "覆蓋",
+  "example": "Snow covered the whole road."
+ },
+ "cut": {
+  "phonetic": "/kʌt/",
+  "pos": "v.",
+  "zh": "切；剪；砍",
+  "example": "Do not cut the tree's roots."
+ },
+ "decide": {
+  "phonetic": "/dɪˈsaɪd/",
+  "pos": "v.",
+  "zh": "決定",
+  "example": "I decided to take the slow train."
+ },
+ "deep": {
+  "phonetic": "/dip/",
+  "pos": "adj.",
+  "zh": "深的",
+  "example": "The lake is deep and blue."
+ },
+ "degree": {
+  "phonetic": "/dɪˈɡri/",
+  "pos": "n.",
+  "zh": "度（溫度）；程度",
+  "example": "It is five degrees cooler under the tree."
+ },
+ "destination": {
+  "phonetic": "/ˌdɛstəˈneɪʃən/",
+  "pos": "n.",
+  "zh": "目的地",
+  "example": "We reached our destination at noon."
+ },
+ "dictionary": {
+  "phonetic": "/ˈdɪkʃəˌnɛri/",
+  "pos": "n.",
+  "zh": "字典",
+  "example": "Look up the word in a dictionary."
+ },
+ "different": {
+  "phonetic": "/ˈdɪfərənt/",
+  "pos": "adj.",
+  "zh": "不同的",
+  "example": "She taught me a different lesson."
+ },
+ "direction": {
+  "phonetic": "/dəˈrɛkʃən/",
+  "pos": "n.",
+  "zh": "方向；指引",
+  "example": "He asked me for directions."
+ },
+ "dirty": {
+  "phonetic": "/ˈdɝti/",
+  "pos": "adj.",
+  "zh": "髒的",
+  "example": "Dirty air harms the leaves."
+ },
+ "down": {
+  "phonetic": "/daʊn/",
+  "pos": "adv.",
+  "zh": "向下；（沿著）往前",
+  "example": "Write your idea down in a notebook."
+ },
+ "dry": {
+  "phonetic": "/draɪ/",
+  "pos": "adj.",
+  "zh": "乾燥的",
+  "example": "The weather is hot and dry."
+ },
+ "dust": {
+  "phonetic": "/dʌst/",
+  "pos": "n.",
+  "zh": "灰塵",
+  "example": "The shelf was covered with dust."
+ },
+ "expression": {
+  "phonetic": "/ɪkˈsprɛʃən/",
+  "pos": "n.",
+  "zh": "說法；表達",
+  "example": "This local expression is hard to translate."
+ },
+ "favor": {
+  "phonetic": "/ˈfeɪvɚ/",
+  "pos": "n.",
+  "zh": "恩惠；（return the favor）回報",
+  "example": "Can you do me a favor?"
+ },
+ "fine": {
+  "phonetic": "/faɪn/",
+  "pos": "adj.",
+  "zh": "優質的；好的",
+  "example": "This shop sells the finest tea."
+ },
+ "finish": {
+  "phonetic": "/ˈfɪnɪʃ/",
+  "pos": "v.",
+  "zh": "完成",
+  "example": "I finished my work early."
+ },
+ "flood": {
+  "phonetic": "/flʌd/",
+  "pos": "n.",
+  "zh": "洪水；淹水",
+  "example": "The storm caused a flood."
+ },
+ "forty": {
+  "phonetic": "/ˈfɔrti/",
+  "pos": "det.",
+  "zh": "四十",
+  "example": "The drink was invented about forty years ago."
+ },
+ "funny": {
+  "phonetic": "/ˈfʌni/",
+  "pos": "adj.",
+  "zh": "好笑的",
+  "example": "He told a funny joke."
+ },
+ "glass": {
+  "phonetic": "/ɡlæs/",
+  "pos": "n.",
+  "zh": "玻璃杯；玻璃",
+  "example": "She drank a glass of warm water."
+ },
+ "ground": {
+  "phonetic": "/ɡraʊnd/",
+  "pos": "n.",
+  "zh": "地面",
+  "example": "The hard ground presses on the roots."
+ },
+ "guest": {
+  "phonetic": "/ɡɛst/",
+  "pos": "n.",
+  "zh": "客人",
+  "example": "The guests hold their cups with two hands."
+ },
+ "hand": {
+  "phonetic": "/hænd/",
+  "pos": "n.",
+  "zh": "手",
+  "example": "She held the cup with two hands."
+ },
+ "here": {
+  "phonetic": "/hɪr/",
+  "pos": "adv.",
+  "zh": "這裡",
+  "example": "You are welcome here."
+ },
+ "history": {
+  "phonetic": "/ˈhɪstəri/",
+  "pos": "n.",
+  "zh": "歷史",
+  "example": "The museum shows local history."
+ },
+ "hit": {
+  "phonetic": "/hɪt/",
+  "pos": "v.",
+  "zh": "拍打；撞擊",
+  "example": "White waves hit the dark rocks."
+ },
+ "hold": {
+  "phonetic": "/hoʊld/",
+  "pos": "v.",
+  "zh": "拿著；捧著",
+  "example": "Hold the cup with two hands."
+ },
+ "hometown": {
+  "phonetic": "/ˈhoʊmˌtaʊn/",
+  "pos": "n.",
+  "zh": "家鄉",
+  "example": "He misses his hometown."
+ },
+ "host": {
+  "phonetic": "/hoʊst/",
+  "pos": "n.",
+  "zh": "主人",
+  "example": "The host serves tea first."
+ },
+ "house": {
+  "phonetic": "/haʊs/",
+  "pos": "n.",
+  "zh": "房子；館",
+  "example": "They opened a modern tea house."
+ },
+ "hualien": {
+  "phonetic": "/ˌhwɑˈljɛn/",
+  "pos": "n.",
+  "zh": "花蓮（台灣東部城市）",
+  "example": "Hualien is famous for its coast."
+ },
+ "human": {
+  "phonetic": "/ˈhjumən/",
+  "pos": "n.",
+  "zh": "人類",
+  "example": "Humans translated these sentences."
+ },
+ "iced": {
+  "phonetic": "/aɪst/",
+  "pos": "adj.",
+  "zh": "冰的；加冰的",
+  "example": "She ordered an iced tea."
+ },
+ "into": {
+  "phonetic": "/ˈɪntu/",
+  "pos": "prep.",
+  "zh": "進入；變成",
+  "example": "The city turned into green fields."
+ },
+ "invent": {
+  "phonetic": "/ɪnˈvɛnt/",
+  "pos": "v.",
+  "zh": "發明",
+  "example": "Bubble tea was invented in Taiwan."
+ },
+ "its": {
+  "phonetic": "/ɪts/",
+  "pos": "pron.",
+  "zh": "它的",
+  "example": "The tree lost its leaves."
+ },
+ "joke": {
+  "phonetic": "/dʒoʊk/",
+  "pos": "n.",
+  "zh": "笑話",
+  "example": "Machines often miss the point of jokes."
+ },
+ "journey": {
+  "phonetic": "/ˈdʒɝni/",
+  "pos": "n.",
+  "zh": "旅程",
+  "example": "The journey matters more than the destination."
+ },
+ "large": {
+  "phonetic": "/lɑrdʒ/",
+  "pos": "adj.",
+  "zh": "大的",
+  "example": "We rested under a large tree."
+ },
+ "learner": {
+  "phonetic": "/ˈlɝnɚ/",
+  "pos": "n.",
+  "zh": "學習者",
+  "example": "This book is for English learners."
+ },
+ "left": {
+  "phonetic": "/lɛft/",
+  "pos": "adj.",
+  "zh": "左邊的",
+  "example": "Everyone moved to the left side."
+ },
+ "leg": {
+  "phonetic": "/lɛɡ/",
+  "pos": "n.",
+  "zh": "腿",
+  "example": "He hurt his leg while running."
+ },
+ "let": {
+  "phonetic": "/lɛt/",
+  "pos": "v.",
+  "zh": "讓",
+  "example": "Do not let the app think for you."
+ },
+ "likely": {
+  "phonetic": "/ˈlaɪkli/",
+  "pos": "adj.",
+  "zh": "可能的",
+  "example": "The app picks the most likely translation."
+ },
+ "line": {
+  "phonetic": "/laɪn/",
+  "pos": "n.",
+  "zh": "行；線",
+  "example": "She wrote three short lines."
+ },
+ "live": {
+  "phonetic": "/lɪv/",
+  "pos": "v.",
+  "zh": "居住；存活",
+  "example": "Forest trees can live for centuries."
+ },
+ "machine": {
+  "phonetic": "/məˈʃin/",
+  "pos": "n.",
+  "zh": "機器",
+  "example": "Machines still make mistakes."
+ },
+ "magic": {
+  "phonetic": "/ˈmædʒɪk/",
+  "pos": "n.",
+  "zh": "魔法",
+  "example": "How does this magic actually work?"
+ },
+ "man": {
+  "phonetic": "/mæn/",
+  "pos": "n.",
+  "zh": "男人",
+  "example": "An old man sat beside us."
+ },
+ "master": {
+  "phonetic": "/ˈmæstɚ/",
+  "pos": "n.",
+  "zh": "大師；師傅",
+  "example": "The tea master smelled the dry leaves."
+ },
+ "medical": {
+  "phonetic": "/ˈmɛdɪkəl/",
+  "pos": "adj.",
+  "zh": "醫療的",
+  "example": "The app gave a medical warning by mistake."
+ },
+ "menu": {
+  "phonetic": "/ˈmɛnju/",
+  "pos": "n.",
+  "zh": "菜單",
+  "example": "The app translated the menu in seconds."
+ },
+ "method": {
+  "phonetic": "/ˈmɛθəd/",
+  "pos": "n.",
+  "zh": "方法",
+  "example": "This method works well for common topics."
+ },
+ "million": {
+  "phonetic": "/ˈmɪljən/",
+  "pos": "n.",
+  "zh": "百萬",
+  "example": "The app studies millions of sentences."
+ },
+ "mistake": {
+  "phonetic": "/mɪˈsteɪk/",
+  "pos": "n.",
+  "zh": "錯誤",
+  "example": "Machines make funny mistakes with jokes."
+ },
+ "mix": {
+  "phonetic": "/mɪks/",
+  "pos": "v.",
+  "zh": "混合",
+  "example": "The drink mixes tea, milk, and chewy balls."
+ },
+ "museum": {
+  "phonetic": "/mjuˈziəm/",
+  "pos": "n.",
+  "zh": "博物館",
+  "example": "The museum shows local history."
+ },
+ "nearby": {
+  "phonetic": "/ˌnɪrˈbaɪ/",
+  "pos": "adv.",
+  "zh": "在附近",
+  "example": "Old trees help sick trees nearby."
+ },
+ "nobody": {
+  "phonetic": "/ˈnoʊˌbɑdi/",
+  "pos": "pron.",
+  "zh": "沒有人",
+  "example": "Nobody hurries at tea time."
+ },
+ "noon": {
+  "phonetic": "/nun/",
+  "pos": "n.",
+  "zh": "中午",
+  "example": "We ate lunch at noon."
+ },
+ "notebook": {
+  "phonetic": "/ˈnoʊtˌbʊk/",
+  "pos": "n.",
+  "zh": "筆記本",
+  "example": "She writes in a small notebook."
+ },
+ "notice": {
+  "phonetic": "/ˈnoʊtɪs/",
+  "pos": "v.",
+  "zh": "注意到",
+  "example": "I noticed a clear change."
+ },
+ "ocean": {
+  "phonetic": "/ˈoʊʃən/",
+  "pos": "n.",
+  "zh": "海洋",
+  "example": "We watched the ocean from the train."
+ },
+ "once": {
+  "phonetic": "/wʌns/",
+  "pos": "adv.",
+  "zh": "曾經；一次",
+  "example": "An app once made a funny mistake."
+ },
+ "oolong": {
+  "phonetic": "/ˈuˌlɔŋ/",
+  "pos": "n.",
+  "zh": "烏龍茶",
+  "example": "Taiwan grows fine oolong tea."
+ },
+ "partner": {
+  "phonetic": "/ˈpɑrtnɚ/",
+  "pos": "n.",
+  "zh": "夥伴",
+  "example": "Technology is a helpful partner."
+ },
+ "person": {
+  "phonetic": "/ˈpɝsən/",
+  "pos": "n.",
+  "zh": "人",
+  "example": "She is a very kind person."
+ },
+ "phrase": {
+  "phonetic": "/freɪz/",
+  "pos": "n.",
+  "zh": "片語",
+  "example": "Learn useful words and phrases."
+ },
+ "piece": {
+  "phonetic": "/pis/",
+  "pos": "n.",
+  "zh": "一塊；一片",
+  "example": "You can taste a piece of local culture."
+ },
+ "poem": {
+  "phonetic": "/ˈpoʊəm/",
+  "pos": "n.",
+  "zh": "詩",
+  "example": "Poems are hard to translate."
+ },
+ "pork": {
+  "phonetic": "/pɔrk/",
+  "pos": "n.",
+  "zh": "豬肉",
+  "example": "The lunch box has rice and pork."
+ },
+ "pour": {
+  "phonetic": "/pɔr/",
+  "pos": "v.",
+  "zh": "倒（茶、水）",
+  "example": "She pours the tea slowly."
+ },
+ "predict": {
+  "phonetic": "/prɪˈdɪkt/",
+  "pos": "v.",
+  "zh": "預測",
+  "example": "The app predicts the most likely translation."
+ },
+ "prefer": {
+  "phonetic": "/prɪˈfɝ/",
+  "pos": "v.",
+  "zh": "比較喜歡",
+  "example": "Young people prefer bubble tea."
+ },
+ "press": {
+  "phonetic": "/prɛs/",
+  "pos": "v.",
+  "zh": "壓；按",
+  "example": "Hard ground presses on the roots."
+ },
+ "prevent": {
+  "phonetic": "/prɪˈvɛnt/",
+  "pos": "v.",
+  "zh": "防止",
+  "example": "Tree roots help prevent floods."
+ },
+ "probably": {
+  "phonetic": "/ˈprɑbəbli/",
+  "pos": "adv.",
+  "zh": "可能；大概",
+  "example": "You probably pass them every day."
+ },
+ "railway": {
+  "phonetic": "/ˈreɪlˌweɪ/",
+  "pos": "n.",
+  "zh": "鐵路",
+  "example": "We bought railway lunch boxes."
+ },
+ "rainwater": {
+  "phonetic": "/ˈreɪnˌwɔtɚ/",
+  "pos": "n.",
+  "zh": "雨水",
+  "example": "Tree roots drink rainwater."
+ },
+ "reach": {
+  "phonetic": "/ritʃ/",
+  "pos": "v.",
+  "zh": "到達",
+  "example": "The train reached the coast at last."
+ },
+ "respect": {
+  "phonetic": "/rɪˈspɛkt/",
+  "pos": "n.",
+  "zh": "尊重",
+  "example": "They hold the cup to show respect."
+ },
+ "result": {
+  "phonetic": "/rɪˈzʌlt/",
+  "pos": "n.",
+  "zh": "結果",
+  "example": "Check the result carefully."
+ },
+ "return": {
+  "phonetic": "/rɪˈtɝn/",
+  "pos": "v.",
+  "zh": "回報；返回",
+  "example": "They quietly return the favor."
+ },
+ "rich": {
+  "phonetic": "/rɪtʃ/",
+  "pos": "adj.",
+  "zh": "肥沃的；豐富的；有錢的",
+  "example": "Rich soil grows good tea."
+ },
+ "root": {
+  "phonetic": "/rut/",
+  "pos": "n.",
+  "zh": "根",
+  "example": "Tree roots drink rainwater."
+ },
+ "sentence": {
+  "phonetic": "/ˈsɛntəns/",
+  "pos": "n.",
+  "zh": "句子",
+  "example": "Type a sentence into the app."
+ },
+ "serve": {
+  "phonetic": "/sɝv/",
+  "pos": "v.",
+  "zh": "端上；奉（茶）；服務",
+  "example": "The host serves tea to every guest."
+ },
+ "shade": {
+  "phonetic": "/ʃeɪd/",
+  "pos": "n.",
+  "zh": "樹蔭；陰涼處",
+  "example": "We rested in the shade of a tree."
+ },
+ "shape": {
+  "phonetic": "/ʃeɪp/",
+  "pos": "v.",
+  "zh": "塑造；決定",
+  "example": "The first minutes shape your whole day."
+ },
+ "shelter": {
+  "phonetic": "/ˈʃɛltɚ/",
+  "pos": "n.",
+  "zh": "棲身之處；庇護",
+  "example": "Trees give birds food and shelter."
+ },
+ "shore": {
+  "phonetic": "/ʃɔr/",
+  "pos": "n.",
+  "zh": "海岸；岸邊",
+  "example": "We rode along the shore until sunset."
+ },
+ "soil": {
+  "phonetic": "/sɔɪl/",
+  "pos": "n.",
+  "zh": "土壤",
+  "example": "Rich soil is good for tea plants."
+ },
+ "soon": {
+  "phonetic": "/sun/",
+  "pos": "adv.",
+  "zh": "很快；不久",
+  "example": "The guests will leave soon."
+ },
+ "spring": {
+  "phonetic": "/sprɪŋ/",
+  "pos": "n.",
+  "zh": "春天",
+  "example": "I started the habit last spring."
+ },
+ "squirrel": {
+  "phonetic": "/ˈskwɝəl/",
+  "pos": "n.",
+  "zh": "松鼠",
+  "example": "A squirrel ran up the tree."
+ },
+ "station": {
+  "phonetic": "/ˈsteɪʃən/",
+  "pos": "n.",
+  "zh": "車站",
+  "example": "The night market is near the station."
+ },
+ "storm": {
+  "phonetic": "/stɔrm/",
+  "pos": "n.",
+  "zh": "暴風雨",
+  "example": "Roots prevent floods during heavy storms."
+ },
+ "strange": {
+  "phonetic": "/streɪndʒ/",
+  "pos": "adj.",
+  "zh": "奇怪的；陌生的",
+  "example": "It felt strange at first."
+ },
+ "style": {
+  "phonetic": "/staɪl/",
+  "pos": "n.",
+  "zh": "風格",
+  "example": "The shop mixes old and new styles."
+ },
+ "sugar": {
+  "phonetic": "/ˈʃʊɡɚ/",
+  "pos": "n.",
+  "zh": "糖",
+  "example": "Old trees send sugar to young ones."
+ },
+ "summer": {
+  "phonetic": "/ˈsʌmɚ/",
+  "pos": "n.",
+  "zh": "夏天",
+  "example": "Summer afternoons are very hot."
+ },
+ "thankful": {
+  "phonetic": "/ˈθæŋkfəl/",
+  "pos": "adj.",
+  "zh": "感恩的；感謝的",
+  "example": "She wrote one thing she was thankful for."
+ },
+ "tie": {
+  "phonetic": "/taɪ/",
+  "pos": "v.",
+  "zh": "綁",
+  "example": "Never tie heavy things to the branches."
+ },
+ "topic": {
+  "phonetic": "/ˈtɑpɪk/",
+  "pos": "n.",
+  "zh": "主題",
+  "example": "Food is a common topic."
+ },
+ "traditional": {
+  "phonetic": "/trəˈdɪʃənəl/",
+  "pos": "adj.",
+  "zh": "傳統的",
+  "example": "We learned about traditional tea culture."
+ },
+ "translate": {
+  "phonetic": "/trænzˈleɪt/",
+  "pos": "v.",
+  "zh": "翻譯",
+  "example": "The app can translate a menu quickly."
+ },
+ "translation": {
+  "phonetic": "/trænzˈleɪʃən/",
+  "pos": "n.",
+  "zh": "翻譯；譯文",
+  "example": "The translation was funny but wrong."
+ },
+ "traveler": {
+  "phonetic": "/ˈtrævəlɚ/",
+  "pos": "n.",
+  "zh": "旅行者；旅客",
+  "example": "Travelers carried heavy dictionaries."
+ },
+ "twenty": {
+  "phonetic": "/ˈtwɛnti/",
+  "pos": "det.",
+  "zh": "二十",
+  "example": "Twenty years ago, phones were simple."
+ },
+ "type": {
+  "phonetic": "/taɪp/",
+  "pos": "v.",
+  "zh": "打字；輸入",
+  "example": "Type a sentence into the app."
+ },
+ "until": {
+  "phonetic": "/ənˈtɪl/",
+  "pos": "prep.",
+  "zh": "直到",
+  "example": "We rode until sunset."
+ },
+ "warning": {
+  "phonetic": "/ˈwɔrnɪŋ/",
+  "pos": "n.",
+  "zh": "警告",
+  "example": "The app gave a medical warning by mistake."
+ },
+ "wave": {
+  "phonetic": "/weɪv/",
+  "pos": "n.",
+  "zh": "海浪",
+  "example": "White waves hit the rocks."
+ },
+ "welcome": {
+  "phonetic": "/ˈwɛlkəm/",
+  "pos": "adj.",
+  "zh": "受歡迎的",
+  "example": "You are welcome here."
+ },
+ "whole": {
+  "phonetic": "/hoʊl/",
+  "pos": "adj.",
+  "zh": "整個的",
+  "example": "Those minutes shape your whole day."
+ },
+ "without": {
+  "phonetic": "/wɪˈðaʊt/",
+  "pos": "prep.",
+  "zh": "沒有；不",
+  "example": "You pass the trees without looking."
+ },
+ "would": {
+  "phonetic": "/wʊd/",
+  "pos": "v.",
+  "zh": "將會（過去式助動詞）",
+  "example": "They worried the traditions would disappear."
+ },
+ "yourself": {
+  "phonetic": "/jʊrˈsɛlf/",
+  "pos": "pron.",
+  "zh": "你自己",
+  "example": "Keep thinking for yourself."
+ },
+ "above": {
+  "phonetic": "/əˈbʌv/",
+  "pos": "prep.",
+  "zh": "在……上方",
+  "example": "The sky is above us."
+ },
+ "abroad": {
+  "phonetic": "/əˈbrɔːd/",
+  "pos": "adv.",
+  "zh": "在國外",
+  "example": "She works abroad."
+ },
+ "affect": {
+  "phonetic": "/əˈfekt/",
+  "pos": "v.",
+  "zh": "影響",
+  "example": "Stress can affect your body."
+ },
+ "allow": {
+  "phonetic": "/əˈlaʊ/",
+  "pos": "v.",
+  "zh": "允許",
+  "example": "Media allows us to reach people."
+ },
+ "balance": {
+  "phonetic": "/ˈbæləns/",
+  "pos": "v.",
+  "zh": "使平衡",
+  "example": "A balanced life is better."
+ },
+ "bank": {
+  "phonetic": "/bæŋk/",
+  "pos": "n.",
+  "zh": "銀行",
+  "example": "Tell your bank first."
+ },
+ "behind": {
+  "phonetic": "/bɪˈhaɪnd/",
+  "pos": "prep.",
+  "zh": "在……後面",
+  "example": "The science behind it is simple."
+ },
+ "card": {
+  "phonetic": "/kɑːrd/",
+  "pos": "n.",
+  "zh": "卡片",
+  "example": "Bring your bank card."
+ },
+ "careful": {
+  "phonetic": "/ˈkerfl/",
+  "pos": "adj.",
+  "zh": "仔細的",
+  "example": "It takes careful planning."
+ },
+ "cash": {
+  "phonetic": "/kæʃ/",
+  "pos": "n.",
+  "zh": "現金",
+  "example": "Save enough cash."
+ },
+ "classroom": {
+  "phonetic": "/ˈklæsruːm/",
+  "pos": "n.",
+  "zh": "教室",
+  "example": "Travel teaches more than a classroom."
+ },
+ "clearly": {
+  "phonetic": "/ˈklɪrli/",
+  "pos": "adv.",
+  "zh": "清楚地",
+  "example": "Rest helps you think clearly."
+ },
+ "color": {
+  "phonetic": "/ˈkʌlər/",
+  "pos": "n.",
+  "zh": "顏色",
+  "example": "The sky has many colors."
+ },
+ "custom": {
+  "phonetic": "/ˈkʌstəm/",
+  "pos": "n.",
+  "zh": "習俗",
+  "example": "Respect local customs."
+ },
+ "dream": {
+  "phonetic": "/driːm/",
+  "pos": "n.",
+  "zh": "夢想",
+  "example": "Starting a business is her dream."
+ },
+ "effect": {
+  "phonetic": "/ɪˈfekt/",
+  "pos": "n.",
+  "zh": "效果；影響",
+  "example": "Scientists studied this effect."
+ },
+ "effort": {
+  "phonetic": "/ˈefərt/",
+  "pos": "n.",
+  "zh": "努力",
+  "example": "Success needs effort."
+ },
+ "enter": {
+  "phonetic": "/ˈentər/",
+  "pos": "v.",
+  "zh": "進入",
+  "example": "Light enters our air."
+ },
+ "ever": {
+  "phonetic": "/ˈevər/",
+  "pos": "adv.",
+  "zh": "曾經",
+  "example": "Have you ever wondered why?"
+ },
+ "excite": {
+  "phonetic": "/ɪkˈsaɪt/",
+  "pos": "v.",
+  "zh": "使興奮",
+  "example": "It is an exciting dream."
+ },
+ "eye": {
+  "phonetic": "/aɪ/",
+  "pos": "n.",
+  "zh": "眼睛",
+  "example": "Enjoy it with your own eyes."
+ },
+ "fill": {
+  "phonetic": "/fɪl/",
+  "pos": "v.",
+  "zh": "填滿",
+  "example": "We fill our schedules with work."
+ },
+ "gas": {
+  "phonetic": "/ɡæs/",
+  "pos": "n.",
+  "zh": "氣體",
+  "example": "Air is full of gas molecules."
+ },
+ "happiness": {
+  "phonetic": "/ˈhæpinəs/",
+  "pos": "n.",
+  "zh": "快樂；幸福",
+  "example": "Balance brings happiness."
+ },
+ "hello": {
+  "phonetic": "/həˈloʊ/",
+  "pos": "interj.",
+  "zh": "哈囉；你好",
+  "example": "Say hello to people."
+ },
+ "hide": {
+  "phonetic": "/haɪd/",
+  "pos": "v.",
+  "zh": "隱藏",
+  "example": "The answer is hidden in sunlight."
+ },
+ "hobby": {
+  "phonetic": "/ˈhɑːbi/",
+  "pos": "n.",
+  "zh": "嗜好",
+  "example": "Reading is a good hobby."
+ },
+ "joy": {
+  "phonetic": "/dʒɔɪ/",
+  "pos": "n.",
+  "zh": "喜悅",
+  "example": "Hobbies bring us joy."
+ },
+ "key": {
+  "phonetic": "/kiː/",
+  "pos": "n.",
+  "zh": "關鍵",
+  "example": "Patience is the key."
+ },
+ "lazy": {
+  "phonetic": "/ˈleɪzi/",
+  "pos": "adj.",
+  "zh": "懶惰的",
+  "example": "Rest is not lazy."
+ },
+ "list": {
+  "phonetic": "/lɪst/",
+  "pos": "n.",
+  "zh": "清單",
+  "example": "We have a long list of tasks."
+ },
+ "manage": {
+  "phonetic": "/ˈmænɪdʒ/",
+  "pos": "v.",
+  "zh": "管理",
+  "example": "A plan helps you manage money."
+ },
+ "marketing": {
+  "phonetic": "/ˈmɑːrkɪtɪŋ/",
+  "pos": "n.",
+  "zh": "行銷",
+  "example": "Marketing is an important part."
+ },
+ "molecule": {
+  "phonetic": "/ˈmɑːlɪkjuːl/",
+  "pos": "n.",
+  "zh": "分子",
+  "example": "Light hits gas molecules."
+ },
+ "moment": {
+  "phonetic": "/ˈmoʊmənt/",
+  "pos": "n.",
+  "zh": "片刻；當下",
+  "example": "Enjoy the moment."
+ },
+ "necessary": {
+  "phonetic": "/ˈnesəseri/",
+  "pos": "adj.",
+  "zh": "必要的",
+  "example": "Rest is necessary."
+ },
+ "normal": {
+  "phonetic": "/ˈnɔːrml/",
+  "pos": "adj.",
+  "zh": "正常的",
+  "example": "Mistakes are normal."
+ },
+ "over": {
+  "phonetic": "/ˈoʊvər/",
+  "pos": "prep.",
+  "zh": "經過（時間）；在……上",
+  "example": "Salt harms you over time."
+ },
+ "overnight": {
+  "phonetic": "/ˌoʊvərˈnaɪt/",
+  "pos": "adv.",
+  "zh": "一夜之間",
+  "example": "Success rarely happens overnight."
+ },
+ "paint": {
+  "phonetic": "/peɪnt/",
+  "pos": "v.",
+  "zh": "畫畫；油漆",
+  "example": "She enjoys painting."
+ },
+ "passport": {
+  "phonetic": "/ˈpæspɔːrt/",
+  "pos": "n.",
+  "zh": "護照",
+  "example": "Keep a copy of your passport."
+ },
+ "patience": {
+  "phonetic": "/ˈpeɪʃns/",
+  "pos": "n.",
+  "zh": "耐心",
+  "example": "Patience is the key."
+ },
+ "physics": {
+  "phonetic": "/ˈfɪzɪks/",
+  "pos": "n.",
+  "zh": "物理",
+  "example": "Simple physics explains this."
+ },
+ "prepare": {
+  "phonetic": "/prɪˈper/",
+  "pos": "v.",
+  "zh": "準備",
+  "example": "Be prepared for your trip."
+ },
+ "productive": {
+  "phonetic": "/prəˈdʌktɪv/",
+  "pos": "adj.",
+  "zh": "有生產力的",
+  "example": "You need not be productive all the time."
+ },
+ "public": {
+  "phonetic": "/ˈpʌblɪk/",
+  "pos": "adj.",
+  "zh": "公共的；大眾的",
+  "example": "Public transport is cheap."
+ },
+ "rarely": {
+  "phonetic": "/ˈrerli/",
+  "pos": "adv.",
+  "zh": "很少",
+  "example": "Success rarely happens overnight."
+ },
+ "really": {
+  "phonetic": "/ˈriːəli/",
+  "pos": "adv.",
+  "zh": "真的；其實",
+  "example": "Sunlight is really many colors."
+ },
+ "recover": {
+  "phonetic": "/rɪˈkʌvər/",
+  "pos": "v.",
+  "zh": "恢復",
+  "example": "Your brain can recover with rest."
+ },
+ "red": {
+  "phonetic": "/red/",
+  "pos": "adj.",
+  "zh": "紅色的",
+  "example": "We see red colors at sunset."
+ },
+ "relax": {
+  "phonetic": "/rɪˈlæks/",
+  "pos": "v.",
+  "zh": "放鬆",
+  "example": "Deep breathing helps you relax."
+ },
+ "salt": {
+  "phonetic": "/sɔːlt/",
+  "pos": "n.",
+  "zh": "鹽",
+  "example": "Too much salt is bad."
+ },
+ "scary": {
+  "phonetic": "/ˈskeri/",
+  "pos": "adj.",
+  "zh": "可怕的",
+  "example": "A new place can feel scary."
+ },
+ "scatter": {
+  "phonetic": "/ˈskætər/",
+  "pos": "v.",
+  "zh": "散射；散開",
+  "example": "Molecules scatter the light."
+ },
+ "schedule": {
+  "phonetic": "/ˈskedʒuːl/",
+  "pos": "n.",
+  "zh": "行程；時間表",
+  "example": "We fill our schedules with work."
+ },
+ "science": {
+  "phonetic": "/ˈsaɪəns/",
+  "pos": "n.",
+  "zh": "科學",
+  "example": "Remember the science behind it."
+ },
+ "skill": {
+  "phonetic": "/skɪl/",
+  "pos": "n.",
+  "zh": "技能",
+  "example": "Slowing down is a skill."
+ },
+ "solve": {
+  "phonetic": "/sɑːlv/",
+  "pos": "v.",
+  "zh": "解決",
+  "example": "A good idea solves a problem."
+ },
+ "success": {
+  "phonetic": "/səkˈses/",
+  "pos": "n.",
+  "zh": "成功",
+  "example": "Success needs patience."
+ },
+ "sunlight": {
+  "phonetic": "/ˈsʌnlaɪt/",
+  "pos": "n.",
+  "zh": "陽光",
+  "example": "The answer is in sunlight."
+ },
+ "task": {
+  "phonetic": "/tæsk/",
+  "pos": "n.",
+  "zh": "任務；工作",
+  "example": "We have a long list of tasks."
+ },
+ "taxi": {
+  "phonetic": "/ˈtæksi/",
+  "pos": "n.",
+  "zh": "計程車",
+  "example": "Taxis cost more than buses."
+ },
+ "thrill": {
+  "phonetic": "/θrɪl/",
+  "pos": "v.",
+  "zh": "使激動；使興奮",
+  "example": "A first trip is thrilling."
+ },
+ "tiny": {
+  "phonetic": "/ˈtaɪni/",
+  "pos": "adj.",
+  "zh": "微小的",
+  "example": "Light hits tiny molecules."
+ },
+ "transport": {
+  "phonetic": "/ˈtrænspɔːrt/",
+  "pos": "n.",
+  "zh": "運輸；交通工具",
+  "example": "Public transport is cheap."
+ },
+ "useful": {
+  "phonetic": "/ˈjuːsfl/",
+  "pos": "adj.",
+  "zh": "有用的",
+  "example": "Simple words are useful."
+ },
+ "vitamin": {
+  "phonetic": "/ˈvaɪtəmɪn/",
+  "pos": "n.",
+  "zh": "維生素",
+  "example": "Fruit gives you vitamins."
+ },
+ "wonder": {
+  "phonetic": "/ˈwʌndər/",
+  "pos": "v.",
+  "zh": "想知道；好奇",
+  "example": "Have you ever wondered why?"
+ },
+ "activity": {
+  "phonetic": "/ækˈtɪvəti/",
+  "pos": "n.",
+  "zh": "活動",
+  "example": "Human activity affects nature."
+ },
+ "add": {
+  "phonetic": "/æd/",
+  "pos": "v.",
+  "zh": "增加;添加",
+  "example": "This adds real value."
+ },
+ "adjust": {
+  "phonetic": "/əˈdʒʌst/",
+  "pos": "v.",
+  "zh": "調整",
+  "example": "We adjust the plan often."
+ },
+ "advertising": {
+  "phonetic": "/ˈædvərtaɪzɪŋ/",
+  "pos": "n.",
+  "zh": "廣告(業)",
+  "example": "Advertising can be expensive."
+ },
+ "ahead": {
+  "phonetic": "/əˈhed/",
+  "pos": "adv.",
+  "zh": "提前;向前",
+  "example": "Plan ahead with care."
+ },
+ "alive": {
+  "phonetic": "/əˈlaɪv/",
+  "pos": "adj.",
+  "zh": "活著的;存續的",
+  "example": "The culture stays alive."
+ },
+ "alone": {
+  "phonetic": "/əˈloʊn/",
+  "pos": "adv.",
+  "zh": "獨自",
+  "example": "Some birds fly alone."
+ },
+ "although": {
+  "phonetic": "/ɔːlˈðoʊ/",
+  "pos": "conj.",
+  "zh": "雖然",
+  "example": "Although it rained, we walked."
+ },
+ "ancient": {
+  "phonetic": "/ˈeɪnʃənt/",
+  "pos": "adj.",
+  "zh": "古老的",
+  "example": "These are ancient skills."
+ },
+ "anxious": {
+  "phonetic": "/ˈæŋkʃəs/",
+  "pos": "adj.",
+  "zh": "焦慮的",
+  "example": "It calms anxious thoughts."
+ },
+ "approach": {
+  "phonetic": "/əˈproʊtʃ/",
+  "pos": "v.",
+  "zh": "接近",
+  "example": "Storms approach the coast."
+ },
+ "area": {
+  "phonetic": "/ˈeriə/",
+  "pos": "n.",
+  "zh": "區域",
+  "example": "Crashes dropped in those areas."
+ },
+ "attach": {
+  "phonetic": "/əˈtætʃ/",
+  "pos": "v.",
+  "zh": "附上;安裝",
+  "example": "Sensors are attached to lights."
+ },
+ "attract": {
+  "phonetic": "/əˈtrækt/",
+  "pos": "v.",
+  "zh": "吸引",
+  "example": "Bright lights attract birds."
+ },
+ "autumn": {
+  "phonetic": "/ˈɔːtəm/",
+  "pos": "n.",
+  "zh": "秋天",
+  "example": "Birds leave every autumn."
+ },
+ "avoid": {
+  "phonetic": "/əˈvɔɪd/",
+  "pos": "v.",
+  "zh": "避免",
+  "example": "Search first to avoid mistakes."
+ },
+ "ban": {
+  "phonetic": "/bæn/",
+  "pos": "v.",
+  "zh": "禁止",
+  "example": "They do not ban new recipes."
+ },
+ "beat": {
+  "phonetic": "/biːt/",
+  "pos": "v.",
+  "zh": "勝過;打",
+  "example": "Walking often beats one long run."
+ },
+ "boring": {
+  "phonetic": "/ˈbɔːrɪŋ/",
+  "pos": "adj.",
+  "zh": "無聊的",
+  "example": "If the service feels boring, people leave."
+ },
+ "bouquet": {
+  "phonetic": "/boʊˈkeɪ/",
+  "pos": "n.",
+  "zh": "花束",
+  "example": "They deliver a fresh bouquet weekly."
+ },
+ "briefly": {
+  "phonetic": "/ˈbriːfli/",
+  "pos": "adv.",
+  "zh": "短暫地",
+  "example": "Workers who walked briefly felt calmer."
+ },
+ "camera": {
+  "phonetic": "/ˈkæmrə/",
+  "pos": "n.",
+  "zh": "攝影機",
+  "example": "Cameras may collect personal data."
+ },
+ "cancel": {
+  "phonetic": "/ˈkænsl/",
+  "pos": "v.",
+  "zh": "取消",
+  "example": "Customers cancel quickly."
+ },
+ "cancellation": {
+  "phonetic": "/ˌkænsəˈleɪʃn/",
+  "pos": "n.",
+  "zh": "取消",
+  "example": "Offer a clear cancellation policy."
+ },
+ "cell": {
+  "phonetic": "/sel/",
+  "pos": "n.",
+  "zh": "細胞",
+  "example": "Special cells may see magnetic lines."
+ },
+ "cheaply": {
+  "phonetic": "/ˈtʃiːpli/",
+  "pos": "adv.",
+  "zh": "便宜地",
+  "example": "Tourists eat cheaply there."
+ },
+ "choice": {
+  "phonetic": "/tʃɔɪs/",
+  "pos": "n.",
+  "zh": "選擇",
+  "example": "Better choices need better data."
+ },
+ "circulation": {
+  "phonetic": "/ˌsɜːrkjəˈleɪʃn/",
+  "pos": "n.",
+  "zh": "血液循環",
+  "example": "Walking improves circulation."
+ },
+ "clever": {
+  "phonetic": "/ˈklevər/",
+  "pos": "adj.",
+  "zh": "聰明的;巧妙的",
+  "example": "Clever marketing sounds exciting."
+ },
+ "coastline": {
+  "phonetic": "/ˈkoʊstlaɪn/",
+  "pos": "n.",
+  "zh": "海岸線",
+  "example": "Birds remember coastlines."
+ },
+ "collect": {
+  "phonetic": "/kəˈlekt/",
+  "pos": "v.",
+  "zh": "收集",
+  "example": "Sensors collect data all day."
+ },
+ "community": {
+  "phonetic": "/kəˈmjuːnəti/",
+  "pos": "n.",
+  "zh": "社區",
+  "example": "We learn how a community lives."
+ },
+ "compass": {
+  "phonetic": "/ˈkʌmpəs/",
+  "pos": "n.",
+  "zh": "指南針",
+  "example": "Birds use the sky as a compass."
+ },
+ "confidence": {
+  "phonetic": "/ˈkɑːnfɪdəns/",
+  "pos": "n.",
+  "zh": "信心",
+  "example": "Owners plan with confidence."
+ },
+ "consistency": {
+  "phonetic": "/kənˈsɪstənsi/",
+  "pos": "n.",
+  "zh": "一致;持之以恆",
+  "example": "Consistency matters more than speed."
+ },
+ "count": {
+  "phonetic": "/kaʊnt/",
+  "pos": "v.",
+  "zh": "計算;算數",
+  "example": "Sensors count cars."
+ },
+ "crack": {
+  "phonetic": "/kræk/",
+  "pos": "n.",
+  "zh": "裂縫",
+  "example": "Sensors warn before a crack grows."
+ },
+ "crash": {
+  "phonetic": "/kræʃ/",
+  "pos": "n.",
+  "zh": "撞擊;碰撞",
+  "example": "Bird crashes dropped sharply."
+ },
+ "critic": {
+  "phonetic": "/ˈkrɪtɪk/",
+  "pos": "n.",
+  "zh": "批評者",
+  "example": "Critics worry about privacy."
+ },
+ "crossing": {
+  "phonetic": "/ˈkrɔːsɪŋ/",
+  "pos": "n.",
+  "zh": "路口",
+  "example": "Traffic is heavy at the crossing."
+ },
+ "curiosity": {
+  "phonetic": "/ˌkjʊriˈɑːsəti/",
+  "pos": "n.",
+  "zh": "好奇心",
+  "example": "It is not just about curiosity."
+ },
+ "dangerous": {
+  "phonetic": "/ˈdeɪndʒərəs/",
+  "pos": "adj.",
+  "zh": "危險的",
+  "example": "A crack can become dangerous."
+ },
+ "decision": {
+  "phonetic": "/dɪˈsɪʒn/",
+  "pos": "n.",
+  "zh": "決定",
+  "example": "People check how decisions are made."
+ },
+ "delay": {
+  "phonetic": "/dɪˈleɪ/",
+  "pos": "v.",
+  "zh": "延遲",
+  "example": "Flocks delay their departure."
+ },
+ "deliver": {
+  "phonetic": "/dɪˈlɪvər/",
+  "pos": "v.",
+  "zh": "配送",
+  "example": "A store delivers a bouquet weekly."
+ },
+ "delivery": {
+  "phonetic": "/dɪˈlɪvəri/",
+  "pos": "n.",
+  "zh": "配送;運送",
+  "example": "Faster delivery pleases buyers."
+ },
+ "departure": {
+  "phonetic": "/dɪˈpɑːrtʃər/",
+  "pos": "n.",
+  "zh": "出發",
+  "example": "Birds delay their departure."
+ },
+ "dim": {
+  "phonetic": "/dɪm/",
+  "pos": "v.",
+  "zh": "調暗",
+  "example": "Cities dim their buildings at night."
+ },
+ "disagree": {
+  "phonetic": "/ˌdɪsəˈɡriː/",
+  "pos": "v.",
+  "zh": "不同意",
+  "example": "Researchers disagree with that idea."
+ },
+ "dish": {
+  "phonetic": "/dɪʃ/",
+  "pos": "n.",
+  "zh": "菜餚",
+  "example": "They sell only foreign dishes."
+ },
+ "distance": {
+  "phonetic": "/ˈdɪstəns/",
+  "pos": "n.",
+  "zh": "距離",
+  "example": "Consistency beats distance."
+ },
+ "does": {
+  "phonetic": "/dʌz/",
+  "pos": "v.",
+  "zh": "做(第三人稱)",
+  "example": "What does the sensor do?"
+ },
+ "driver": {
+  "phonetic": "/ˈdraɪvər/",
+  "pos": "n.",
+  "zh": "駕駛人",
+  "example": "Drivers spend less time waiting."
+ },
+ "earn": {
+  "phonetic": "/ɜːrn/",
+  "pos": "v.",
+  "zh": "賺(錢)",
+  "example": "How businesses earn money is changing."
+ },
+ "earth": {
+  "phonetic": "/ɜːrθ/",
+  "pos": "n.",
+  "zh": "地球",
+  "example": "Birds sense the Earth's magnetic field."
+ },
+ "emphasize": {
+  "phonetic": "/ˈemfəsaɪz/",
+  "pos": "v.",
+  "zh": "強調",
+  "example": "Doctors emphasize consistency."
+ },
+ "engineer": {
+  "phonetic": "/ˌendʒɪˈnɪr/",
+  "pos": "n.",
+  "zh": "工程師",
+  "example": "Sensors warn engineers early."
+ },
+ "equipment": {
+  "phonetic": "/ɪˈkwɪpmənt/",
+  "pos": "n.",
+  "zh": "設備",
+  "example": "Walking needs no special equipment."
+ },
+ "evidence": {
+  "phonetic": "/ˈevɪdəns/",
+  "pos": "n.",
+  "zh": "證據",
+  "example": "Growing evidence supports walking."
+ },
+ "exciting": {
+  "phonetic": "/ɪkˈsaɪtɪŋ/",
+  "pos": "adj.",
+  "zh": "令人興奮的",
+  "example": "Honest terms sound less exciting."
+ },
+ "exhausting": {
+  "phonetic": "/ɪɡˈzɔːstɪŋ/",
+  "pos": "adj.",
+  "zh": "使人筋疲力盡的",
+  "example": "One exhausting run is not enough."
+ },
+ "experience": {
+  "phonetic": "/ɪkˈspɪriəns/",
+  "pos": "v.",
+  "zh": "體驗",
+  "example": "Tourists experience this energy."
+ },
+ "experienced": {
+  "phonetic": "/ɪkˈspɪriənst/",
+  "pos": "adj.",
+  "zh": "有經驗的",
+  "example": "Young birds follow experienced adults."
+ },
+ "feedback": {
+  "phonetic": "/ˈfiːdbæk/",
+  "pos": "n.",
+  "zh": "回饋;意見",
+  "example": "Listen carefully to feedback."
+ },
+ "feeling": {
+  "phonetic": "/ˈfiːlɪŋ/",
+  "pos": "n.",
+  "zh": "感覺",
+  "example": "A walk reduces the sleepy feeling."
+ },
+ "flavor": {
+  "phonetic": "/ˈfleɪvər/",
+  "pos": "n.",
+  "zh": "味道",
+  "example": "Old flavor meets new taste."
+ },
+ "flock": {
+  "phonetic": "/flɑːk/",
+  "pos": "n.",
+  "zh": "鳥群",
+  "example": "Flocks wait for helpful winds."
+ },
+ "follow": {
+  "phonetic": "/ˈfɑːloʊ/",
+  "pos": "v.",
+  "zh": "跟隨",
+  "example": "Young birds follow adults."
+ },
+ "future": {
+  "phonetic": "/ˈfjuːtʃər/",
+  "pos": "n.",
+  "zh": "未來",
+  "example": "Sensors shape the future of cities."
+ },
+ "generation": {
+  "phonetic": "/ˌdʒenəˈreɪʃn/",
+  "pos": "n.",
+  "zh": "世代",
+  "example": "They train the next generation."
+ },
+ "gentle": {
+  "phonetic": "/ˈdʒentl/",
+  "pos": "adj.",
+  "zh": "溫和的",
+  "example": "A gentle walk brings benefits."
+ },
+ "government": {
+  "phonetic": "/ˈɡʌvərnmənt/",
+  "pos": "n.",
+  "zh": "政府",
+  "example": "City governments need strong rules."
+ },
+ "grill": {
+  "phonetic": "/ɡrɪl/",
+  "pos": "v.",
+  "zh": "燒烤",
+  "example": "The smell of grilled food is strong."
+ },
+ "has": {
+  "phonetic": "/hæz/",
+  "pos": "v.",
+  "zh": "有(第三人稱)",
+  "example": "The market has always been busy."
+ },
+ "honest": {
+  "phonetic": "/ˈɑːnɪst/",
+  "pos": "adj.",
+  "zh": "誠實的",
+  "example": "Honest terms build trust."
+ },
+ "humble": {
+  "phonetic": "/ˈhʌmbl/",
+  "pos": "adj.",
+  "zh": "謙卑的;不起眼的",
+  "example": "The humble walk is a safe medicine."
+ },
+ "income": {
+  "phonetic": "/ˈɪnkʌm/",
+  "pos": "n.",
+  "zh": "收入",
+  "example": "The main attraction is steady income."
+ },
+ "increase": {
+  "phonetic": "/ɪnˈkriːs/",
+  "pos": "v.",
+  "zh": "增加",
+  "example": "It would increase stress levels."
+ },
+ "information": {
+  "phonetic": "/ˌɪnfərˈmeɪʃn/",
+  "pos": "n.",
+  "zh": "資訊",
+  "example": "Better information helps cities."
+ },
+ "intense": {
+  "phonetic": "/ɪnˈtens/",
+  "pos": "adj.",
+  "zh": "強烈的;高強度的",
+  "example": "The world praises intense workouts."
+ },
+ "kilometer": {
+  "phonetic": "/kɪˈlɑːmɪtər/",
+  "pos": "n.",
+  "zh": "公里",
+  "example": "Birds fly thousands of kilometers."
+ },
+ "landmark": {
+  "phonetic": "/ˈlændmɑːrk/",
+  "pos": "n.",
+  "zh": "地標",
+  "example": "Birds remember landmarks."
+ },
+ "layer": {
+  "phonetic": "/ˈleɪər/",
+  "pos": "n.",
+  "zh": "層",
+  "example": "Walking outside adds another layer of benefit."
+ },
+ "lead": {
+  "phonetic": "/liːd/",
+  "pos": "v.",
+  "zh": "引領",
+  "example": "Tiny sensors are leading the change."
+ },
+ "level": {
+  "phonetic": "/ˈlevl/",
+  "pos": "n.",
+  "zh": "程度;水平",
+  "example": "They track pollution levels."
+ },
+ "lift": {
+  "phonetic": "/lɪft/",
+  "pos": "v.",
+  "zh": "提振",
+  "example": "The chemicals lift mood."
+ },
+ "loyalty": {
+  "phonetic": "/ˈlɔɪəlti/",
+  "pos": "n.",
+  "zh": "忠誠度",
+  "example": "Subscriptions build loyalty."
+ },
+ "magnetic": {
+  "phonetic": "/mæɡˈnetɪk/",
+  "pos": "adj.",
+  "zh": "磁的",
+  "example": "Birds sense the magnetic field."
+ },
+ "main": {
+  "phonetic": "/meɪn/",
+  "pos": "adj.",
+  "zh": "主要的",
+  "example": "The main attraction is income."
+ },
+ "mainly": {
+  "phonetic": "/ˈmeɪnli/",
+  "pos": "adv.",
+  "zh": "主要地",
+  "example": "It is not mainly for tourists."
+ },
+ "measure": {
+  "phonetic": "/ˈmeʒər/",
+  "pos": "v.",
+  "zh": "測量",
+  "example": "Sensors measure tiny movements."
+ },
+ "member": {
+  "phonetic": "/ˈmembər/",
+  "pos": "n.",
+  "zh": "會員",
+  "example": "A member is likely to return."
+ },
+ "mental": {
+  "phonetic": "/ˈmentl/",
+  "pos": "adj.",
+  "zh": "心理的",
+  "example": "The mental rewards are great."
+ },
+ "mention": {
+  "phonetic": "/ˈmenʃn/",
+  "pos": "v.",
+  "zh": "提及",
+  "example": "The article mentions rising rents."
+ },
+ "migrate": {
+  "phonetic": "/ˈmaɪɡreɪt/",
+  "pos": "v.",
+  "zh": "遷徙",
+  "example": "Some birds stopped migrating."
+ },
+ "migration": {
+  "phonetic": "/maɪˈɡreɪʃn/",
+  "pos": "n.",
+  "zh": "遷徙",
+  "example": "Lights dim during migration season."
+ },
+ "monthly": {
+  "phonetic": "/ˈmʌnθli/",
+  "pos": "adj.",
+  "zh": "每月的",
+  "example": "The shop sells a monthly pass."
+ },
+ "movement": {
+  "phonetic": "/ˈmuːvmənt/",
+  "pos": "n.",
+  "zh": "移動;位移",
+  "example": "Sensors measure tiny movements."
+ },
+ "narrow": {
+  "phonetic": "/ˈnæroʊ/",
+  "pos": "adj.",
+  "zh": "狹窄的",
+  "example": "Markets fill narrow streets."
+ },
+ "noise": {
+  "phonetic": "/nɔɪz/",
+  "pos": "n.",
+  "zh": "噪音",
+  "example": "The market is full of noise."
+ },
+ "noisy": {
+  "phonetic": "/ˈnɔɪzi/",
+  "pos": "adj.",
+  "zh": "吵鬧的",
+  "example": "Some avoid noisy areas."
+ },
+ "northern": {
+  "phonetic": "/ˈnɔːrðərn/",
+  "pos": "adj.",
+  "zh": "北方的",
+  "example": "Birds leave their northern homes."
+ },
+ "openness": {
+  "phonetic": "/ˈoʊpənnəs/",
+  "pos": "n.",
+  "zh": "公開透明",
+  "example": "This openness builds trust."
+ },
+ "path": {
+  "phonetic": "/pæθ/",
+  "pos": "n.",
+  "zh": "路徑",
+  "example": "Lights pull birds from safe paths."
+ },
+ "per": {
+  "phonetic": "/pər/",
+  "pos": "prep.",
+  "zh": "每",
+  "example": "One run per month is not enough."
+ },
+ "permission": {
+  "phonetic": "/pərˈmɪʃn/",
+  "pos": "n.",
+  "zh": "許可;同意",
+  "example": "They collect data without clear permission."
+ },
+ "personal": {
+  "phonetic": "/ˈpɜːrsənl/",
+  "pos": "adj.",
+  "zh": "個人的",
+  "example": "Sensors might collect personal information."
+ },
+ "planet": {
+  "phonetic": "/ˈplænɪt/",
+  "pos": "n.",
+  "zh": "星球",
+  "example": "We share the planet with other species."
+ },
+ "policy": {
+  "phonetic": "/ˈpɑːləsi/",
+  "pos": "n.",
+  "zh": "政策",
+  "example": "Offer a clear cancellation policy."
+ },
+ "pollution": {
+  "phonetic": "/pəˈluːʃn/",
+  "pos": "n.",
+  "zh": "污染",
+  "example": "Sensors track pollution levels."
+ },
+ "possible": {
+  "phonetic": "/ˈpɑːsəbl/",
+  "pos": "adj.",
+  "zh": "可能的",
+  "example": "The article mentions a possible threat."
+ },
+ "power": {
+  "phonetic": "/ˈpaʊər/",
+  "pos": "n.",
+  "zh": "力量;電力",
+  "example": "The surprising power of a short walk."
+ },
+ "praise": {
+  "phonetic": "/preɪz/",
+  "pos": "v.",
+  "zh": "讚揚",
+  "example": "The world praises intense workouts."
+ },
+ "product": {
+  "phonetic": "/ˈprɑːdʌkt/",
+  "pos": "n.",
+  "zh": "產品",
+  "example": "They remove weak products."
+ },
+ "program": {
+  "phonetic": "/ˈproʊɡræm/",
+  "pos": "n.",
+  "zh": "計畫;方案",
+  "example": "Governments started new programs."
+ },
+ "promising": {
+  "phonetic": "/ˈprɑːmɪsɪŋ/",
+  "pos": "adj.",
+  "zh": "有希望的",
+  "example": "Early results look promising."
+ },
+ "publish": {
+  "phonetic": "/ˈpʌblɪʃ/",
+  "pos": "v.",
+  "zh": "公布;出版",
+  "example": "Some cities publish their data."
+ },
+ "pull": {
+  "phonetic": "/pʊl/",
+  "pos": "v.",
+  "zh": "拉;拉走",
+  "example": "Lights pull birds away from safe paths."
+ },
+ "push": {
+  "phonetic": "/pʊʃ/",
+  "pos": "v.",
+  "zh": "推;排擠",
+  "example": "Rents could push stalls away."
+ },
+ "raise": {
+  "phonetic": "/reɪz/",
+  "pos": "v.",
+  "zh": "引起;提出",
+  "example": "This raises questions about privacy."
+ },
+ "range": {
+  "phonetic": "/reɪndʒ/",
+  "pos": "n.",
+  "zh": "山脈;範圍",
+  "example": "Birds remember mountain ranges."
+ },
+ "recipe": {
+  "phonetic": "/ˈresəpi/",
+  "pos": "n.",
+  "zh": "食譜",
+  "example": "Stalls pass recipes to children."
+ },
+ "refresh": {
+  "phonetic": "/rɪˈfreʃ/",
+  "pos": "v.",
+  "zh": "更新;使恢復活力",
+  "example": "Companies refresh their offers."
+ },
+ "release": {
+  "phonetic": "/rɪˈliːs/",
+  "pos": "v.",
+  "zh": "釋放",
+  "example": "Moving releases helpful chemicals."
+ },
+ "remain": {
+  "phonetic": "/rɪˈmeɪn/",
+  "pos": "v.",
+  "zh": "維持;仍是",
+  "example": "The market will remain a classroom."
+ },
+ "remove": {
+  "phonetic": "/rɪˈmuːv/",
+  "pos": "v.",
+  "zh": "移除;淘汰",
+  "example": "A business can remove weak products."
+ },
+ "replace": {
+  "phonetic": "/rɪˈpleɪs/",
+  "pos": "v.",
+  "zh": "取代",
+  "example": "A walk won't replace all exercise."
+ },
+ "report": {
+  "phonetic": "/rɪˈpɔːrt/",
+  "pos": "v.",
+  "zh": "回報;表示",
+  "example": "Workers reported less stress."
+ },
+ "researcher": {
+  "phonetic": "/ˈriːsɜːrtʃər/",
+  "pos": "n.",
+  "zh": "研究人員",
+  "example": "Researchers still test the idea."
+ },
+ "resident": {
+  "phonetic": "/ˈrezɪdənt/",
+  "pos": "n.",
+  "zh": "居民",
+  "example": "The city warns residents."
+ },
+ "response": {
+  "phonetic": "/rɪˈspɑːns/",
+  "pos": "n.",
+  "zh": "回應",
+  "example": "In response, cities dim their lights."
+ },
+ "reward": {
+  "phonetic": "/rɪˈwɔːrd/",
+  "pos": "n.",
+  "zh": "回報;獎勵",
+  "example": "The mental rewards are great."
+ },
+ "rise": {
+  "phonetic": "/raɪz/",
+  "pos": "v.",
+  "zh": "上漲;上升",
+  "example": "Rising rents threaten small stalls."
+ },
+ "risk": {
+  "phonetic": "/rɪsk/",
+  "pos": "n.",
+  "zh": "風險",
+  "example": "This model carries risks."
+ },
+ "route": {
+  "phonetic": "/ruːt/",
+  "pos": "n.",
+  "zh": "路線",
+  "example": "Young birds learn routes."
+ },
+ "routine": {
+  "phonetic": "/ruːˈtiːn/",
+  "pos": "n.",
+  "zh": "日常作息",
+  "example": "Attach walks to daily routines."
+ },
+ "ruin": {
+  "phonetic": "/ˈruːɪn/",
+  "pos": "v.",
+  "zh": "毀掉",
+  "example": "It ruins many afternoons."
+ },
+ "rush": {
+  "phonetic": "/rʌʃ/",
+  "pos": "n.",
+  "zh": "尖峰;匆忙",
+  "example": "Signals adjust during rush hour."
+ },
+ "sauce": {
+  "phonetic": "/sɔːs/",
+  "pos": "n.",
+  "zh": "醬料",
+  "example": "A cook adjusts a family sauce."
+ },
+ "seem": {
+  "phonetic": "/siːm/",
+  "pos": "v.",
+  "zh": "似乎",
+  "example": "Green spaces seem to refresh the mind."
+ },
+ "sense": {
+  "phonetic": "/sens/",
+  "pos": "v.",
+  "zh": "感應;感覺",
+  "example": "Birds sense the Earth's field."
+ },
+ "sensor": {
+  "phonetic": "/ˈsensər/",
+  "pos": "n.",
+  "zh": "感測器",
+  "example": "Tiny sensors collect data."
+ },
+ "serious": {
+  "phonetic": "/ˈsɪriəs/",
+  "pos": "adj.",
+  "zh": "重大的;認真的",
+  "example": "Short walks bring serious benefits."
+ },
+ "sharply": {
+  "phonetic": "/ˈʃɑːrpli/",
+  "pos": "adv.",
+  "zh": "急劇地",
+  "example": "Crashes dropped sharply."
+ },
+ "shift": {
+  "phonetic": "/ʃɪft/",
+  "pos": "n.",
+  "zh": "轉變",
+  "example": "You notice a quiet shift."
+ },
+ "shopping": {
+  "phonetic": "/ˈʃɑːpɪŋ/",
+  "pos": "n.",
+  "zh": "購物",
+  "example": "Walk down a shopping street."
+ },
+ "shortage": {
+  "phonetic": "/ˈʃɔːrtɪdʒ/",
+  "pos": "n.",
+  "zh": "短缺",
+  "example": "There is no shortage of tourists."
+ },
+ "signal": {
+  "phonetic": "/ˈsɪɡnəl/",
+  "pos": "n.",
+  "zh": "號誌;信號",
+  "example": "Sensors adjust signal timing."
+ },
+ "sleepy": {
+  "phonetic": "/ˈsliːpi/",
+  "pos": "adj.",
+  "zh": "想睡的",
+  "example": "A walk reduces the sleepy feeling."
+ },
+ "snack": {
+  "phonetic": "/snæk/",
+  "pos": "n.",
+  "zh": "小吃;點心",
+  "example": "We line up for a famous snack."
+ },
+ "sound": {
+  "phonetic": "/saʊnd/",
+  "pos": "v.",
+  "zh": "聽起來",
+  "example": "Honest terms sound less exciting."
+ },
+ "source": {
+  "phonetic": "/sɔːrs/",
+  "pos": "n.",
+  "zh": "來源",
+  "example": "It is not a source of warmth."
+ },
+ "space": {
+  "phonetic": "/speɪs/",
+  "pos": "n.",
+  "zh": "空間",
+  "example": "Green spaces refresh the mind."
+ },
+ "species": {
+  "phonetic": "/ˈspiːʃiːz/",
+  "pos": "n.",
+  "zh": "物種",
+  "example": "We share the planet with other species."
+ },
+ "speed": {
+  "phonetic": "/spiːd/",
+  "pos": "n.",
+  "zh": "速度",
+  "example": "Consistency matters more than speed."
+ },
+ "stall": {
+  "phonetic": "/stɔːl/",
+  "pos": "n.",
+  "zh": "攤位",
+  "example": "Many stalls pass down recipes."
+ },
+ "star": {
+  "phonetic": "/stɑːr/",
+  "pos": "n.",
+  "zh": "星星",
+  "example": "Birds read the sun and stars."
+ },
+ "steady": {
+  "phonetic": "/ˈstedi/",
+  "pos": "adj.",
+  "zh": "穩定的",
+  "example": "The attraction is steady income."
+ },
+ "stinky": {
+  "phonetic": "/ˈstɪŋki/",
+  "pos": "adj.",
+  "zh": "臭的",
+  "example": "Tourists try stinky tofu."
+ },
+ "stranger": {
+  "phonetic": "/ˈstreɪndʒər/",
+  "pos": "n.",
+  "zh": "陌生人",
+  "example": "We chat with strangers in line."
+ },
+ "streetlight": {
+  "phonetic": "/ˈstriːtlaɪt/",
+  "pos": "n.",
+  "zh": "路燈",
+  "example": "Sensors sit on streetlights."
+ },
+ "strength": {
+  "phonetic": "/streŋθ/",
+  "pos": "n.",
+  "zh": "力量;強度",
+  "example": "Distance matters, but so does strength."
+ },
+ "strengthen": {
+  "phonetic": "/ˈstreŋθn/",
+  "pos": "v.",
+  "zh": "強化",
+  "example": "Walking strengthens the heart."
+ },
+ "strict": {
+  "phonetic": "/strɪkt/",
+  "pos": "adj.",
+  "zh": "嚴格的",
+  "example": "The city set stricter food rules."
+ },
+ "subscriber": {
+  "phonetic": "/səbˈskraɪbər/",
+  "pos": "n.",
+  "zh": "訂閱者",
+  "example": "Trust keeps a subscriber paying."
+ },
+ "subscription": {
+  "phonetic": "/səbˈskrɪpʃn/",
+  "pos": "n.",
+  "zh": "訂閱",
+  "example": "Small businesses love subscriptions."
+ },
+ "succeed": {
+  "phonetic": "/səkˈsiːd/",
+  "pos": "v.",
+  "zh": "成功",
+  "example": "If those efforts succeed, stalls stay."
+ },
+ "successful": {
+  "phonetic": "/səkˈsesfl/",
+  "pos": "adj.",
+  "zh": "成功的",
+  "example": "Successful companies refresh their offers."
+ },
+ "surprising": {
+  "phonetic": "/sərˈpraɪzɪŋ/",
+  "pos": "adj.",
+  "zh": "令人驚訝的",
+  "example": "The surprising power of a walk is real."
+ },
+ "tax": {
+  "phonetic": "/tæks/",
+  "pos": "n.",
+  "zh": "稅",
+  "example": "Lower taxes are not the attraction."
+ },
+ "term": {
+  "phonetic": "/tɜːrm/",
+  "pos": "n.",
+  "zh": "條款",
+  "example": "Honest terms build trust."
+ },
+ "test": {
+  "phonetic": "/test/",
+  "pos": "v.",
+  "zh": "測試;驗證",
+  "example": "Researchers are still testing the idea."
+ },
+ "themselves": {
+  "phonetic": "/ðəmˈselvz/",
+  "pos": "pron.",
+  "zh": "他們自己",
+  "example": "Sensors cannot repair cracks themselves."
+ },
+ "therefore": {
+  "phonetic": "/ˈðerfɔːr/",
+  "pos": "adv.",
+  "zh": "因此",
+  "example": "Cities therefore need strong rules."
+ },
+ "those": {
+  "phonetic": "/ðoʊz/",
+  "pos": "det.",
+  "zh": "那些",
+  "example": "Crashes dropped in those areas."
+ },
+ "thought": {
+  "phonetic": "/θɔːt/",
+  "pos": "n.",
+  "zh": "想法;思緒",
+  "example": "Walking calms anxious thoughts."
+ },
+ "thousand": {
+  "phonetic": "/ˈθaʊznd/",
+  "pos": "num.",
+  "zh": "千",
+  "example": "Birds fly thousands of kilometers."
+ },
+ "threat": {
+  "phonetic": "/θret/",
+  "pos": "n.",
+  "zh": "威脅",
+  "example": "The article mentions a threat to stalls."
+ },
+ "timing": {
+  "phonetic": "/ˈtaɪmɪŋ/",
+  "pos": "n.",
+  "zh": "時間安排",
+  "example": "Sensors adjust signal timing."
+ },
+ "tofu": {
+  "phonetic": "/ˈtoʊfuː/",
+  "pos": "n.",
+  "zh": "豆腐",
+  "example": "Tourists try stinky tofu."
+ },
+ "track": {
+  "phonetic": "/træk/",
+  "pos": "v.",
+  "zh": "追蹤",
+  "example": "Sensors track pollution levels."
+ },
+ "traffic": {
+  "phonetic": "/ˈtræfɪk/",
+  "pos": "n.",
+  "zh": "交通",
+  "example": "Traffic sensors count cars."
+ },
+ "trust": {
+  "phonetic": "/trʌst/",
+  "pos": "n.",
+  "zh": "信任",
+  "example": "Openness builds public trust."
+ },
+ "unfair": {
+  "phonetic": "/ˌʌnˈfer/",
+  "pos": "adj.",
+  "zh": "不公平的",
+  "example": "If the price seems unfair, people leave."
+ },
+ "unfortunately": {
+  "phonetic": "/ʌnˈfɔːrtʃənətli/",
+  "pos": "adv.",
+  "zh": "遺憾地",
+  "example": "Unfortunately, lights confuse birds."
+ },
+ "unhealthy": {
+  "phonetic": "/ʌnˈhelθi/",
+  "pos": "adj.",
+  "zh": "不健康的",
+  "example": "The city warns when air is unhealthy."
+ },
+ "unlimited": {
+  "phonetic": "/ʌnˈlɪmɪtɪd/",
+  "pos": "adj.",
+  "zh": "無限的",
+  "example": "The pass allows unlimited drinks."
+ },
+ "urban": {
+  "phonetic": "/ˈɜːrbən/",
+  "pos": "adj.",
+  "zh": "城市的",
+  "example": "Sensors won't solve every urban problem."
+ },
+ "valuable": {
+  "phonetic": "/ˈvæljuəbl/",
+  "pos": "adj.",
+  "zh": "寶貴的",
+  "example": "They give cities something valuable."
+ },
+ "vendor": {
+  "phonetic": "/ˈvendər/",
+  "pos": "n.",
+  "zh": "攤商",
+  "example": "Programs help vendors stay."
+ },
+ "view": {
+  "phonetic": "/vjuː/",
+  "pos": "v.",
+  "zh": "看待;檢視",
+  "example": "Locals view markets differently."
+ },
+ "wait": {
+  "phonetic": "/weɪt/",
+  "pos": "v.",
+  "zh": "等待",
+  "example": "Flocks wait for helpful winds."
+ },
+ "wall": {
+  "phonetic": "/wɔːl/",
+  "pos": "n.",
+  "zh": "牆",
+  "example": "It is a classroom without walls."
+ },
+ "warmth": {
+  "phonetic": "/wɔːrmθ/",
+  "pos": "n.",
+  "zh": "溫暖",
+  "example": "It is not a source of warmth."
+ },
+ "warn": {
+  "phonetic": "/wɔːrn/",
+  "pos": "v.",
+  "zh": "警告;提醒",
+  "example": "Sensors warn engineers early."
+ },
+ "weak": {
+  "phonetic": "/wiːk/",
+  "pos": "adj.",
+  "zh": "弱的;表現差的",
+  "example": "They remove weak products."
+ },
+ "were": {
+  "phonetic": "/wɜːr/",
+  "pos": "v.",
+  "zh": "是(be的過去複數)",
+  "example": "Species were traveling long ago."
+ },
+ "workout": {
+  "phonetic": "/ˈwɜːrkaʊt/",
+  "pos": "n.",
+  "zh": "健身;鍛鍊",
+  "example": "The world praises intense workouts."
+ },
+ "yearly": {
+  "phonetic": "/ˈjɪrli/",
+  "pos": "adv.",
+  "zh": "每年地",
+  "example": "Some prefer to pay yearly."
+ },
+ "tip": {
+  "phonetic": "/tɪp/",
+  "pos": "n.",
+  "zh": "訣竅;小費;尖端",
+  "example": "She gave me a useful tip for learning English."
+ },
+ "value": {
+  "phonetic": "/ˈvæljuː/",
+  "pos": "n.",
+  "zh": "價值;重要性",
+  "example": "The value of daily practice is huge."
+ },
+ "ten-minute": {
+  "phonetic": "/ˌtɛn ˈmɪnɪt/",
+  "pos": "adj.",
+  "zh": "十分鐘的",
+  "example": "She took a ten-minute break."
+ }
 }

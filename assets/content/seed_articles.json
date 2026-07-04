@@ -1,22 +1,3120 @@
 [
-  {
-    "id": "seed-000",
-    "level": "intermediate",
-    "topic": "life",
-    "title_en": "Placeholder Article",
-    "title_zh": "佔位文章(內容生成中)",
-    "sentences": [
-      { "en": "This is a placeholder article.", "zh": "這是一篇佔位文章。" },
-      { "en": "The real seed content is being generated.", "zh": "真正的種子內容正在生成中。" }
+ {
+  "id": "seed-001",
+  "level": "beginner",
+  "topic": "life",
+  "title_en": "A Quiet Morning",
+  "title_zh": "安靜的早晨",
+  "sentences": [
+   {
+    "en": "Last month, I started to wake up early every day.",
+    "zh": "上個月，我開始每天早起。"
+   },
+   {
+    "en": "Before, I always got up late and hurried to work.",
+    "zh": "以前，我總是很晚起床，然後匆匆忙忙地趕去上班。"
+   },
+   {
+    "en": "Now I get up at six and open my window.",
+    "zh": "現在我六點起床，打開窗戶。"
+   },
+   {
+    "en": "The morning air is cool and fresh.",
+    "zh": "早晨的空氣涼爽又新鮮。"
+   },
+   {
+    "en": "I listen to the birds outside and stretch my arms.",
+    "zh": "我聽著外面的鳥叫聲，伸展手臂。"
+   },
+   {
+    "en": "I make a cup of tea and sit by the table.",
+    "zh": "我泡一杯茶，坐在桌邊。"
+   },
+   {
+    "en": "Then I write three small goals for the day.",
+    "zh": "然後我寫下當天的三個小目標。"
+   },
+   {
+    "en": "After that, I walk to a breakfast shop near my home.",
+    "zh": "之後，我走路去家附近的早餐店。"
+   },
+   {
+    "en": "The owner knows me and always smiles.",
+    "zh": "老闆認識我，總是對我微笑。"
+   },
+   {
+    "en": "I usually order an egg pancake and warm soy milk.",
+    "zh": "我通常點一份蛋餅和溫豆漿。"
+   },
+   {
+    "en": "Sometimes I read a few pages of a book there.",
+    "zh": "有時候我會在那裡讀幾頁書。"
+   },
+   {
+    "en": "This quiet time helps me feel calm and ready.",
+    "zh": "這段安靜的時光讓我覺得平靜，也準備好迎接一天。"
+   },
+   {
+    "en": "My work day feels easier because I do not hurry.",
+    "zh": "因為不趕時間，我的工作日感覺輕鬆多了。"
+   },
+   {
+    "en": "My friends say I look happier now.",
+    "zh": "朋友們說我現在看起來更快樂了。"
+   },
+   {
+    "en": "I also have more time to talk with my family.",
+    "zh": "我也有更多時間和家人聊天。"
+   },
+   {
+    "en": "A small change can make a big difference.",
+    "zh": "一個小改變可以帶來大大的不同。"
+   },
+   {
+    "en": "Maybe you can try it tomorrow, too.",
+    "zh": "也許你明天也可以試試看。"
+   }
+  ],
+  "word_count": 156,
+  "est_minutes": 6,
+  "quiz": [
+   {
+    "q": "What time does the writer get up now?",
+    "options": [
+     "At five",
+     "At six",
+     "At seven",
+     "At eight"
     ],
-    "word_count": 13,
-    "est_minutes": 1,
-    "quiz": [
-      {
-        "q": "What is this article?",
-        "options": ["A news report", "A placeholder", "A poem", "A recipe"],
-        "answer": 1
-      }
-    ]
-  }
+    "answer": 1
+   },
+   {
+    "q": "What does the writer usually order at the breakfast shop?",
+    "options": [
+     "Rice and fish",
+     "Noodles and coffee",
+     "An egg pancake and warm soy milk",
+     "Bread and juice"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Why does the writer's work day feel easier now?",
+    "options": [
+     "Because the writer works less",
+     "Because the writer does not hurry",
+     "Because the writer found a new job",
+     "Because the writer sleeps at work"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "seed-002",
+  "level": "beginner",
+  "topic": "technology",
+  "title_en": "Grandma's New Phone",
+  "title_zh": "奶奶的新手機",
+  "sentences": [
+   {
+    "en": "My grandmother got a smartphone for her birthday last year.",
+    "zh": "我奶奶去年生日收到一支智慧型手機。"
+   },
+   {
+    "en": "At first, she was afraid to touch the screen.",
+    "zh": "一開始，她不敢碰螢幕。"
+   },
+   {
+    "en": "She said, \"This little thing is too smart for me!\"",
+    "zh": "她說：「這個小東西對我來說太聰明了！」"
+   },
+   {
+    "en": "My sister and I taught her step by step.",
+    "zh": "我和妹妹一步一步地教她。"
+   },
+   {
+    "en": "First, she learned to make a phone call.",
+    "zh": "首先，她學會打電話。"
+   },
+   {
+    "en": "Next, she learned to send photos and short messages.",
+    "zh": "接著，她學會傳照片和簡訊。"
+   },
+   {
+    "en": "Now she video calls us every evening.",
+    "zh": "現在她每天晚上都和我們視訊通話。"
+   },
+   {
+    "en": "She shows us her dinner and asks about our day.",
+    "zh": "她會給我們看她的晚餐，還問我們今天過得怎麼樣。"
+   },
+   {
+    "en": "She also watches cooking videos on the internet.",
+    "zh": "她也會在網路上看料理影片。"
+   },
+   {
+    "en": "Her cooking is getting better and better.",
+    "zh": "她的廚藝越來越好。"
+   },
+   {
+    "en": "Last week, she used an app to order fruit online.",
+    "zh": "上星期，她用一個應用程式在網路上訂水果。"
+   },
+   {
+    "en": "The fruit came to her door the next day.",
+    "zh": "水果隔天就送到她家門口。"
+   },
+   {
+    "en": "She was so surprised and happy.",
+    "zh": "她又驚訝又開心。"
+   },
+   {
+    "en": "She told everyone in the family about it.",
+    "zh": "她把這件事告訴了家裡的每一個人。"
+   },
+   {
+    "en": "Technology is not only for young people.",
+    "zh": "科技不是只屬於年輕人。"
+   },
+   {
+    "en": "It can make life easier for everyone.",
+    "zh": "它可以讓每個人的生活更方便。"
+   },
+   {
+    "en": "With a little help, anyone can learn new things.",
+    "zh": "只要有一點幫助，任何人都能學會新事物。"
+   },
+   {
+    "en": "Now my grandmother teaches her friends at the park.",
+    "zh": "現在我奶奶還會在公園教她的朋友們。"
+   }
+  ],
+  "word_count": 152,
+  "est_minutes": 6,
+  "quiz": [
+   {
+    "q": "When did the grandmother get her smartphone?",
+    "options": [
+     "Last week",
+     "For her birthday last year",
+     "Two years ago",
+     "Last month"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "What did the grandmother order online last week?",
+    "options": [
+     "Fruit",
+     "Vegetables",
+     "Clothes",
+     "Books"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "What does the grandmother do at the park now?",
+    "options": [
+     "She watches cooking videos there",
+     "She sells fruit",
+     "She teaches her friends",
+     "She plays games"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "seed-003",
+  "level": "beginner",
+  "topic": "culture",
+  "title_en": "A Night at the Night Market",
+  "title_zh": "夜市的一晚",
+  "sentences": [
+   {
+    "en": "Night markets are an important part of life in Taiwan.",
+    "zh": "夜市是台灣生活中很重要的一部分。"
+   },
+   {
+    "en": "Last Saturday, I took my friend Anna to a famous night market.",
+    "zh": "上星期六，我帶朋友安娜去一個有名的夜市。"
+   },
+   {
+    "en": "She comes from Canada, and it was her first visit.",
+    "zh": "她來自加拿大，這是她第一次逛夜市。"
+   },
+   {
+    "en": "The street was full of lights, people, and delicious smells.",
+    "zh": "街上滿是燈光、人潮和美味的香氣。"
+   },
+   {
+    "en": "Everything looked interesting to her.",
+    "zh": "她覺得每樣東西看起來都很有趣。"
+   },
+   {
+    "en": "First, we tried fried chicken and sweet potato balls.",
+    "zh": "首先，我們吃了炸雞和地瓜球。"
+   },
+   {
+    "en": "Anna loved the bubble tea the most.",
+    "zh": "安娜最喜歡的是珍珠奶茶。"
+   },
+   {
+    "en": "She drank two cups in one hour!",
+    "zh": "她一個小時內就喝了兩杯！"
+   },
+   {
+    "en": "We also played some old games, like throwing rings.",
+    "zh": "我們也玩了一些傳統遊戲，像是套圈圈。"
+   },
+   {
+    "en": "I won a small toy duck and gave it to her.",
+    "zh": "我贏了一隻小玩具鴨，送給了她。"
+   },
+   {
+    "en": "She laughed and put it in her bag.",
+    "zh": "她笑著把它放進包包裡。"
+   },
+   {
+    "en": "Anna asked many questions about the food and the culture.",
+    "zh": "安娜問了很多關於食物和文化的問題。"
+   },
+   {
+    "en": "I told her that many families visit night markets every week.",
+    "zh": "我告訴她，很多家庭每個星期都會逛夜市。"
+   },
+   {
+    "en": "People eat, shop, and meet friends there.",
+    "zh": "大家在那裡吃東西、逛街、和朋友見面。"
+   },
+   {
+    "en": "It is a cheap and fun way to spend an evening.",
+    "zh": "這是度過一個晚上既便宜又有趣的方式。"
+   },
+   {
+    "en": "At the end of the night, Anna said, \"I understand Taiwan better now.\"",
+    "zh": "那晚結束時，安娜說：「我現在更了解台灣了。」"
+   },
+   {
+    "en": "Food can be a bridge between cultures.",
+    "zh": "食物可以成為文化之間的橋樑。"
+   }
+  ],
+  "word_count": 157,
+  "est_minutes": 6,
+  "quiz": [
+   {
+    "q": "Where does Anna come from?",
+    "options": [
+     "Canada",
+     "Japan",
+     "Taiwan",
+     "France"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "What did Anna love the most at the night market?",
+    "options": [
+     "The fried chicken",
+     "The sweet potato balls",
+     "The bubble tea",
+     "The toy duck"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "What did the writer win at the game?",
+    "options": [
+     "A small toy duck",
+     "A ring",
+     "A cup of tea",
+     "A purple flower"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "id": "seed-004",
+  "level": "beginner",
+  "topic": "health",
+  "title_en": "Ten Minutes of Walking",
+  "title_zh": "十分鐘的散步",
+  "sentences": [
+   {
+    "en": "Many people think exercise must be hard and long.",
+    "zh": "很多人以為運動一定要又困難又花時間。"
+   },
+   {
+    "en": "But doctors say short walks are also good for health.",
+    "zh": "但醫生說，短短的散步對健康也很好。"
+   },
+   {
+    "en": "My father is a good example of this.",
+    "zh": "我爸爸就是一個很好的例子。"
+   },
+   {
+    "en": "He works in an office and sits all day.",
+    "zh": "他在辦公室工作，整天坐著。"
+   },
+   {
+    "en": "Last year, he often felt tired and heavy.",
+    "zh": "去年，他常常覺得疲倦又沉重。"
+   },
+   {
+    "en": "Sometimes his back hurt after long meetings.",
+    "zh": "有時候開完長時間的會議，他的背會痛。"
+   },
+   {
+    "en": "His doctor told him to walk for ten minutes after each meal.",
+    "zh": "醫生告訴他，每餐飯後要走路十分鐘。"
+   },
+   {
+    "en": "At first, my father thought it was too easy.",
+    "zh": "一開始，我爸爸覺得這太簡單了。"
+   },
+   {
+    "en": "\"How can ten minutes change anything?\" he asked.",
+    "zh": "他問：「十分鐘能改變什麼？」"
+   },
+   {
+    "en": "But he tried it anyway.",
+    "zh": "但他還是試了。"
+   },
+   {
+    "en": "After three months, he lost some weight and felt great.",
+    "zh": "三個月後，他瘦了一些，感覺很棒。"
+   },
+   {
+    "en": "He sleeps better and has more energy now.",
+    "zh": "他現在睡得更好，也更有活力。"
+   },
+   {
+    "en": "His face looks brighter, and he smiles more often.",
+    "zh": "他的氣色變好了，也更常微笑。"
+   },
+   {
+    "en": "He even joined a walking group in our neighborhood.",
+    "zh": "他甚至加入了我們社區的健走團。"
+   },
+   {
+    "en": "They walk together by the river every morning.",
+    "zh": "他們每天早上一起在河邊散步。"
+   },
+   {
+    "en": "They talk, laugh, and enjoy the fresh air.",
+    "zh": "他們聊天、大笑，享受新鮮的空氣。"
+   },
+   {
+    "en": "Small habits can keep your body strong.",
+    "zh": "小習慣能讓你的身體保持強壯。"
+   },
+   {
+    "en": "Why not start with just ten minutes today?",
+    "zh": "何不今天就從短短十分鐘開始呢？"
+   }
+  ],
+  "word_count": 152,
+  "est_minutes": 6,
+  "quiz": [
+   {
+    "q": "What did the doctor tell the father to do?",
+    "options": [
+     "Run every morning",
+     "Walk for ten minutes after each meal",
+     "Swim two times a week",
+     "Sleep more in the afternoon"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "What happened after three months?",
+    "options": [
+     "The father lost some weight",
+     "The father became sick",
+     "The father changed his job",
+     "The father stopped walking"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Where does the walking group walk every morning?",
+    "options": [
+     "In the office",
+     "By the river",
+     "At a night market",
+     "In the forest"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "seed-005",
+  "level": "beginner",
+  "topic": "nature",
+  "title_en": "A Walk in the Forest",
+  "title_zh": "森林裡的散步",
+  "sentences": [
+   {
+    "en": "Last Sunday, my family went hiking in the mountains.",
+    "zh": "上星期天，我們全家去山上健行。"
+   },
+   {
+    "en": "We left home early, before the sun was up.",
+    "zh": "我們一大早就出門，太陽都還沒升起。"
+   },
+   {
+    "en": "The trail started in a green forest.",
+    "zh": "步道從一片綠色的森林開始。"
+   },
+   {
+    "en": "Tall trees stood on both sides like quiet giants.",
+    "zh": "高大的樹木像安靜的巨人一樣立在兩旁。"
+   },
+   {
+    "en": "We heard birds singing everywhere.",
+    "zh": "我們到處都聽得到鳥兒在唱歌。"
+   },
+   {
+    "en": "The air smelled clean, like rain and leaves.",
+    "zh": "空氣聞起來很乾淨，有雨水和樹葉的味道。"
+   },
+   {
+    "en": "My little brother found a small purple flower near a rock.",
+    "zh": "我弟弟在岩石旁發現一朵紫色的小花。"
+   },
+   {
+    "en": "He wanted to pick it, but my mother stopped him.",
+    "zh": "他想把花摘下來，但媽媽阻止了他。"
+   },
+   {
+    "en": "\"Flowers belong to the mountain,\" she said.",
+    "zh": "她說：「花是屬於這座山的。」"
+   },
+   {
+    "en": "Halfway up, we rested and drank some water.",
+    "zh": "走到半山腰，我們停下來休息喝水。"
+   },
+   {
+    "en": "A white butterfly landed on my bag.",
+    "zh": "一隻白色的蝴蝶停在我的背包上。"
+   },
+   {
+    "en": "It stayed there for a minute, then flew away.",
+    "zh": "牠在那裡停了一分鐘，然後就飛走了。"
+   },
+   {
+    "en": "At the top, we could see the sea far away.",
+    "zh": "在山頂，我們可以看到遠方的大海。"
+   },
+   {
+    "en": "The wind was cool, and the sky was very blue.",
+    "zh": "風很涼爽，天空非常藍。"
+   },
+   {
+    "en": "We ate our lunch under a big tree.",
+    "zh": "我們在一棵大樹下吃午餐。"
+   },
+   {
+    "en": "Simple food tastes better on a mountain.",
+    "zh": "簡單的食物在山上吃起來特別美味。"
+   },
+   {
+    "en": "Nature always makes me feel calm and peaceful.",
+    "zh": "大自然總是讓我覺得平靜又安詳。"
+   },
+   {
+    "en": "I hope we can protect these beautiful places forever.",
+    "zh": "我希望我們能永遠保護這些美麗的地方。"
+   }
+  ],
+  "word_count": 151,
+  "est_minutes": 6,
+  "quiz": [
+   {
+    "q": "When did the family go hiking?",
+    "options": [
+     "Last Sunday",
+     "Last Saturday",
+     "Last month",
+     "Last evening"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "What did the little brother find near a rock?",
+    "options": [
+     "A white butterfly",
+     "A small purple flower",
+     "A toy duck",
+     "A bird"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "What could the family see at the top of the mountain?",
+    "options": [
+     "The sea",
+     "A night market",
+     "A big city",
+     "A breakfast shop"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "id": "seed-006",
+  "level": "beginner",
+  "topic": "travel",
+  "title_en": "A Weekend Trip to Tainan",
+  "title_zh": "台南週末小旅行",
+  "sentences": [
+   {
+    "en": "Last month, my sister and I took a weekend trip to Tainan.",
+    "zh": "上個月，我和姊姊到台南來了一趟週末小旅行。"
+   },
+   {
+    "en": "Tainan is an old city in the south of Taiwan.",
+    "zh": "台南是位於台灣南部的古老城市。"
+   },
+   {
+    "en": "We traveled there by train, and the trip took about two hours.",
+    "zh": "我們搭火車前往，車程大約兩個小時。"
+   },
+   {
+    "en": "On the first day, we visited a famous temple near our hotel.",
+    "zh": "第一天，我們參觀了飯店附近一間有名的廟宇。"
+   },
+   {
+    "en": "The building was more than two hundred years old.",
+    "zh": "那棟建築已經有兩百多年的歷史。"
+   },
+   {
+    "en": "Later, we walked along a small street full of food stands.",
+    "zh": "之後，我們沿著一條擺滿小吃攤的小街散步。"
+   },
+   {
+    "en": "My sister loves local food, so we tried beef soup and fresh fruit juice.",
+    "zh": "我姊姊很喜歡當地美食，所以我們嚐了牛肉湯和新鮮果汁。"
+   },
+   {
+    "en": "Everything was cheap and delicious.",
+    "zh": "每樣東西都便宜又好吃。"
+   },
+   {
+    "en": "The next morning, we rented bicycles and rode to the sea.",
+    "zh": "隔天早上，我們租了腳踏車，一路騎到海邊。"
+   },
+   {
+    "en": "The weather was sunny, and the wind felt warm.",
+    "zh": "天氣晴朗，風吹起來很溫暖。"
+   },
+   {
+    "en": "We took many photos and bought small gifts for our parents.",
+    "zh": "我們拍了很多照片，也買了小禮物要送給爸媽。"
+   },
+   {
+    "en": "Before we went home, we sat by the water and watched the sunset.",
+    "zh": "回家之前，我們坐在水邊看夕陽。"
+   },
+   {
+    "en": "The sky slowly turned orange and pink.",
+    "zh": "天空慢慢變成橘色和粉紅色。"
+   },
+   {
+    "en": "It was a short trip, but it made us very happy.",
+    "zh": "雖然是趟短短的旅行，卻讓我們非常開心。"
+   },
+   {
+    "en": "We plan to visit again next year.",
+    "zh": "我們打算明年再去一次。"
+   }
+  ],
+  "word_count": 154,
+  "est_minutes": 6,
+  "quiz": [
+   {
+    "q": "How did the writer and her sister travel to Tainan?",
+    "options": [
+     "By train",
+     "By bus",
+     "By plane",
+     "By car"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "How long did the train trip take?",
+    "options": [
+     "About one hour",
+     "About two hours",
+     "About three hours",
+     "About five hours"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "What did they do on the second morning?",
+    "options": [
+     "They visited a temple",
+     "They watched a movie",
+     "They rented bicycles and rode to the sea",
+     "They bought train tickets"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "seed-007",
+  "level": "beginner",
+  "topic": "business",
+  "title_en": "A Small Shop with a Big Idea",
+  "title_zh": "小店的大點子",
+  "sentences": [
+   {
+    "en": "Mr. Lin owns a small coffee shop near a busy office building.",
+    "zh": "林先生在一棟繁忙的辦公大樓附近開了一間小咖啡店。"
+   },
+   {
+    "en": "Two years ago, his business was slow, and he worried about money.",
+    "zh": "兩年前，他的生意很冷清，他很擔心錢的問題。"
+   },
+   {
+    "en": "Many workers passed his shop every morning, but few came inside.",
+    "zh": "每天早上有許多上班族經過他的店，但很少人走進來。"
+   },
+   {
+    "en": "Then one day, he had a simple new idea.",
+    "zh": "後來有一天，他想到一個簡單的新點子。"
+   },
+   {
+    "en": "He started to sell breakfast boxes that people could order by phone.",
+    "zh": "他開始賣可以用電話訂購的早餐盒。"
+   },
+   {
+    "en": "Customers could pick up their food quickly on the way to work.",
+    "zh": "顧客可以在上班途中快速取餐。"
+   },
+   {
+    "en": "He also gave a free cookie to anyone who ordered five times.",
+    "zh": "他還送免費餅乾給訂購滿五次的人。"
+   },
+   {
+    "en": "The simple plan worked very well.",
+    "zh": "這個簡單的計畫非常成功。"
+   },
+   {
+    "en": "Happy customers told their friends about the shop.",
+    "zh": "開心的顧客把這間店介紹給朋友。"
+   },
+   {
+    "en": "More and more people came in every day.",
+    "zh": "越來越多人每天走進店裡。"
+   },
+   {
+    "en": "In three months, his sales doubled.",
+    "zh": "三個月內，他的營業額成長了一倍。"
+   },
+   {
+    "en": "Now he has two helpers, and the shop is full every morning.",
+    "zh": "現在他有兩位幫手，店裡每天早上都客滿。"
+   },
+   {
+    "en": "Mr. Lin says the secret of good business is simple.",
+    "zh": "林先生說，做好生意的祕訣很簡單。"
+   },
+   {
+    "en": "\"Listen to your customers and save their time,\" he explains.",
+    "zh": "他解釋道：「傾聽你的顧客，並幫他們節省時間。」"
+   },
+   {
+    "en": "Next year, he hopes to open a second shop across town.",
+    "zh": "明年，他希望在城市另一頭開第二間店。"
+   }
+  ],
+  "word_count": 151,
+  "est_minutes": 6,
+  "quiz": [
+   {
+    "q": "What was Mr. Lin's problem two years ago?",
+    "options": [
+     "His shop was too big",
+     "His business was slow",
+     "His coffee was cold",
+     "His helpers left the shop"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "What did customers get after they ordered five times?",
+    "options": [
+     "A free coffee",
+     "A free breakfast box",
+     "A free cookie",
+     "A free phone"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "What does Mr. Lin want to do next year?",
+    "options": [
+     "Sell his shop",
+     "Open a second shop across town",
+     "Move to another city",
+     "Close the shop every morning"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "seed-008",
+  "level": "beginner",
+  "topic": "science",
+  "title_en": "Why Do We Sleep?",
+  "title_zh": "我們為什麼要睡覺？",
+  "sentences": [
+   {
+    "en": "Sleep is one of the most important parts of our day.",
+    "zh": "睡眠是我們一天當中最重要的部分之一。"
+   },
+   {
+    "en": "Scientists have studied sleep for many years.",
+    "zh": "科學家研究睡眠已經很多年了。"
+   },
+   {
+    "en": "They found that our brains stay busy while we rest.",
+    "zh": "他們發現，當我們休息時，大腦仍然忙個不停。"
+   },
+   {
+    "en": "During sleep, the brain cleans itself and stores new memories.",
+    "zh": "睡覺期間，大腦會自我清理，並儲存新的記憶。"
+   },
+   {
+    "en": "This is why students remember lessons better after a good night of sleep.",
+    "zh": "這就是為什麼學生睡了一夜好覺之後，更能記住上課的內容。"
+   },
+   {
+    "en": "Sleep also helps the body repair itself.",
+    "zh": "睡眠也能幫助身體自我修復。"
+   },
+   {
+    "en": "Our muscles grow, and our skin heals faster at night.",
+    "zh": "我們的肌肉在夜間成長，皮膚也癒合得更快。"
+   },
+   {
+    "en": "How much sleep do we need?",
+    "zh": "我們需要多少睡眠呢？"
+   },
+   {
+    "en": "Most adults need about seven to nine hours each night.",
+    "zh": "大多數成年人每晚需要大約七到九個小時。"
+   },
+   {
+    "en": "Children need even more because their bodies are still growing.",
+    "zh": "兒童需要更多睡眠，因為他們的身體還在發育。"
+   },
+   {
+    "en": "Too little sleep can cause problems.",
+    "zh": "睡眠太少可能會造成問題。"
+   },
+   {
+    "en": "People who sleep badly often feel tired, sad, or angry.",
+    "zh": "睡不好的人常常覺得疲倦、難過或易怒。"
+   },
+   {
+    "en": "They may also get sick more easily.",
+    "zh": "他們也可能更容易生病。"
+   },
+   {
+    "en": "A good night of sleep helps us feel fresh and happy.",
+    "zh": "一夜好眠能讓我們覺得神清氣爽又快樂。"
+   },
+   {
+    "en": "Doctors suggest a simple rule: go to bed at the same time every day.",
+    "zh": "醫生建議一個簡單的原則：每天在同樣的時間上床睡覺。"
+   },
+   {
+    "en": "Also, put your phone away before you sleep.",
+    "zh": "還有，睡覺前把手機收起來。"
+   },
+   {
+    "en": "A quiet, dark room helps you rest well.",
+    "zh": "安靜又昏暗的房間能幫助你好好休息。"
+   }
+  ],
+  "word_count": 158,
+  "est_minutes": 6,
+  "quiz": [
+   {
+    "q": "What does the brain do during sleep?",
+    "options": [
+     "It does nothing at all",
+     "It cleans itself and stores new memories",
+     "It makes the body tired",
+     "It forgets old lessons"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "How many hours of sleep do most adults need each night?",
+    "options": [
+     "About four to five hours",
+     "About five to six hours",
+     "About seven to nine hours",
+     "About ten to twelve hours"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "What do doctors suggest?",
+    "options": [
+     "Go to bed at the same time every day",
+     "Sleep with the phone near your bed",
+     "Drink coffee before bed",
+     "Study late every night"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "id": "seed-009",
+  "level": "beginner",
+  "topic": "life",
+  "title_en": "Saturday Mornings at the Market",
+  "title_zh": "市場裡的星期六早晨",
+  "sentences": [
+   {
+    "en": "Every Saturday, I go to the morning market with my grandmother.",
+    "zh": "每個星期六，我都和奶奶一起去早市。"
+   },
+   {
+    "en": "The market opens early, so we leave home at six thirty.",
+    "zh": "市場很早就開了，所以我們六點半就出門。"
+   },
+   {
+    "en": "The streets are already full of people and bicycles.",
+    "zh": "街上已經滿是人群和腳踏車。"
+   },
+   {
+    "en": "Sellers call out prices in loud, happy voices.",
+    "zh": "攤販們用宏亮又愉快的聲音喊著價格。"
+   },
+   {
+    "en": "My grandmother knows almost everyone at the market.",
+    "zh": "奶奶幾乎認識市場裡的每一個人。"
+   },
+   {
+    "en": "She stops to chat with the fish seller and the vegetable lady.",
+    "zh": "她會停下來，和賣魚的老闆、賣菜的阿姨聊天。"
+   },
+   {
+    "en": "She teaches me how to choose fresh fruit.",
+    "zh": "她教我怎麼挑選新鮮的水果。"
+   },
+   {
+    "en": "\"Good apples feel heavy, and their skin is bright,\" she says.",
+    "zh": "她說：「好的蘋果拿起來沉沉的，果皮也很有光澤。」"
+   },
+   {
+    "en": "We always buy eggs, vegetables, and a little fish.",
+    "zh": "我們總是會買雞蛋、蔬菜和一點魚。"
+   },
+   {
+    "en": "Sometimes she buys me a warm rice ball for breakfast.",
+    "zh": "有時候她會買一顆溫熱的飯糰給我當早餐。"
+   },
+   {
+    "en": "On the way home, we talk about our week.",
+    "zh": "回家的路上，我們會聊聊這一週的生活。"
+   },
+   {
+    "en": "She tells me stories about her life when she was young.",
+    "zh": "她會告訴我她年輕時的故事。"
+   },
+   {
+    "en": "These mornings are simple, but they mean a lot to me.",
+    "zh": "這些早晨很平凡，對我來說卻意義重大。"
+   },
+   {
+    "en": "I learn about food, people, and family love at the market.",
+    "zh": "在市場裡，我學到了食物、人情和家人的愛。"
+   },
+   {
+    "en": "I hope we can keep this habit for many more years.",
+    "zh": "我希望這個習慣我們可以再維持很多年。"
+   }
+  ],
+  "word_count": 150,
+  "est_minutes": 6,
+  "quiz": [
+   {
+    "q": "What time do they leave home?",
+    "options": [
+     "At six",
+     "At six thirty",
+     "At seven",
+     "At seven thirty"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "What does the grandmother teach the writer?",
+    "options": [
+     "How to cook rice",
+     "How to ride a bicycle",
+     "How to sell fish",
+     "How to choose fresh fruit"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "What do they always buy at the market?",
+    "options": [
+     "Eggs, vegetables, and a little fish",
+     "Apples, juice, and bread",
+     "Rice balls and soup",
+     "Gifts for their parents"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "id": "seed-010",
+  "level": "beginner",
+  "topic": "technology",
+  "title_en": "Helpful Apps in Daily Life",
+  "title_zh": "日常生活中的實用 App",
+  "sentences": [
+   {
+    "en": "Ten years ago, my father used paper maps when he drove.",
+    "zh": "十年前，我爸爸開車時用的是紙本地圖。"
+   },
+   {
+    "en": "Today, he simply talks to the map app on his phone.",
+    "zh": "現在，他只要對手機上的地圖 App 說話就可以了。"
+   },
+   {
+    "en": "Technology has changed our daily life in many small ways.",
+    "zh": "科技在許多小地方改變了我們的日常生活。"
+   },
+   {
+    "en": "In the morning, an alarm app wakes me up with soft music.",
+    "zh": "早上，鬧鐘 App 會用輕柔的音樂叫我起床。"
+   },
+   {
+    "en": "A weather app tells me if I need an umbrella.",
+    "zh": "天氣 App 會告訴我需不需要帶雨傘。"
+   },
+   {
+    "en": "At lunch, my mother orders fresh vegetables online.",
+    "zh": "中午，媽媽在網路上訂購新鮮蔬菜。"
+   },
+   {
+    "en": "The fresh food arrives at our door the next day.",
+    "zh": "新鮮的食物隔天就送到我們家門口。"
+   },
+   {
+    "en": "My little brother uses a learning app to practice English.",
+    "zh": "我弟弟用學習 App 練習英文。"
+   },
+   {
+    "en": "He plays word games and listens to short stories.",
+    "zh": "他玩單字遊戲，也聽短篇故事。"
+   },
+   {
+    "en": "Of course, technology can cause problems too.",
+    "zh": "當然，科技也可能帶來問題。"
+   },
+   {
+    "en": "Some people look at their screens for too many hours.",
+    "zh": "有些人盯著螢幕看的時間太長了。"
+   },
+   {
+    "en": "Sometimes they forget to talk with the people around them.",
+    "zh": "有時候他們會忘了和身邊的人說話。"
+   },
+   {
+    "en": "My family has a rule: no phones at the dinner table.",
+    "zh": "我們家有一條規定：吃晚餐時餐桌上不能有手機。"
+   },
+   {
+    "en": "We put them in a basket and enjoy our meal together.",
+    "zh": "我們把手機放進籃子裡，一起享用晚餐。"
+   },
+   {
+    "en": "Technology is a great tool when we use it wisely.",
+    "zh": "只要用得聰明，科技就是很棒的工具。"
+   }
+  ],
+  "word_count": 150,
+  "est_minutes": 6,
+  "quiz": [
+   {
+    "q": "What did the father use ten years ago when he drove?",
+    "options": [
+     "A map app",
+     "Paper maps",
+     "A radio",
+     "A travel book"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "How does the little brother practice English?",
+    "options": [
+     "He watches English movies",
+     "He writes letters to friends",
+     "He talks with a teacher",
+     "He plays word games and listens to short stories"
+    ],
+    "answer": 3
+   },
+   {
+    "q": "What is the family rule at dinner?",
+    "options": [
+     "No talking at the table",
+     "Everyone must cook together",
+     "No phones at the dinner table",
+     "No games after dinner"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "seed-011",
+  "level": "intermediate",
+  "topic": "technology",
+  "title_en": "How Smart Speakers Are Changing Daily Life",
+  "title_zh": "智慧音箱如何改變日常生活",
+  "sentences": [
+   {
+    "en": "Many families in Taiwan now use smart speakers at home.",
+    "zh": "現在台灣有許多家庭在家裡使用智慧音箱。"
+   },
+   {
+    "en": "These small devices can play music, answer questions, and control lights.",
+    "zh": "這些小型裝置可以播放音樂、回答問題,還能控制電燈。"
+   },
+   {
+    "en": "You only need to speak a simple command.",
+    "zh": "你只需要說出簡單的指令。"
+   },
+   {
+    "en": "For example, you can say, \"Turn on the fan,\" and the speaker will do it.",
+    "zh": "例如,你可以說「打開電風扇」,音箱就會照做。"
+   },
+   {
+    "en": "Some people also use them to set alarms or check the weather.",
+    "zh": "有些人也會用它們來設定鬧鐘或查看天氣。"
+   },
+   {
+    "en": "Smart speakers are especially helpful for older people.",
+    "zh": "智慧音箱對年長者特別有幫助。"
+   },
+   {
+    "en": "They do not need to learn a difficult app.",
+    "zh": "他們不需要學習困難的應用程式。"
+   },
+   {
+    "en": "However, some users worry about privacy.",
+    "zh": "不過,有些使用者擔心隱私問題。"
+   },
+   {
+    "en": "The devices listen all the time, so they might record private conversations.",
+    "zh": "這些裝置隨時都在聆聽,因此可能會錄下私人對話。"
+   },
+   {
+    "en": "Companies say the data is safe, but experts suggest checking the settings carefully.",
+    "zh": "公司表示資料很安全,但專家建議仔細檢查設定。"
+   },
+   {
+    "en": "You can delete old recordings and turn off the microphone when you do not need it.",
+    "zh": "你可以刪除舊的錄音,不需要時也可以關掉麥克風。"
+   },
+   {
+    "en": "Prices have also dropped in recent years.",
+    "zh": "近年來價格也下降了。"
+   },
+   {
+    "en": "A basic model now costs about the same as a nice dinner.",
+    "zh": "一台基本款現在的價格大約和一頓不錯的晚餐差不多。"
+   },
+   {
+    "en": "As technology improves, smart speakers will understand more languages, including Taiwanese.",
+    "zh": "隨著科技進步,智慧音箱將能聽懂更多語言,包括台語。"
+   },
+   {
+    "en": "Perhaps one day, every home will have a helpful voice assistant.",
+    "zh": "也許有一天,每個家庭都會有一位得力的語音助理。"
+   }
+  ],
+  "word_count": 161,
+  "est_minutes": 6,
+  "quiz": [
+   {
+    "q": "According to the article, what can smart speakers do?",
+    "options": [
+     "Play music, answer questions, and control lights",
+     "Cook dinner for the family",
+     "Wash clothes and clean the floor",
+     "Drive people to work"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Why are smart speakers especially helpful for older people?",
+    "options": [
+     "They are free for older people",
+     "They do not require learning a difficult app",
+     "They can call a doctor at any time",
+     "They teach older people English"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "What do experts suggest users do about privacy?",
+    "options": [
+     "Stop using smart speakers completely",
+     "Buy a more expensive model",
+     "Check the settings carefully",
+     "Speak quietly at home"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "seed-012",
+  "level": "intermediate",
+  "topic": "culture",
+  "title_en": "Night Markets: The Heart of Taiwanese Life",
+  "title_zh": "夜市:台灣生活的中心",
+  "sentences": [
+   {
+    "en": "Night markets are one of the most popular parts of Taiwanese culture.",
+    "zh": "夜市是台灣文化中最受歡迎的一部分。"
+   },
+   {
+    "en": "Almost every city has at least one famous night market.",
+    "zh": "幾乎每座城市都至少有一個著名的夜市。"
+   },
+   {
+    "en": "People go there to eat, shop, and meet friends after work.",
+    "zh": "人們下班後會去那裡吃東西、購物、和朋友見面。"
+   },
+   {
+    "en": "The food is the biggest attraction.",
+    "zh": "美食是最大的亮點。"
+   },
+   {
+    "en": "Visitors can try fried chicken, oyster omelets, and bubble tea at low prices.",
+    "zh": "遊客可以用便宜的價格品嚐炸雞、蚵仔煎和珍珠奶茶。"
+   },
+   {
+    "en": "Many stands have been run by the same family for decades.",
+    "zh": "許多攤位由同一個家族經營了數十年。"
+   },
+   {
+    "en": "Besides food, night markets offer games and cheap clothes.",
+    "zh": "除了美食之外,夜市還有遊戲和便宜的衣服。"
+   },
+   {
+    "en": "Children love to catch small fish or shoot balloons to win prizes.",
+    "zh": "小朋友喜歡撈小魚或射氣球來贏得獎品。"
+   },
+   {
+    "en": "Locals enjoy walking slowly and looking for something new to try.",
+    "zh": "在地人喜歡慢慢地邊走邊找新鮮的東西來嚐鮮。"
+   },
+   {
+    "en": "Foreign tourists often say the lively atmosphere is unforgettable.",
+    "zh": "外國觀光客常說那熱鬧的氣氛令人難忘。"
+   },
+   {
+    "en": "In recent years, some markets have started to accept mobile payments.",
+    "zh": "近年來,有些夜市開始接受行動支付。"
+   },
+   {
+    "en": "Others now provide recycling bins to reduce plastic waste.",
+    "zh": "也有一些夜市現在提供回收桶,以減少塑膠垃圾。"
+   },
+   {
+    "en": "These changes help old traditions survive in a modern world.",
+    "zh": "這些改變幫助古老的傳統在現代世界中延續下去。"
+   },
+   {
+    "en": "If you visit Taiwan, do not miss the chance to walk through a night market.",
+    "zh": "如果你造訪台灣,千萬別錯過逛夜市的機會。"
+   },
+   {
+    "en": "It is the best way to taste real local life.",
+    "zh": "這是體驗在地真實生活最好的方式。"
+   }
+  ],
+  "word_count": 159,
+  "est_minutes": 6,
+  "quiz": [
+   {
+    "q": "What is the biggest attraction of night markets?",
+    "options": [
+     "The games",
+     "The food",
+     "The clothes",
+     "The music"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "What change have some night markets made in recent years?",
+    "options": [
+     "They open only in the morning",
+     "They accept mobile payments",
+     "They no longer sell food",
+     "They only sell clothes now"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Why do children love night markets?",
+    "options": [
+     "They can play games to win prizes",
+     "They can drink bubble tea with friends",
+     "They can sleep there all night",
+     "They can wash their clothes there"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "id": "seed-013",
+  "level": "intermediate",
+  "topic": "health",
+  "title_en": "Why Walking Is the Easiest Exercise",
+  "title_zh": "為什麼走路是最簡單的運動",
+  "sentences": [
+   {
+    "en": "Doctors often say that walking is the best medicine.",
+    "zh": "醫生常說,走路是最好的良藥。"
+   },
+   {
+    "en": "It is free, safe, and almost anyone can do it.",
+    "zh": "它免費又安全,而且幾乎人人都做得到。"
+   },
+   {
+    "en": "Research shows that walking thirty minutes a day can improve heart health.",
+    "zh": "研究顯示,每天走路三十分鐘可以改善心臟健康。"
+   },
+   {
+    "en": "It also helps control weight and blood pressure.",
+    "zh": "它也有助於控制體重和血壓。"
+   },
+   {
+    "en": "Walking is good for the mind, too.",
+    "zh": "走路對心理也有好處。"
+   },
+   {
+    "en": "A short walk in a park can reduce stress and improve your mood.",
+    "zh": "在公園裡短暫散步可以減輕壓力、改善心情。"
+   },
+   {
+    "en": "Green trees and fresh air make people feel calm.",
+    "zh": "綠樹和新鮮空氣讓人感到平靜。"
+   },
+   {
+    "en": "It can even help you sleep better at night.",
+    "zh": "它甚至能幫助你晚上睡得更好。"
+   },
+   {
+    "en": "Some people think they must run to stay healthy, but this is not true.",
+    "zh": "有些人以為必須跑步才能保持健康,但事實並非如此。"
+   },
+   {
+    "en": "Fast walking gives similar benefits with less pain in the knees.",
+    "zh": "快走能帶來類似的好處,而且膝蓋比較不會痛。"
+   },
+   {
+    "en": "How can you walk more in daily life?",
+    "zh": "在日常生活中,要怎麼走更多路呢?"
+   },
+   {
+    "en": "Try getting off the bus one stop early.",
+    "zh": "試著提早一站下公車。"
+   },
+   {
+    "en": "Take the stairs instead of the elevator.",
+    "zh": "走樓梯,不要搭電梯。"
+   },
+   {
+    "en": "You can also walk with a friend, which makes the habit easier to keep.",
+    "zh": "你也可以和朋友一起走,這樣更容易維持這個習慣。"
+   },
+   {
+    "en": "Remember to wear comfortable shoes and drink enough water.",
+    "zh": "記得穿舒適的鞋子,並喝足夠的水。"
+   },
+   {
+    "en": "Start slowly, and your body will thank you later.",
+    "zh": "慢慢開始,你的身體日後會感謝你。"
+   }
+  ],
+  "word_count": 157,
+  "est_minutes": 6,
+  "quiz": [
+   {
+    "q": "How long should people walk each day to improve heart health?",
+    "options": [
+     "Ten minutes",
+     "Thirty minutes",
+     "Two hours",
+     "Five minutes"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "What does the article say about running?",
+    "options": [
+     "Running is the only way to stay healthy",
+     "People must run every morning",
+     "People do not have to run to stay healthy",
+     "Running is bad for the heart"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Which is one way the article suggests to walk more?",
+    "options": [
+     "Getting off the bus one stop early",
+     "Driving to work every day",
+     "Taking the elevator instead of the stairs",
+     "Drinking more coffee before walking"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "id": "seed-014",
+  "level": "intermediate",
+  "topic": "business",
+  "title_en": "Small Coffee Shops Compete with Big Chains",
+  "title_zh": "小咖啡店與大型連鎖店的競爭",
+  "sentences": [
+   {
+    "en": "Coffee culture is growing quickly in Taiwan these days.",
+    "zh": "近來咖啡文化在台灣快速成長。"
+   },
+   {
+    "en": "Big international chains have shops on almost every corner.",
+    "zh": "大型國際連鎖店幾乎在每個街角都有分店。"
+   },
+   {
+    "en": "Still, small independent coffee shops continue to open.",
+    "zh": "儘管如此,小型獨立咖啡店仍持續開張。"
+   },
+   {
+    "en": "How do they survive against such strong competition?",
+    "zh": "面對如此激烈的競爭,它們是如何生存的呢?"
+   },
+   {
+    "en": "First, they focus on the quality of every single cup.",
+    "zh": "首先,它們專注於每一杯的品質。"
+   },
+   {
+    "en": "Many owners roast their own beans and train for years to make the perfect cup.",
+    "zh": "許多店主自己烘豆,並且花好幾年練習,只為煮出完美的一杯咖啡。"
+   },
+   {
+    "en": "Second, they create a special atmosphere.",
+    "zh": "第二,它們營造特別的氛圍。"
+   },
+   {
+    "en": "Customers enjoy quiet music, warm lights, and friendly service.",
+    "zh": "顧客享受安靜的音樂、溫暖的燈光和親切的服務。"
+   },
+   {
+    "en": "Third, they build strong relationships with local customers.",
+    "zh": "第三,它們和在地顧客建立深厚的關係。"
+   },
+   {
+    "en": "A regular customer may visit the same shop every morning for years.",
+    "zh": "一位常客可能好幾年來每天早上都光顧同一家店。"
+   },
+   {
+    "en": "Owners remember their names and favorite drinks, so people feel at home.",
+    "zh": "店主記得他們的名字和喜愛的飲品,讓人感到賓至如歸。"
+   },
+   {
+    "en": "Social media also plays an important role.",
+    "zh": "社群媒體也扮演重要的角色。"
+   },
+   {
+    "en": "A beautiful photo of a drink can bring hundreds of new visitors.",
+    "zh": "一張漂亮的飲品照片可以帶來數百位新客人。"
+   },
+   {
+    "en": "Of course, running a small business is never easy.",
+    "zh": "當然,經營小生意從來都不容易。"
+   },
+   {
+    "en": "Rent is high, and profits are often low.",
+    "zh": "租金很高,利潤卻常常很低。"
+   },
+   {
+    "en": "But for many owners, sharing good coffee is worth the hard work.",
+    "zh": "但對許多店主來說,分享好咖啡值得這份辛勞。"
+   }
+  ],
+  "word_count": 154,
+  "est_minutes": 6,
+  "quiz": [
+   {
+    "q": "What is the first way small coffee shops compete with big chains?",
+    "options": [
+     "They lower their prices every week",
+     "They focus on quality",
+     "They open all day and all night",
+     "They stop selling coffee"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "How does social media help small coffee shops?",
+    "options": [
+     "It pays their rent",
+     "A beautiful photo can bring many new visitors",
+     "It teaches owners to roast beans",
+     "It makes the coffee taste better"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "What problem do small coffee shop owners often face?",
+    "options": [
+     "High rent and low profits",
+     "Too many coffee beans",
+     "Music that is too loud",
+     "Coffee that is too hot"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "id": "seed-015",
+  "level": "intermediate",
+  "topic": "science",
+  "title_en": "Why Bees Matter to Everyone",
+  "title_zh": "為什麼蜜蜂對每個人都很重要",
+  "sentences": [
+   {
+    "en": "Bees are small, but their job is huge.",
+    "zh": "蜜蜂雖然很小,牠們的工作卻非常重大。"
+   },
+   {
+    "en": "When a bee flies from flower to flower, it carries pollen.",
+    "zh": "當蜜蜂在花朵之間飛行時,會帶著花粉。"
+   },
+   {
+    "en": "This process, called pollination, helps plants produce fruit and seeds.",
+    "zh": "這個過程叫做授粉,能幫助植物結出果實和種子。"
+   },
+   {
+    "en": "Scientists say about one third of the food we eat depends on bees.",
+    "zh": "科學家表示,我們吃的食物大約有三分之一依賴蜜蜂。"
+   },
+   {
+    "en": "Apples, strawberries, and coffee all need these busy insects.",
+    "zh": "蘋果、草莓和咖啡都需要這些忙碌的昆蟲。"
+   },
+   {
+    "en": "Sadly, bee numbers are falling around the world.",
+    "zh": "遺憾的是,全球的蜜蜂數量正在下降。"
+   },
+   {
+    "en": "In some countries, more than half of the hives have disappeared.",
+    "zh": "在某些國家,超過一半的蜂巢已經消失。"
+   },
+   {
+    "en": "There are several reasons for this problem.",
+    "zh": "造成這個問題的原因有好幾個。"
+   },
+   {
+    "en": "Farmers use chemicals that can harm bees.",
+    "zh": "農民使用可能傷害蜜蜂的化學藥劑。"
+   },
+   {
+    "en": "Cities keep growing, so bees lose the wild fields where flowers grow.",
+    "zh": "城市不斷擴張,蜜蜂因此失去長滿花朵的野地。"
+   },
+   {
+    "en": "Climate change also confuses the seasons, so flowers bloom at the wrong time.",
+    "zh": "氣候變遷也擾亂了季節,使花朵在錯誤的時間開放。"
+   },
+   {
+    "en": "The good news is that everyone can help.",
+    "zh": "好消息是,每個人都能幫上忙。"
+   },
+   {
+    "en": "You can plant flowers on your balcony.",
+    "zh": "你可以在陽台上種花。"
+   },
+   {
+    "en": "Even a small garden can become a safe home for bees.",
+    "zh": "即使是小小的花園,也能成為蜜蜂安全的家。"
+   },
+   {
+    "en": "Buying honey from local farms also supports beekeepers.",
+    "zh": "向在地農場購買蜂蜜,也能支持養蜂人。"
+   },
+   {
+    "en": "If bees stay healthy, our tables will stay full.",
+    "zh": "如果蜜蜂保持健康,我們的餐桌就會保持豐盛。"
+   }
+  ],
+  "word_count": 152,
+  "est_minutes": 6,
+  "quiz": [
+   {
+    "q": "What is pollination?",
+    "options": [
+     "A process that helps plants produce fruit and seeds",
+     "A way bees make honey",
+     "A kind of chemical used on farms",
+     "A season when flowers bloom"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "How much of our food depends on bees?",
+    "options": [
+     "Almost none of it",
+     "About one third of it",
+     "Exactly half of it",
+     "All of it"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "According to the article, which action can help bees?",
+    "options": [
+     "Using more chemicals on farms",
+     "Planting flowers on a balcony",
+     "Building more roads in cities",
+     "Catching bees and keeping them at home"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "seed-016",
+  "level": "intermediate",
+  "topic": "life",
+  "title_en": "Ten Minutes Before Breakfast",
+  "title_zh": "早餐前的十分鐘",
+  "sentences": [
+   {
+    "en": "Many people believe that a good day starts the night before.",
+    "zh": "許多人相信，美好的一天從前一晚就開始了。"
+   },
+   {
+    "en": "However, my grandmother taught me a different lesson.",
+    "zh": "不過，我的奶奶教了我不一樣的一課。"
+   },
+   {
+    "en": "She said the first ten minutes after you wake up shape your whole day.",
+    "zh": "她說，醒來後的前十分鐘會決定你一整天的樣子。"
+   },
+   {
+    "en": "Every morning, she opened the window, drank a glass of warm water, and wrote three short lines in a notebook.",
+    "zh": "每天早上，她會打開窗戶、喝一杯溫開水，然後在筆記本裡寫下三行短短的字。"
+   },
+   {
+    "en": "She wrote one thing she was thankful for, one plan for the day, and one small worry.",
+    "zh": "她會寫下一件感恩的事、一個當天的計畫，以及一個小小的煩惱。"
+   },
+   {
+    "en": "Writing the worry down, she explained, helped her put it aside.",
+    "zh": "她解釋說，把煩惱寫下來，能幫助她先把它放到一邊。"
+   },
+   {
+    "en": "Last spring, I decided to try her habit for a month.",
+    "zh": "去年春天，我決定試著養成她的習慣一個月。"
+   },
+   {
+    "en": "At first, it felt strange to sit quietly while my phone was still off.",
+    "zh": "一開始，手機還關著、靜靜坐著的感覺很奇怪。"
+   },
+   {
+    "en": "After two weeks, I noticed a clear change.",
+    "zh": "兩週之後，我注意到明顯的改變。"
+   },
+   {
+    "en": "I felt calmer on the bus, and I finished my work earlier.",
+    "zh": "我在公車上覺得比較平靜，工作也提早完成了。"
+   },
+   {
+    "en": "My sleep also improved because my mind was less busy at night.",
+    "zh": "我的睡眠也變好了，因為晚上腦袋不再那麼忙碌。"
+   },
+   {
+    "en": "Now I keep a small notebook next to my bed.",
+    "zh": "現在我在床邊放了一本小筆記本。"
+   },
+   {
+    "en": "The habit costs nothing and takes only ten minutes.",
+    "zh": "這個習慣不花一毛錢，只需要十分鐘。"
+   },
+   {
+    "en": "Sometimes the simplest ideas bring the biggest changes to our daily life.",
+    "zh": "有時候，最簡單的想法能為我們的日常生活帶來最大的改變。"
+   }
+  ],
+  "word_count": 169,
+  "est_minutes": 7,
+  "quiz": [
+   {
+    "q": "What did the grandmother do every morning?",
+    "options": [
+     "She read the news on her phone.",
+     "She wrote three short lines in a notebook.",
+     "She exercised in the park.",
+     "She called her family."
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Why did writing down a worry help the grandmother?",
+    "options": [
+     "It made the worry disappear forever.",
+     "It helped her put the worry aside.",
+     "It made her forget her plans.",
+     "It helped her sleep late."
+    ],
+    "answer": 1
+   },
+   {
+    "q": "What change did the writer notice after two weeks?",
+    "options": [
+     "The writer felt calmer and finished work earlier.",
+     "The writer became more tired.",
+     "The writer stopped taking the bus.",
+     "The writer slept less at night."
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "id": "seed-017",
+  "level": "intermediate",
+  "topic": "travel",
+  "title_en": "A Slow Train to Hualien",
+  "title_zh": "開往花蓮的慢車",
+  "sentences": [
+   {
+    "en": "Most visitors to Taiwan take the fast train to save time.",
+    "zh": "大多數來台灣的旅客都搭快車來節省時間。"
+   },
+   {
+    "en": "Last month, my friend and I chose a slow train to Hualien instead.",
+    "zh": "上個月，我和朋友反而選擇搭慢車去花蓮。"
+   },
+   {
+    "en": "The trip took almost four hours, but we never felt bored.",
+    "zh": "這趟旅程花了將近四個小時，但我們一點也不覺得無聊。"
+   },
+   {
+    "en": "Outside the window, the city slowly turned into green fields and small towns.",
+    "zh": "窗外，城市漸漸變成綠色的田野和小鎮。"
+   },
+   {
+    "en": "An old man beside us shared oranges and told us stories about his hometown.",
+    "zh": "坐在我們旁邊的一位老先生分享柳橙，還跟我們講他家鄉的故事。"
+   },
+   {
+    "en": "At noon, we bought railway lunch boxes with rice, egg, and pork.",
+    "zh": "中午，我們買了有白飯、蛋和豬肉的鐵路便當。"
+   },
+   {
+    "en": "When the train reached the coast, everyone moved to the left side to see the ocean.",
+    "zh": "火車開到海岸時，大家都移到左邊看海。"
+   },
+   {
+    "en": "The water was deep blue, and white waves hit the dark rocks below the cliffs.",
+    "zh": "海水深藍，白色的浪拍打著懸崖下深色的岩石。"
+   },
+   {
+    "en": "In Hualien, we rented bicycles and rode along the shore until sunset.",
+    "zh": "在花蓮，我們租了腳踏車，沿著海岸騎到日落。"
+   },
+   {
+    "en": "We ate fresh fish for dinner at a night market near the station.",
+    "zh": "晚餐我們在車站附近的夜市吃了新鮮的魚。"
+   },
+   {
+    "en": "The next day, it rained, so we visited a small museum about local history.",
+    "zh": "隔天下雨，所以我們去參觀一間介紹地方歷史的小博物館。"
+   },
+   {
+    "en": "On the way home, we both agreed on one thing.",
+    "zh": "回家的路上，我們兩人有一個共同的結論。"
+   },
+   {
+    "en": "Fast trains save hours, but slow trains give you memories.",
+    "zh": "快車替你省下時間，慢車卻帶給你回憶。"
+   },
+   {
+    "en": "Sometimes the journey matters more than the destination.",
+    "zh": "有時候，旅程本身比目的地更重要。"
+   }
+  ],
+  "word_count": 172,
+  "est_minutes": 7,
+  "quiz": [
+   {
+    "q": "How long did the train trip to Hualien take?",
+    "options": [
+     "About one hour.",
+     "About two hours.",
+     "Almost four hours.",
+     "A whole day."
+    ],
+    "answer": 2
+   },
+   {
+    "q": "What did the old man on the train do?",
+    "options": [
+     "He sold lunch boxes.",
+     "He shared oranges and told stories.",
+     "He slept the whole way.",
+     "He read a history book."
+    ],
+    "answer": 1
+   },
+   {
+    "q": "What did the writers do when it rained?",
+    "options": [
+     "They rode bicycles along the shore.",
+     "They stayed at the station.",
+     "They visited a small museum.",
+     "They took the fast train home."
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "seed-018",
+  "level": "intermediate",
+  "topic": "nature",
+  "title_en": "The Secret Life of Street Trees",
+  "title_zh": "行道樹的祕密生活",
+  "sentences": [
+   {
+    "en": "When you walk down a busy street, you probably pass many trees without looking at them.",
+    "zh": "當你走在熱鬧的街上，你可能經過許多樹卻不曾看它們一眼。"
+   },
+   {
+    "en": "However, city trees work hard for us every day.",
+    "zh": "然而，城市裡的樹每天都在為我們努力工作。"
+   },
+   {
+    "en": "Their leaves catch dust and clean the air we breathe.",
+    "zh": "它們的葉子會攔住灰塵，淨化我們呼吸的空氣。"
+   },
+   {
+    "en": "On hot summer afternoons, the shade under a large tree can be five degrees cooler than the open road.",
+    "zh": "在炎熱的夏日午後，大樹下的樹蔭可以比空曠的馬路涼五度。"
+   },
+   {
+    "en": "Tree roots also drink rainwater, which helps prevent floods during heavy storms.",
+    "zh": "樹根還會吸收雨水，有助於在暴風雨來襲時防止淹水。"
+   },
+   {
+    "en": "Scientists have found that trees can even share food through their roots.",
+    "zh": "科學家發現，樹木甚至能透過樹根分享養分。"
+   },
+   {
+    "en": "Older trees sometimes send sugar to young or sick ones nearby.",
+    "zh": "年長的樹有時會把糖分送給附近年幼或生病的樹。"
+   },
+   {
+    "en": "Birds, insects, and squirrels depend on these trees for food and shelter.",
+    "zh": "鳥類、昆蟲和松鼠都依靠這些樹取得食物和棲身之處。"
+   },
+   {
+    "en": "Sadly, city life is difficult for a tree.",
+    "zh": "可惜的是，城市生活對樹來說並不容易。"
+   },
+   {
+    "en": "Hard ground presses on its roots, and dirty air harms its leaves.",
+    "zh": "堅硬的地面壓迫著樹根，髒空氣也傷害著葉子。"
+   },
+   {
+    "en": "Many street trees live for only thirty years, while forest trees can live for centuries.",
+    "zh": "許多行道樹只能活三十年，而森林裡的樹卻能活上好幾百年。"
+   },
+   {
+    "en": "We can help in simple ways.",
+    "zh": "我們可以用簡單的方式幫忙。"
+   },
+   {
+    "en": "Water a young tree in dry weather, and never tie heavy things to its branches.",
+    "zh": "在乾燥的天氣替小樹澆水，也絕對不要把重物綁在樹枝上。"
+   },
+   {
+    "en": "When we care for trees, they quietly return the favor.",
+    "zh": "當我們照顧樹木，它們也會默默地回報我們。"
+   }
+  ],
+  "word_count": 167,
+  "est_minutes": 7,
+  "quiz": [
+   {
+    "q": "According to the article, what do tree leaves do for the city?",
+    "options": [
+     "They catch dust and clean the air.",
+     "They block the rain.",
+     "They make the street darker.",
+     "They stop the wind."
+    ],
+    "answer": 0
+   },
+   {
+    "q": "How do older trees sometimes help young or sick trees?",
+    "options": [
+     "They give them shade.",
+     "They send sugar through their roots.",
+     "They drop leaves on them.",
+     "They grow taller to protect them."
+    ],
+    "answer": 1
+   },
+   {
+    "q": "How can people help street trees?",
+    "options": [
+     "Tie heavy things to their branches.",
+     "Cut their roots.",
+     "Water young trees in dry weather.",
+     "Cover the ground with rocks."
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "seed-019",
+  "level": "intermediate",
+  "topic": "technology",
+  "title_en": "How Does a Translation App Work?",
+  "title_zh": "翻譯 App 是怎麼運作的？",
+  "sentences": [
+   {
+    "en": "Twenty years ago, travelers carried heavy dictionaries in their bags.",
+    "zh": "二十年前，旅行的人會在包包裡帶著厚重的字典。"
+   },
+   {
+    "en": "Today, a free app on your phone can translate a menu in seconds.",
+    "zh": "現在，手機上的免費 App 幾秒鐘就能翻譯一份菜單。"
+   },
+   {
+    "en": "How does this magic actually work?",
+    "zh": "這種魔法究竟是怎麼運作的呢？"
+   },
+   {
+    "en": "A translation app does not understand language the way people do.",
+    "zh": "翻譯 App 並不是像人類一樣理解語言。"
+   },
+   {
+    "en": "Instead, it studies millions of sentences that humans have already translated.",
+    "zh": "它其實是研究數百萬句人類已經翻譯好的句子。"
+   },
+   {
+    "en": "From these examples, it learns which words and phrases usually appear together.",
+    "zh": "它從這些例子中學會哪些單字和片語常常一起出現。"
+   },
+   {
+    "en": "When you type a sentence, the app predicts the most likely translation.",
+    "zh": "當你輸入一個句子時，App 會預測最有可能的翻譯。"
+   },
+   {
+    "en": "This method works well for common topics like food, weather, and directions.",
+    "zh": "這種方法在食物、天氣、問路等常見主題上效果很好。"
+   },
+   {
+    "en": "However, machines still make funny mistakes with jokes, poems, and local expressions.",
+    "zh": "不過，機器碰到笑話、詩和在地說法時，還是會犯下好笑的錯誤。"
+   },
+   {
+    "en": "For example, an app once turned \"break a leg\" into a real medical warning.",
+    "zh": "舉例來說，有個 App 曾把「break a leg」（祝好運）翻成真正的醫療警告。"
+   },
+   {
+    "en": "Experts suggest a simple rule for learners.",
+    "zh": "專家建議學習者一個簡單的原則。"
+   },
+   {
+    "en": "Use the app to check your ideas, but do not let it think for you.",
+    "zh": "用 App 檢查你的想法，但別讓它替你思考。"
+   },
+   {
+    "en": "If you read the result carefully, you can learn new words each time.",
+    "zh": "如果你仔細閱讀翻譯結果，每次都能學到新單字。"
+   },
+   {
+    "en": "Technology is a helpful partner, but your own brain is still the best tool.",
+    "zh": "科技是很好的幫手，但你自己的大腦仍然是最好的工具。"
+   }
+  ],
+  "word_count": 162,
+  "est_minutes": 6,
+  "quiz": [
+   {
+    "q": "How does a translation app learn to translate?",
+    "options": [
+     "It understands language like a person.",
+     "It studies millions of translated sentences.",
+     "It asks experts every time.",
+     "It copies a paper dictionary."
+    ],
+    "answer": 1
+   },
+   {
+    "q": "What kind of language still causes funny mistakes for machines?",
+    "options": [
+     "Food words.",
+     "Weather words.",
+     "Jokes and local expressions.",
+     "Simple directions."
+    ],
+    "answer": 2
+   },
+   {
+    "q": "What rule do experts suggest for learners?",
+    "options": [
+     "Never use translation apps.",
+     "Let the app think for you.",
+     "Use the app to check ideas, but keep thinking for yourself.",
+     "Only translate poems."
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "seed-020",
+  "level": "intermediate",
+  "topic": "culture",
+  "title_en": "More Than a Drink: Tea in Taiwan",
+  "title_zh": "不只是飲料：台灣的茶",
+  "sentences": [
+   {
+    "en": "When friends visit a Taiwanese home, the host often makes tea first.",
+    "zh": "朋友到台灣人家裡作客時，主人常常會先泡茶。"
+   },
+   {
+    "en": "This small action carries a big message: you are welcome here.",
+    "zh": "這個小小的動作傳達了重要的訊息：歡迎你的到來。"
+   },
+   {
+    "en": "Taiwan grows some of the finest oolong tea in the world.",
+    "zh": "台灣種植著世界上數一數二的頂級烏龍茶。"
+   },
+   {
+    "en": "High mountains, cool clouds, and rich soil give the leaves a sweet, soft taste.",
+    "zh": "高山、涼爽的雲霧和肥沃的土壤，讓茶葉帶有甘甜柔和的味道。"
+   },
+   {
+    "en": "In traditional tea culture, how you serve is as important as what you serve.",
+    "zh": "在傳統茶文化裡，奉茶的方式和茶本身一樣重要。"
+   },
+   {
+    "en": "The host warms the small cups, smells the dry leaves, and pours the tea slowly.",
+    "zh": "主人會先溫熱小茶杯，聞一聞乾茶葉，再慢慢地把茶倒出來。"
+   },
+   {
+    "en": "Guests hold their cups with two hands to show respect.",
+    "zh": "客人會用雙手捧著杯子以表示尊重。"
+   },
+   {
+    "en": "Nobody hurries, because tea time is also talking time.",
+    "zh": "沒有人趕時間，因為喝茶的時光也是聊天的時光。"
+   },
+   {
+    "en": "Young people today may prefer bubble tea from street shops.",
+    "zh": "現在的年輕人也許更喜歡街邊店家的珍珠奶茶。"
+   },
+   {
+    "en": "This famous drink, invented in Taiwan about forty years ago, mixes tea, milk, and sweet, chewy balls.",
+    "zh": "這種著名的飲料大約四十年前在台灣發明，混合了茶、牛奶和香甜有嚼勁的珍珠。"
+   },
+   {
+    "en": "Some tea masters worried that old traditions would disappear.",
+    "zh": "有些茶師曾擔心古老的傳統會消失。"
+   },
+   {
+    "en": "Instead, many young owners now open modern tea houses with both styles.",
+    "zh": "結果，許多年輕老闆現在開起了兼具兩種風格的現代茶館。"
+   },
+   {
+    "en": "Old or new, hot or iced, tea continues to bring people together.",
+    "zh": "不論老派或新潮、熱飲或冰飲，茶始終把人們聚在一起。"
+   },
+   {
+    "en": "In every cup, you can taste a piece of Taiwanese culture.",
+    "zh": "在每一杯茶裡，你都能嚐到一小塊台灣文化。"
+   }
+  ],
+  "word_count": 167,
+  "est_minutes": 7,
+  "quiz": [
+   {
+    "q": "What does making tea for guests mean in a Taiwanese home?",
+    "options": [
+     "The host is too busy to talk.",
+     "The guests should leave soon.",
+     "The guests are welcome.",
+     "The tea is very expensive."
+    ],
+    "answer": 2
+   },
+   {
+    "q": "Why does Taiwanese oolong tea taste sweet and soft?",
+    "options": [
+     "Because of high mountains, cool clouds, and rich soil.",
+     "Because it is mixed with milk.",
+     "Because it is served in small cups.",
+     "Because it is very old."
+    ],
+    "answer": 0
+   },
+   {
+    "q": "What happened when some tea masters worried about old traditions?",
+    "options": [
+     "All tea shops closed.",
+     "Young owners opened modern tea houses with both styles.",
+     "Bubble tea disappeared.",
+     "People stopped drinking tea."
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "seed-021",
+  "level": "intermediate",
+  "topic": "health",
+  "title_en": "Small Steps to a Healthier Life",
+  "title_zh": "通往更健康生活的小步驟",
+  "sentences": [
+   {
+    "en": "Many people think that getting healthy needs a big change.",
+    "zh": "許多人以為變健康需要很大的改變。"
+   },
+   {
+    "en": "However, small habits can make a real difference.",
+    "zh": "然而，小習慣就能帶來真正的不同。"
+   },
+   {
+    "en": "Drinking enough water every day helps your body work well.",
+    "zh": "每天喝足夠的水有助於身體正常運作。"
+   },
+   {
+    "en": "Walking for thirty minutes can improve your mood and energy.",
+    "zh": "走路三十分鐘可以改善你的心情和精力。"
+   },
+   {
+    "en": "Eating more vegetables and fruit gives you important vitamins.",
+    "zh": "多吃蔬菜和水果能提供你重要的維生素。"
+   },
+   {
+    "en": "Sleep is also very important for good health.",
+    "zh": "睡眠對於良好的健康也非常重要。"
+   },
+   {
+    "en": "Adults should try to sleep seven or eight hours each night.",
+    "zh": "成年人每晚應該盡量睡七到八個小時。"
+   },
+   {
+    "en": "Too much sugar and salt can harm your heart over time.",
+    "zh": "太多糖和鹽長期下來會傷害你的心臟。"
+   },
+   {
+    "en": "Doctors say that sitting all day is bad for us.",
+    "zh": "醫生說整天坐著對我們不好。"
+   },
+   {
+    "en": "So it is a good idea to stand up and stretch often.",
+    "zh": "所以常常站起來伸展一下是個好主意。"
+   },
+   {
+    "en": "Stress can also affect your body and mind.",
+    "zh": "壓力也會影響你的身體和心理。"
+   },
+   {
+    "en": "Deep breathing and quiet time can help you relax.",
+    "zh": "深呼吸和安靜的時間可以幫助你放鬆。"
+   },
+   {
+    "en": "You do not need to be perfect to feel better.",
+    "zh": "你不需要完美才能感覺更好。"
+   },
+   {
+    "en": "Just choose one small habit and keep it every day.",
+    "zh": "只要選一個小習慣，每天持續下去。"
+   },
+   {
+    "en": "A healthy body and a calm mind will help you enjoy every day.",
+    "zh": "健康的身體和平靜的心會幫助你享受每一天。"
+   },
+   {
+    "en": "Over time, these little changes will build a stronger, happier life.",
+    "zh": "久而久之，這些小改變會建立更強壯、更快樂的生活。"
+   }
+  ],
+  "word_count": 160,
+  "est_minutes": 6,
+  "quiz": [
+   {
+    "q": "According to the article, how long a walk can improve your mood and energy?",
+    "options": [
+     "Ten minutes",
+     "Thirty minutes",
+     "One hour",
+     "Two hours"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "What does the article say adults should do at night?",
+    "options": [
+     "Sleep seven or eight hours",
+     "Work more hours",
+     "Eat more sugar",
+     "Drink coffee"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "What is the main message of the article?",
+    "options": [
+     "You must change everything at once",
+     "Small habits can build a healthier life",
+     "Only doctors can make you healthy",
+     "Sugar is good for the heart"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "seed-022",
+  "level": "intermediate",
+  "topic": "science",
+  "title_en": "Why the Sky Changes Color",
+  "title_zh": "天空為什麼會變色",
+  "sentences": [
+   {
+    "en": "Have you ever wondered why the sky is blue during the day?",
+    "zh": "你有沒有想過為什麼白天的天空是藍色的？"
+   },
+   {
+    "en": "The answer is hidden in sunlight.",
+    "zh": "答案就藏在陽光裡。"
+   },
+   {
+    "en": "Sunlight looks white, but it is really made of many colors.",
+    "zh": "陽光看起來是白色的，但其實是由許多顏色組成的。"
+   },
+   {
+    "en": "When light from the sun enters our air, it hits tiny gas molecules.",
+    "zh": "當來自太陽的光進入我們的空氣時，它會撞上微小的氣體分子。"
+   },
+   {
+    "en": "These molecules scatter the light in every direction.",
+    "zh": "這些分子把光散射到各個方向。"
+   },
+   {
+    "en": "Blue light scatters more than other colors because its waves are short.",
+    "zh": "藍光比其他顏色散射得更多，因為它的波長較短。"
+   },
+   {
+    "en": "This is why we see a blue sky above us.",
+    "zh": "這就是為什麼我們會看到頭頂上的藍天。"
+   },
+   {
+    "en": "In the evening, the sun sits low in the sky.",
+    "zh": "到了傍晚，太陽位於天空的低處。"
+   },
+   {
+    "en": "Its light must travel through more air to reach our eyes.",
+    "zh": "它的光必須穿過更多的空氣才能到達我們的眼睛。"
+   },
+   {
+    "en": "Most of the blue light is scattered away before it arrives.",
+    "zh": "大部分的藍光在抵達之前就被散射掉了。"
+   },
+   {
+    "en": "As a result, we see warm red and orange colors at sunset.",
+    "zh": "因此，我們在日落時看到溫暖的紅色和橙色。"
+   },
+   {
+    "en": "Scientists have studied this effect for many years.",
+    "zh": "科學家研究這個現象已經很多年了。"
+   },
+   {
+    "en": "It shows how simple physics can explain the world around us.",
+    "zh": "它顯示簡單的物理如何解釋我們周遭的世界。"
+   },
+   {
+    "en": "The colors of the sky can change from blue to warm red.",
+    "zh": "天空的顏色會從藍色變成溫暖的紅色。"
+   },
+   {
+    "en": "The next time you watch a sunset, remember the science behind it.",
+    "zh": "下次你看日落時，記得背後的科學。"
+   }
+  ],
+  "word_count": 159,
+  "est_minutes": 6,
+  "quiz": [
+   {
+    "q": "Why does the sky look blue during the day?",
+    "options": [
+     "Blue light scatters more than other colors",
+     "The sun is blue",
+     "The air is painted blue",
+     "Water reflects on the sky"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Why do we see red and orange colors at sunset?",
+    "options": [
+     "The sun changes color",
+     "Blue light is scattered away before it reaches our eyes",
+     "The air disappears",
+     "Clouds turn red"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "What is sunlight really made of?",
+    "options": [
+     "Only blue light",
+     "Only white light",
+     "Many colors",
+     "Gas molecules alone"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "seed-023",
+  "level": "intermediate",
+  "topic": "business",
+  "title_en": "Starting a Small Business",
+  "title_zh": "開一家小公司",
+  "sentences": [
+   {
+    "en": "Starting a small business is an exciting dream for many people.",
+    "zh": "創業對許多人來說是個令人興奮的夢想。"
+   },
+   {
+    "en": "However, it also takes careful planning and hard work.",
+    "zh": "然而，這也需要仔細的規劃和努力。"
+   },
+   {
+    "en": "First, you need a clear idea that solves a real problem.",
+    "zh": "首先，你需要一個能解決真正問題的明確點子。"
+   },
+   {
+    "en": "Next, you should learn about your customers and what they want.",
+    "zh": "接著，你應該了解你的顧客以及他們想要什麼。"
+   },
+   {
+    "en": "A good business plan helps you set goals and manage money.",
+    "zh": "一份好的商業計畫能幫你設定目標並管理金錢。"
+   },
+   {
+    "en": "Many new owners forget to save enough cash for slow months.",
+    "zh": "許多新老闆忘了為淡季存下足夠的現金。"
+   },
+   {
+    "en": "Marketing is another important part of any business.",
+    "zh": "行銷是任何生意的另一個重要部分。"
+   },
+   {
+    "en": "Social media allows small companies to reach people at a low cost.",
+    "zh": "社群媒體讓小公司能以低成本接觸到人們。"
+   },
+   {
+    "en": "Good service will make your customers come back again.",
+    "zh": "好的服務會讓你的顧客再次回來。"
+   },
+   {
+    "en": "It also helps them tell their friends about you.",
+    "zh": "這也會讓他們把你介紹給朋友。"
+   },
+   {
+    "en": "Mistakes are normal when you start something new.",
+    "zh": "當你開始新事物時，犯錯是正常的。"
+   },
+   {
+    "en": "Smart owners learn from these mistakes and keep improving.",
+    "zh": "聰明的老闆會從這些錯誤中學習並持續進步。"
+   },
+   {
+    "en": "Patience is the key, because success rarely happens overnight.",
+    "zh": "耐心是關鍵，因為成功很少一夜之間發生。"
+   },
+   {
+    "en": "A small business can grow into a big company with time and hard work.",
+    "zh": "一家小公司只要有時間和努力，就能成長為大公司。"
+   },
+   {
+    "en": "With effort and a good plan, a small idea can grow into something big.",
+    "zh": "只要努力並有好的計畫，小點子也能成長為大事業。"
+   }
+  ],
+  "word_count": 156,
+  "est_minutes": 6,
+  "quiz": [
+   {
+    "q": "What does the article say a good business plan helps you do?",
+    "options": [
+     "Set goals and manage money",
+     "Hire many workers",
+     "Avoid customers",
+     "Ignore mistakes"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "Why is social media useful for small companies?",
+    "options": [
+     "It has no rules",
+     "It reaches people at a low cost",
+     "It replaces good service",
+     "It removes all mistakes"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "What does the article say about mistakes?",
+    "options": [
+     "They should be hidden",
+     "They always end a business",
+     "Smart owners learn from them",
+     "They never happen"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "seed-024",
+  "level": "intermediate",
+  "topic": "life",
+  "title_en": "The Value of Free Time",
+  "title_zh": "空閒時間的價值",
+  "sentences": [
+   {
+    "en": "Modern life is busy, and many people feel tired every day.",
+    "zh": "現代生活很忙碌，許多人每天都覺得累。"
+   },
+   {
+    "en": "We often fill our schedules with work and long lists of tasks.",
+    "zh": "我們常常把行程排滿工作和長長的待辦清單。"
+   },
+   {
+    "en": "Because of this, free time can feel like a waste.",
+    "zh": "因為這樣，空閒時間感覺像是浪費。"
+   },
+   {
+    "en": "But rest is not lazy; it is necessary for a healthy mind.",
+    "zh": "但休息並不是懶惰；它對健康的心智是必要的。"
+   },
+   {
+    "en": "When we relax, our brains can recover and think more clearly.",
+    "zh": "當我們放鬆時，大腦可以恢復並思考得更清楚。"
+   },
+   {
+    "en": "Hobbies like reading, cooking, or painting bring us real joy.",
+    "zh": "像閱讀、烹飪或畫畫這樣的嗜好帶給我們真正的快樂。"
+   },
+   {
+    "en": "Spending time with family and friends also makes us happier.",
+    "zh": "和家人與朋友相處的時間也讓我們更快樂。"
+   },
+   {
+    "en": "Studies show that people who rest well do better at work.",
+    "zh": "研究顯示，休息得好的人在工作上表現更好。"
+   },
+   {
+    "en": "Free time can even help us find new ideas.",
+    "zh": "空閒時間甚至能幫助我們找到新點子。"
+   },
+   {
+    "en": "It is important to put down your phone and enjoy the moment.",
+    "zh": "放下手機、享受當下是很重要的。"
+   },
+   {
+    "en": "A short walk in nature can calm a busy mind.",
+    "zh": "在大自然中短暫散步可以讓忙碌的心平靜下來。"
+   },
+   {
+    "en": "You do not need to be productive every single hour.",
+    "zh": "你不需要每一個小時都很有生產力。"
+   },
+   {
+    "en": "Learning to slow down is a skill worth practicing.",
+    "zh": "學會放慢腳步是一項值得練習的技能。"
+   },
+   {
+    "en": "So take free time each day and enjoy the moment with a calm mind.",
+    "zh": "所以每天給自己一些空閒時間，用平靜的心享受當下。"
+   },
+   {
+    "en": "In the end, a balanced life brings more happiness than a full schedule.",
+    "zh": "到頭來，平衡的生活比滿檔的行程帶來更多快樂。"
+   }
+  ],
+  "word_count": 164,
+  "est_minutes": 7,
+  "quiz": [
+   {
+    "q": "According to the article, what is rest?",
+    "options": [
+     "A waste of time",
+     "Something lazy",
+     "Necessary for a healthy mind",
+     "Only for weekends"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "What do studies show about people who rest well?",
+    "options": [
+     "They do better at work",
+     "They earn less money",
+     "They sleep all day",
+     "They dislike hobbies"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "What is the main idea of the article?",
+    "options": [
+     "A full schedule brings the most happiness",
+     "Free time is a waste",
+     "A balanced life brings more happiness",
+     "Hobbies are useless"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "seed-025",
+  "level": "intermediate",
+  "topic": "travel",
+  "title_en": "Tips for Your First Trip Abroad",
+  "title_zh": "第一次出國旅行的小建議",
+  "sentences": [
+   {
+    "en": "Traveling to a new country for the first time is thrilling.",
+    "zh": "第一次到一個新國家旅行是令人興奮的。"
+   },
+   {
+    "en": "It can also feel a little scary if you are not prepared.",
+    "zh": "如果你沒有準備，它也可能讓人有點害怕。"
+   },
+   {
+    "en": "Good planning will help you enjoy your trip and stay safe.",
+    "zh": "好的規劃會幫你享受旅程並保持安全。"
+   },
+   {
+    "en": "Before you leave, learn a few words in the local language.",
+    "zh": "出發前，學幾個當地語言的單字。"
+   },
+   {
+    "en": "Even simple words like hello and thank you are useful.",
+    "zh": "即使是像哈囉和謝謝這樣簡單的字也很有用。"
+   },
+   {
+    "en": "Always keep a copy of your passport in a safe place.",
+    "zh": "隨時把護照的影本放在安全的地方。"
+   },
+   {
+    "en": "It is smart to tell your bank that you are going abroad.",
+    "zh": "告訴你的銀行你要出國是明智的。"
+   },
+   {
+    "en": "This way, your card will not be blocked by mistake.",
+    "zh": "這樣一來，你的卡就不會被誤擋。"
+   },
+   {
+    "en": "Try the local food, because it is part of the culture.",
+    "zh": "試試當地的食物，因為它是文化的一部分。"
+   },
+   {
+    "en": "Do not be afraid to ask friendly people for directions.",
+    "zh": "不要害怕向友善的人問路。"
+   },
+   {
+    "en": "Public transport is often cheaper than taxis in big cities.",
+    "zh": "在大城市裡，大眾運輸通常比計程車便宜。"
+   },
+   {
+    "en": "Remember to respect local customs and rules.",
+    "zh": "記得尊重當地的習俗和規定。"
+   },
+   {
+    "en": "Take photos, but also enjoy the moment with your own eyes.",
+    "zh": "拍照，但也要用自己的眼睛享受當下。"
+   },
+   {
+    "en": "Every trip to a new country can teach you something useful about the world.",
+    "zh": "每一趟到新國家的旅行，都能教你一些關於世界的有用知識。"
+   },
+   {
+    "en": "A good trip can teach you more than any classroom.",
+    "zh": "一趟好的旅行能教會你比任何教室更多的東西。"
+   }
+  ],
+  "word_count": 161,
+  "est_minutes": 6,
+  "quiz": [
+   {
+    "q": "Why should you tell your bank before going abroad?",
+    "options": [
+     "So your card will not be blocked by mistake",
+     "To get free money",
+     "To cancel your trip",
+     "To buy tickets"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "What does the article suggest about local food?",
+    "options": [
+     "Avoid it",
+     "Try it because it is part of the culture",
+     "It is always cheap",
+     "It is only for tourists"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "According to the article, what is often cheaper in big cities?",
+    "options": [
+     "Taxis",
+     "Hotels",
+     "Public transport",
+     "Food"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "seed-026",
+  "level": "advanced",
+  "topic": "technology",
+  "title_en": "Smart Sensors and the Future of City Life",
+  "title_zh": "智慧感測器與城市生活的未來",
+  "sentences": [
+   {
+    "en": "Modern cities are becoming smarter, and tiny sensors are leading the change.",
+    "zh": "現代城市正變得越來越聰明,而微小的感測器正引領這場改變。"
+   },
+   {
+    "en": "These small devices are attached to streetlights, bridges, and buses, where they quietly collect data all day.",
+    "zh": "這些小型裝置被安裝在路燈、橋梁和公車上,整天默默地收集資料。"
+   },
+   {
+    "en": "For example, sensors on a bridge can measure tiny movements and warn engineers before a crack becomes dangerous.",
+    "zh": "舉例來說,橋上的感測器能測量細微的位移,在裂縫變得危險之前警告工程師。"
+   },
+   {
+    "en": "Traffic sensors count cars at busy crossings and help adjust signal timing during rush hour.",
+    "zh": "交通感測器會在繁忙的路口計算車流量,並在尖峰時段協助調整號誌的時間。"
+   },
+   {
+    "en": "As a result, drivers spend less time waiting, and buses arrive closer to schedule.",
+    "zh": "因此,駕駛人等待的時間變少,公車也更準時到站。"
+   },
+   {
+    "en": "Air quality sensors also play an important role.",
+    "zh": "空氣品質感測器同樣扮演重要角色。"
+   },
+   {
+    "en": "They track pollution levels in real time, so the city can warn residents when the air becomes unhealthy.",
+    "zh": "它們即時追蹤污染程度,讓市政府能在空氣變得不健康時提醒居民。"
+   },
+   {
+    "en": "Of course, this technology raises questions about privacy.",
+    "zh": "當然,這項科技也引發了隱私方面的疑慮。"
+   },
+   {
+    "en": "Critics worry that cameras and sensors might collect personal information without clear permission.",
+    "zh": "批評者擔心攝影機和感測器可能在未經明確同意的情況下收集個人資料。"
+   },
+   {
+    "en": "City governments therefore need strong rules about what data is stored and who can see it.",
+    "zh": "因此,市政府需要嚴格的規範,明訂哪些資料會被儲存、誰可以查看。"
+   },
+   {
+    "en": "Some cities now publish their sensor data online, allowing anyone to check how decisions are made.",
+    "zh": "有些城市現在會將感測器資料公開上網,讓任何人都能檢視決策是如何形成的。"
+   },
+   {
+    "en": "Experts believe this openness builds public trust.",
+    "zh": "專家認為這種公開透明能建立民眾的信任。"
+   },
+   {
+    "en": "Smart sensors will not solve every urban problem, but they give cities something valuable: better information for better choices.",
+    "zh": "智慧感測器無法解決所有城市問題,但它們帶給城市一項寶貴的東西:更好的資訊,帶來更好的選擇。"
+   }
+  ],
+  "word_count": 181,
+  "est_minutes": 7,
+  "quiz": [
+   {
+    "q": "What can sensors on a bridge do?",
+    "options": [
+     "Repair cracks by themselves",
+     "Measure tiny movements and warn engineers",
+     "Count the number of cars crossing",
+     "Publish traffic data online"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "According to the article, what is one result of using traffic sensors?",
+    "options": [
+     "Buses become free for residents",
+     "Drivers spend less time waiting",
+     "Rush hour disappears completely",
+     "Streetlights use less power"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "Why do some cities publish their sensor data online?",
+    "options": [
+     "To sell the data to companies",
+     "To attract more tourists",
+     "To let people check how decisions are made",
+     "To reduce the cost of sensors"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "seed-027",
+  "level": "advanced",
+  "topic": "business",
+  "title_en": "Why Small Businesses Love Subscriptions",
+  "title_zh": "小型企業為何愛上訂閱制",
+  "sentences": [
+   {
+    "en": "Walk down any shopping street, and you will notice a quiet shift in how businesses earn money.",
+    "zh": "走在任何一條商店街上,你會發現商家賺錢的方式正悄悄改變。"
+   },
+   {
+    "en": "Instead of selling a product once, many companies now offer subscriptions.",
+    "zh": "許多公司不再只賣一次商品,而是改為提供訂閱服務。"
+   },
+   {
+    "en": "A coffee shop might sell a monthly pass for unlimited drinks, while a flower store delivers a fresh bouquet every week.",
+    "zh": "咖啡店可能販售可無限暢飲的月票,而花店則每週配送一束新鮮花束。"
+   },
+   {
+    "en": "The main attraction is steady income.",
+    "zh": "最主要的吸引力在於穩定的收入。"
+   },
+   {
+    "en": "When customers pay every month, the owner can predict sales and plan ahead with confidence.",
+    "zh": "當顧客每個月付費,店主就能預測營收,並有信心地提前規劃。"
+   },
+   {
+    "en": "Subscriptions also build loyalty.",
+    "zh": "訂閱制也能培養顧客的忠誠度。"
+   },
+   {
+    "en": "A member who has already paid is more likely to return, and each visit strengthens the relationship.",
+    "zh": "已經付費的會員更有可能再度上門,而每一次造訪都會加深彼此的關係。"
+   },
+   {
+    "en": "However, this model carries risks.",
+    "zh": "然而,這種模式也伴隨著風險。"
+   },
+   {
+    "en": "If the service feels boring or the price seems unfair, customers cancel quickly.",
+    "zh": "如果服務讓人覺得乏味,或價格看起來不合理,顧客很快就會取消訂閱。"
+   },
+   {
+    "en": "Successful companies therefore refresh their offers often and listen carefully to feedback.",
+    "zh": "因此,成功的公司會經常更新方案,並仔細聆聽顧客的意見回饋。"
+   },
+   {
+    "en": "Data helps as well: by studying what members actually use, a business can remove weak products and improve popular ones.",
+    "zh": "數據也能幫上忙:透過研究會員實際使用的內容,企業可以淘汰表現不佳的產品,並改良受歡迎的產品。"
+   },
+   {
+    "en": "Experts suggest starting small, perhaps with a simple plan and a clear cancellation policy.",
+    "zh": "專家建議從小規模開始,例如提供簡單的方案和清楚的取消政策。"
+   },
+   {
+    "en": "Honest terms may sound less exciting than clever marketing, but in the long run, trust is what keeps a subscriber paying.",
+    "zh": "誠實的條款聽起來也許不如巧妙的行銷那麼吸引人,但長遠來看,信任才是讓訂閱者持續付費的關鍵。"
+   }
+  ],
+  "word_count": 176,
+  "est_minutes": 7,
+  "quiz": [
+   {
+    "q": "What is the main attraction of the subscription model for business owners?",
+    "options": [
+     "Lower taxes",
+     "Steady income",
+     "Cheaper advertising",
+     "Faster delivery"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "According to the article, why do customers cancel subscriptions?",
+    "options": [
+     "The service feels boring or the price seems unfair",
+     "The shop moves to another city",
+     "They prefer to pay yearly",
+     "The products are too popular"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "What do experts suggest for businesses starting a subscription?",
+    "options": [
+     "Offer as many plans as possible",
+     "Copy the marketing of other companies",
+     "Start small with a clear cancellation policy",
+     "Avoid collecting customer feedback"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "seed-028",
+  "level": "advanced",
+  "topic": "culture",
+  "title_en": "Night Markets: A Classroom Without Walls",
+  "title_zh": "夜市:沒有圍牆的教室",
+  "sentences": [
+   {
+    "en": "When the sun sets in Taiwan, another kind of city wakes up.",
+    "zh": "當太陽在台灣落下,另一種樣貌的城市甦醒了。"
+   },
+   {
+    "en": "Night markets fill narrow streets with light, noise, and the smell of grilled food.",
+    "zh": "夜市讓狹窄的街道充滿燈光、喧鬧聲和烤物的香氣。"
+   },
+   {
+    "en": "Visitors often see them as places to eat cheaply, but locals know they mean much more.",
+    "zh": "觀光客常把夜市當成可以便宜吃飯的地方,但在地人知道它的意義遠不止於此。"
+   },
+   {
+    "en": "A night market is a social space where families, students, and workers meet after a long day.",
+    "zh": "夜市是一個社交空間,家人、學生和上班族在漫長的一天後在這裡相聚。"
+   },
+   {
+    "en": "Standing in line for a famous snack becomes a chance to chat with strangers.",
+    "zh": "為了知名小吃排隊,反而成了和陌生人聊天的機會。"
+   },
+   {
+    "en": "The markets also protect food traditions.",
+    "zh": "夜市也守護著飲食傳統。"
+   },
+   {
+    "en": "Many stalls have passed recipes from parents to children for decades.",
+    "zh": "許多攤位的食譜已由父母傳給子女,延續了數十年。"
+   },
+   {
+    "en": "When a young cook adjusts a family sauce, old flavor meets new taste, and the culture stays alive.",
+    "zh": "當年輕的廚師調整家傳醬料,老味道遇上新口味,文化便得以延續。"
+   },
+   {
+    "en": "Foreign tourists experience this energy, too.",
+    "zh": "外國觀光客也能感受到這股活力。"
+   },
+   {
+    "en": "For many of them, trying stinky tofu for the first time is a story they will tell for years.",
+    "zh": "對許多人來說,第一次嘗試臭豆腐,是他們會講上好幾年的故事。"
+   },
+   {
+    "en": "Some worry that rising rents and chain stores could push small stalls away.",
+    "zh": "有些人擔心不斷上漲的租金和連鎖商店可能把小攤位排擠出去。"
+   },
+   {
+    "en": "Local governments have started programs that help vendors stay and train the next generation.",
+    "zh": "地方政府已推出計畫,協助攤商留下來並培訓下一代。"
+   },
+   {
+    "en": "If those efforts succeed, the night market will remain what it has always been: a classroom where anyone can learn how a community eats, laughs, and lives.",
+    "zh": "如果這些努力成功,夜市將維持它一直以來的樣子:一間教室,任何人都能在這裡學到一個社區如何吃飯、歡笑與生活。"
+   }
+  ],
+  "word_count": 187,
+  "est_minutes": 7,
+  "quiz": [
+   {
+    "q": "How do locals view night markets, according to the article?",
+    "options": [
+     "Only as cheap places to eat",
+     "As social spaces that mean much more than food",
+     "As places mainly for foreign tourists",
+     "As noisy areas to avoid"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "How do night markets protect food traditions?",
+    "options": [
+     "By banning new recipes",
+     "By selling only foreign dishes",
+     "Stalls pass recipes from parents to children for decades",
+     "Governments write the recipes for vendors"
+    ],
+    "answer": 2
+   },
+   {
+    "q": "What possible threat to small stalls does the article mention?",
+    "options": [
+     "Rising rents and chain stores",
+     "A shortage of tourists",
+     "New cooking technology",
+     "Stricter food rules"
+    ],
+    "answer": 0
+   }
+  ]
+ },
+ {
+  "id": "seed-029",
+  "level": "advanced",
+  "topic": "science",
+  "title_en": "How Birds Find Their Way Home",
+  "title_zh": "候鳥如何找到回家的路",
+  "sentences": [
+   {
+    "en": "Every autumn, millions of birds leave their northern homes and fly thousands of kilometers south.",
+    "zh": "每年秋天,數以百萬計的鳥兒離開北方的家園,向南飛行數千公里。"
+   },
+   {
+    "en": "Scientists have long wondered how these small travelers find their way without maps.",
+    "zh": "科學家長久以來一直好奇,這些小小旅行者如何在沒有地圖的情況下找到方向。"
+   },
+   {
+    "en": "Recent research offers several answers.",
+    "zh": "近期的研究提供了幾個答案。"
+   },
+   {
+    "en": "First, many birds read the sun and the stars, using the sky as a giant compass.",
+    "zh": "首先,許多鳥類會觀察太陽和星星,把天空當作一個巨大的指南針。"
+   },
+   {
+    "en": "Second, they appear to sense the Earth's magnetic field.",
+    "zh": "其次,牠們似乎能感應地球的磁場。"
+   },
+   {
+    "en": "Special cells in their eyes may let them \"see\" magnetic lines, although researchers are still testing this idea.",
+    "zh": "牠們眼中的特殊細胞也許能讓牠們「看見」磁力線,不過研究人員仍在驗證這個想法。"
+   },
+   {
+    "en": "Birds also remember landmarks such as rivers, coastlines, and mountain ranges.",
+    "zh": "鳥類也會記住地標,例如河流、海岸線和山脈。"
+   },
+   {
+    "en": "Young birds often learn routes by following experienced adults during their first journey.",
+    "zh": "幼鳥通常在第一次旅程中跟隨有經驗的成鳥學習路線。"
+   },
+   {
+    "en": "Weather matters as well.",
+    "zh": "天氣同樣重要。"
+   },
+   {
+    "en": "Flocks wait for helpful winds and delay their departure when storms approach.",
+    "zh": "鳥群會等待有利的風向,並在暴風雨接近時延後出發。"
+   },
+   {
+    "en": "Unfortunately, human activity now confuses these ancient skills.",
+    "zh": "遺憾的是,人類活動如今干擾了這些古老的本領。"
+   },
+   {
+    "en": "Bright city lights attract birds at night and pull them away from safe paths.",
+    "zh": "明亮的城市燈光在夜裡吸引鳥類,使牠們偏離安全的路線。"
+   },
+   {
+    "en": "In response, some cities dim their buildings during migration season, and early results look promising.",
+    "zh": "為了因應這個問題,有些城市在遷徙季節調暗建築物的燈光,而初步成果看起來很有希望。"
+   },
+   {
+    "en": "The number of bird crashes has dropped sharply in those areas.",
+    "zh": "在那些地區,鳥類撞擊事故的數量已大幅下降。"
+   },
+   {
+    "en": "Understanding migration is not just about curiosity; it teaches us how to share the planet with species that were traveling long before we built our first roads.",
+    "zh": "了解遷徙不只是出於好奇;它教我們如何與那些早在人類鋪設第一條道路之前就已長途旅行的物種共享這個星球。"
+   }
+  ],
+  "word_count": 191,
+  "est_minutes": 8,
+  "quiz": [
+   {
+    "q": "How do many birds use the sun and the stars?",
+    "options": [
+     "As a source of warmth",
+     "As a giant compass",
+     "As a signal to sleep",
+     "As a way to find food"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "How do young birds often learn their routes?",
+    "options": [
+     "By reading magnetic maps",
+     "By following experienced adults",
+     "By waiting for storms",
+     "By flying alone at night"
+    ],
+    "answer": 1
+   },
+   {
+    "q": "What happened in cities that dim their buildings during migration season?",
+    "options": [
+     "More birds arrived in the city",
+     "Bird crashes dropped sharply",
+     "Birds stopped migrating completely",
+     "City lights became brighter"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "seed-030",
+  "level": "advanced",
+  "topic": "health",
+  "title_en": "The Surprising Power of a Short Walk",
+  "title_zh": "短短散步的驚人力量",
+  "sentences": [
+   {
+    "en": "Many people believe that exercise only counts when it hurts.",
+    "zh": "許多人認為,運動要練到痠痛才算數。"
+   },
+   {
+    "en": "Health researchers disagree.",
+    "zh": "健康研究人員並不同意。"
+   },
+   {
+    "en": "Growing evidence shows that short, gentle walks bring serious benefits, especially for busy adults.",
+    "zh": "越來越多證據顯示,短暫而溫和的散步能帶來實質的好處,對忙碌的成年人尤其如此。"
+   },
+   {
+    "en": "A ten-minute walk after lunch can lower blood sugar and reduce the sleepy feeling that ruins many afternoons.",
+    "zh": "午餐後散步十分鐘可以降低血糖,並減少那種毀掉許多下午的昏昏欲睡感。"
+   },
+   {
+    "en": "Regular walking also strengthens the heart, improves circulation, and helps control weight.",
+    "zh": "規律的步行還能強化心臟、促進血液循環,並幫助控制體重。"
+   },
+   {
+    "en": "The mental rewards may be even greater.",
+    "zh": "心理上的收穫可能更大。"
+   },
+   {
+    "en": "Moving the body releases chemicals that lift mood and calm anxious thoughts.",
+    "zh": "活動身體會釋放能提振心情、安撫焦慮思緒的化學物質。"
+   },
+   {
+    "en": "One study found that office workers who walked briefly every day reported less stress and better focus.",
+    "zh": "一項研究發現,每天短暫散步的上班族表示壓力較小、專注力較好。"
+   },
+   {
+    "en": "Walking outside adds another layer of benefit.",
+    "zh": "到戶外走走還有另一層好處。"
+   },
+   {
+    "en": "Sunlight helps the body produce an important vitamin, and green spaces seem to refresh a tired mind.",
+    "zh": "陽光幫助身體製造一種重要的維生素,而綠地似乎能讓疲憊的心靈恢復活力。"
+   },
+   {
+    "en": "Doctors emphasize that consistency matters more than speed.",
+    "zh": "醫師強調,持之以恆比速度更重要。"
+   },
+   {
+    "en": "Walking slowly five times a week beats one exhausting run per month.",
+    "zh": "每週慢慢走五次,勝過每月一次筋疲力盡的跑步。"
+   },
+   {
+    "en": "To build the habit, experts suggest attaching walks to daily routines, such as taking the stairs or getting off the bus one stop early.",
+    "zh": "想養成習慣,專家建議把散步結合到日常作息中,例如改走樓梯,或提前一站下公車。"
+   },
+   {
+    "en": "In a world that praises intense workouts, the humble walk quietly remains one of the safest medicines we have.",
+    "zh": "在一個推崇高強度健身的世界裡,平凡的散步依然默默地是我們擁有最安全的藥方之一。"
+   }
+  ],
+  "word_count": 180,
+  "est_minutes": 7,
+  "quiz": [
+   {
+    "q": "What can a ten-minute walk after lunch do?",
+    "options": [
+     "Lower blood sugar",
+     "Replace all other exercise",
+     "Make people more sleepy",
+     "Increase stress levels"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "According to doctors, what matters more than speed?",
+    "options": [
+     "Consistency",
+     "Distance",
+     "Strength",
+     "Equipment"
+    ],
+    "answer": 0
+   },
+   {
+    "q": "What do experts suggest for building the walking habit?",
+    "options": [
+     "Running every morning",
+     "Attaching walks to daily routines",
+     "Buying special shoes",
+     "Walking only on weekends"
+    ],
+    "answer": 1
+   }
+  ]
+ }
 ]
