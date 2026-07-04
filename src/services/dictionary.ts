@@ -1,4 +1,5 @@
 import { Dictionary, DictEntry, DictLookupResult } from '../types';
+import { IRREGULARS } from './irregulars';
 
 // 離線字典(bundled JSON,見 PLAN.md §5.5 與 DECISIONS.md D4)
 const dictionary = require('../../assets/dict/dictionary.json') as Dictionary;
@@ -38,13 +39,21 @@ function stemCandidates(word: string): string[] {
       push(word.slice(0, -3)); // stopped → stop
     }
   }
+  if (word.endsWith('ier')) push(word.slice(0, -3) + 'y'); // happier → happy
+  if (word.endsWith('iest')) push(word.slice(0, -4) + 'y'); // easiest → easy
   if (word.endsWith('er')) {
     push(word.slice(0, -2));
     push(word.slice(0, -1)); // nicer → nice
+    if (word.length > 4 && word[word.length - 3] === word[word.length - 4]) {
+      push(word.slice(0, -3)); // bigger → big
+    }
   }
   if (word.endsWith('est')) {
     push(word.slice(0, -3));
     push(word.slice(0, -2)); // nicest → nice
+    if (word.length > 5 && word[word.length - 4] === word[word.length - 5]) {
+      push(word.slice(0, -4)); // biggest → big
+    }
   }
   if (word.endsWith('ly')) push(word.slice(0, -2));
   return c;
@@ -57,6 +66,11 @@ export function lookupWord(raw: string): DictLookupResult | null {
 
   const direct = dictionary[word];
   if (direct) return { entry: direct, matchedWord: word };
+
+  const irregular = IRREGULARS[word];
+  if (irregular && dictionary[irregular]) {
+    return { entry: dictionary[irregular], matchedWord: irregular };
+  }
 
   for (const candidate of stemCandidates(word)) {
     const hit = dictionary[candidate];
