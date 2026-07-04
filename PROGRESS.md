@@ -44,4 +44,10 @@
 - [x] [M3-T4] 取文順序:快取 → 自家 endpoint(依 level/topic)→ 種子 fallback
 - [ ] [M3-驗收] 部署 Worker 並在 app.json 填入 contentEndpoint 後,App 可取得新文章(程式完成,待 Eric 部署與真機驗證)
 
-## Milestone 4 — 上架準備(選配,未開始)
+## Milestone 4 — 上架準備(選配)
+
+- [x] [M4-T1] App icon / Android adaptive icon / splash(scripts/gen-assets.js 產生,計時圓環品牌視覺)
+- [x] [M4-T2] app.json 上架欄位(bundleIdentifier / package / splash 深淺色)
+- [x] [M4-T3] eas.json(development / preview / production profiles)
+- [x] [M4-T4] 隱私政策草稿(PRIVACY.md)
+- [ ] [M4-驗收] EAS 產出可安裝包 + TestFlight/Play 內測(需 Eric 的 Expo/Apple/Google 帳號:`npx eas build -p android --profile preview`)
