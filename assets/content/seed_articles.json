@@ -1,0 +1,22 @@
+[
+  {
+    "id": "seed-000",
+    "level": "intermediate",
+    "topic": "life",
+    "title_en": "Placeholder Article",
+    "title_zh": "佔位文章(內容生成中)",
+    "sentences": [
+      { "en": "This is a placeholder article.", "zh": "這是一篇佔位文章。" },
+      { "en": "The real seed content is being generated.", "zh": "真正的種子內容正在生成中。" }
+    ],
+    "word_count": 13,
+    "est_minutes": 1,
+    "quiz": [
+      {
+        "q": "What is this article?",
+        "options": ["A news report", "A placeholder", "A poem", "A recipe"],
+        "answer": 1
+      }
+    ]
+  }
+]
